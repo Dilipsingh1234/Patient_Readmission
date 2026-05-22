@@ -1,0 +1,1601 @@
+season,age,gender,region,primary_diagnosis,comorbidities_count,length_of_stay,treatment_type,medications_count,followup_visits_last_year,prev_readmissions,insurance_type,discharge_disposition,admission_year,admission_month,admission_day,admission_dayofweek,label
+Spring,69,Female,South,Kidney Disease,6,7,Surgical,10,8,2,Medicare,Skilled Nursing,2021,5,10,0,1
+Summer,84,Female,South,Diabetes,6,7,Surgical,10,4,2,Medicare,Skilled Nursing,2021,6,23,2,1
+Summer,95,Female,West,Hypertension,6,7,Medical,11,4,2,Medicare,Skilled Nursing,2021,7,18,6,1
+Summer,70,Male,East,Stroke,6,9,Surgical,10,6,2,Medicare,Skilled Nursing,2021,6,14,0,1
+Winter,57,Male,Central,Heart Failure,6,11,Medical,10,3,2,Medicaid,Skilled Nursing,2023,1,9,0,1
+Winter,55,Male,South,Sepsis,5,11,Surgical,8,4,1,Private,Home Health,2022,2,6,6,1
+Summer,50,Male,North,Kidney Disease,4,8,Interventional,8,3,1,Private,Home Health,2022,6,21,1,1
+Summer,70,Male,North,Hypertension,6,5,Medical,10,4,2,Medicare,Skilled Nursing,2021,7,24,5,1
+Spring,58,Female,East,Hypertension,5,5,Medical,8,2,1,Private,Home Health,2023,5,19,4,1
+Winter,66,Male,South,Pneumonia,5,8,Medical,8,5,1,Medicare,Home Health,2021,1,19,1,1
+Spring,51,Male,South,Kidney Disease,3,7,Surgical,6,4,1,Uninsured,Home Health,2021,4,26,0,0
+Fall,39,Female,Central,Hypertension,6,6,Conservative,9,3,2,Private,Skilled Nursing,2023,11,19,6,1
+Spring,60,Male,West,Stroke,6,9,Medical,10,5,2,Medicaid,Skilled Nursing,2021,3,24,2,1
+Winter,70,Male,West,Heart Failure,5,9,Interventional,8,5,2,Medicare,Home Health,2021,1,8,4,1
+Fall,36,Female,North,Stroke,2,8,Interventional,4,2,0,Uninsured,Home,2023,10,5,3,0
+Fall,53,Female,Central,Kidney Disease,4,8,Medical,7,2,1,Private,Home Health,2022,9,10,5,1
+Winter,46,Male,East,Hypertension,4,6,Conservative,7,4,1,Private,Home Health,2021,12,12,6,0
+Winter,92,Female,South,Influenza,7,8,Medical,12,5,4,Medicare,Skilled Nursing,2022,2,18,4,1
+Winter,44,Female,West,Sepsis,3,10,Conservative,4,2,1,Uninsured,Home Health,2023,2,3,4,1
+Winter,48,Male,West,Heart Failure,3,9,Conservative,6,2,2,Medicaid,Home Health,2021,1,5,1,1
+Spring,61,Male,North,Hypertension,4,6,Medical,6,3,1,Private,Home Health,2023,3,26,6,1
+Winter,43,Male,East,Stroke,4,12,Medical,7,2,1,Medicaid,Home Health,2021,2,18,3,0
+Fall,79,Male,Central,Diabetes,5,7,Medical,8,5,2,Medicare,Home Health,2021,10,30,5,1
+Winter,61,Female,South,Heart Failure,4,10,Surgical,7,5,1,Private,Home Health,2023,2,21,1,1
+Spring,49,Female,East,Kidney Disease,3,7,Medical,6,4,1,Private,Home Health,2021,4,16,4,1
+Winter,68,Female,North,Sepsis,5,12,Conservative,8,6,1,Medicare,Home Health,2023,1,8,6,1
+Winter,20,Male,South,Diabetes,2,5,Medical,5,2,0,Private,Home,2023,12,18,0,0
+Fall,55,Male,South,Diabetes,4,6,Interventional,6,4,3,Private,Home Health,2021,9,19,6,1
+Fall,48,Male,South,Diabetes,3,7,Medical,4,2,2,Private,Home Health,2022,10,9,6,1
+Fall,48,Male,East,Diabetes,5,7,Medical,8,2,1,Private,Home Health,2022,10,21,4,0
+Winter,55,Male,East,Pneumonia,5,8,Medical,8,2,1,Private,Home Health,2023,12,12,1,1
+Winter,38,Female,West,Pneumonia,3,7,Surgical,6,2,1,Private,Home Health,2021,12,26,6,0
+Winter,90,Male,West,Sepsis,8,11,Surgical,13,8,5,Medicare,Skilled Nursing,2023,12,19,1,1
+Summer,55,Female,South,Sepsis,4,10,Surgical,8,4,1,Private,Home Health,2022,6,9,3,1
+Winter,25,Male,North,Pneumonia,2,9,Conservative,3,2,0,Private,Skilled Nursing,2022,2,6,6,1
+Summer,43,Male,East,Stroke,4,9,Surgical,6,2,1,Uninsured,Home Health,2022,8,15,0,1
+Spring,54,Female,West,Hypertension,4,8,Surgical,7,2,1,Private,Home Health,2021,4,12,0,0
+Spring,54,Male,South,Stroke,4,10,Interventional,6,3,1,Uninsured,Home Health,2022,4,26,1,1
+Fall,47,Female,East,Diabetes,5,6,Medical,8,4,1,Uninsured,Home Health,2021,9,3,4,0
+Spring,77,Male,Central,Kidney Disease,6,7,Surgical,9,4,2,Medicare,Skilled Nursing,2021,5,2,6,1
+Fall,68,Male,South,Diabetes,5,7,Surgical,8,5,1,Medicare,Home Health,2022,11,10,3,1
+Winter,54,Female,South,Pneumonia,5,10,Medical,8,4,1,Private,Home Health,2023,2,21,1,1
+Spring,67,Female,West,Appendicitis,5,7,Interventional,8,5,1,Medicare,Home Health,2022,3,11,4,1
+Winter,52,Male,South,Influenza,3,8,Conservative,8,2,3,Private,Home Health,2022,12,21,2,1
+Winter,22,Male,West,COPD,2,7,Surgical,5,2,0,Medicaid,Home,2023,2,13,0,0
+Winter,69,Female,Central,Heart Failure,5,10,Medical,8,5,1,Medicare,Home Health,2022,12,16,4,1
+Summer,58,Male,Central,Diabetes,6,6,Surgical,11,3,2,Private,Skilled Nursing,2022,8,1,0,0
+Fall,50,Female,South,Diabetes,3,5,Conservative,6,2,1,Private,Home Health,2023,10,19,3,1
+Fall,91,Male,Central,Diabetes,6,8,Medical,9,6,2,Medicare,Skilled Nursing,2023,10,19,3,1
+Fall,72,Female,South,COPD,6,8,Surgical,11,6,2,Medicare,Skilled Nursing,2021,10,20,2,1
+Spring,39,Female,South,Hypertension,3,5,Conservative,4,2,1,Private,Home Health,2021,5,5,2,1
+Summer,89,Female,Central,Hypertension,6,6,Interventional,9,4,2,Medicare,Skilled Nursing,2021,7,6,1,1
+Fall,52,Female,North,Diabetes,3,6,Medical,6,2,1,Private,Home Health,2023,10,24,1,0
+Spring,59,Female,East,Diabetes,4,8,Medical,7,2,1,Medicaid,Home Health,2022,5,24,1,1
+Fall,69,Female,West,Hypertension,6,5,Surgical,10,6,2,Medicare,Skilled Nursing,2023,11,10,4,1
+Fall,84,Female,South,Kidney Disease,6,8,Medical,11,4,4,Medicare,Skilled Nursing,2022,11,25,4,1
+Fall,58,Female,East,Kidney Disease,4,7,Interventional,6,3,1,Medicaid,Home Health,2023,10,1,6,1
+Fall,68,Male,East,Kidney Disease,5,7,Surgical,8,4,1,Medicare,Home Health,2022,10,12,2,1
+Fall,45,Male,North,Hypertension,3,4,Interventional,6,4,1,Private,Home Health,2021,11,30,1,0
+Spring,33,Male,Central,Kidney Disease,2,8,Medical,4,2,0,Uninsured,Home Health,2022,3,27,6,0
+Summer,49,Male,North,Diabetes,3,6,Medical,6,2,2,Private,Home Health,2021,7,15,3,0
+Summer,51,Male,East,Appendicitis,3,5,Medical,6,2,1,Private,Home Health,2023,6,30,4,1
+Spring,77,Female,Central,Kidney Disease,5,7,Medical,8,5,3,Medicare,Home Health,2021,5,2,6,1
+Fall,31,Male,Central,Stroke,2,8,Interventional,3,3,0,Medicaid,Rehab,2022,10,22,5,0
+Fall,71,Male,North,Hypertension,5,7,Medical,8,4,3,Medicare,Home Health,2023,9,6,2,1
+Winter,95,Male,East,Pneumonia,7,10,Medical,10,6,4,Medicare,Skilled Nursing,2021,12,15,2,1
+Spring,54,Male,Central,Fracture,5,9,Conservative,12,2,3,Medicaid,Home Health,2023,4,4,1,1
+Summer,62,Female,Central,Diabetes,4,6,Medical,7,2,4,Medicaid,Home Health,2023,6,18,6,1
+Fall,80,Male,South,Stroke,5,9,Interventional,8,5,2,Medicare,Home Health,2022,11,4,4,1
+Summer,45,Female,West,Fracture,4,7,Interventional,6,4,1,Private,Home Health,2023,6,14,2,1
+Winter,34,Male,South,Heart Failure,2,8,Interventional,3,4,0,Uninsured,Home Health,2022,12,22,3,0
+Spring,48,Female,East,Hypertension,3,4,Medical,4,4,1,Private,Home Health,2023,4,11,1,0
+Summer,56,Female,North,Fracture,4,8,Interventional,7,2,2,Private,Home Health,2022,6,23,3,1
+Winter,42,Female,East,Heart Failure,4,10,Medical,9,3,1,Uninsured,Home Health,2021,1,10,6,1
+Summer,36,Male,North,Hypertension,3,4,Medical,8,2,1,Private,Home Health,2022,7,25,0,0
+Winter,39,Male,East,COPD,3,7,Medical,4,2,2,Private,Home Health,2021,2,7,6,1
+Summer,57,Male,South,Diabetes,5,10,Surgical,8,4,1,Private,Home Health,2023,8,13,6,1
+Spring,69,Female,North,Stroke,6,10,Medical,9,6,2,Medicare,Skilled Nursing,2022,3,18,4,1
+Summer,43,Female,Central,Sepsis,4,10,Conservative,6,4,1,Private,Home Health,2022,8,30,1,1
+Fall,62,Female,West,Kidney Disease,4,8,Interventional,7,2,2,Uninsured,Home Health,2022,11,10,3,1
+Fall,72,Male,South,COPD,5,9,Medical,8,4,3,Medicare,Home Health,2022,10,22,5,1
+Fall,52,Male,Central,COPD,3,7,Surgical,6,6,1,Private,Home Health,2021,9,14,1,1
+Winter,42,Female,Central,Heart Failure,3,8,Surgical,4,2,1,Medicaid,Home Health,2021,12,23,3,1
+Winter,53,Female,West,Sepsis,4,10,Surgical,7,3,1,Private,Home Health,2023,1,25,2,1
+Summer,62,Male,South,Appendicitis,5,6,Surgical,8,4,1,Uninsured,Home Health,2021,8,29,6,1
+Summer,66,Female,East,Kidney Disease,4,7,Interventional,8,4,1,Medicare,Home Health,2022,8,18,3,0
+Summer,42,Male,North,Hypertension,3,7,Conservative,6,2,1,Medicaid,Home Health,2023,8,2,2,0
+Spring,73,Female,Central,Stroke,6,10,Medical,11,4,4,Medicare,Skilled Nursing,2023,4,26,2,1
+Summer,64,Female,Central,COPD,6,11,Surgical,10,6,2,Private,Skilled Nursing,2023,8,31,3,1
+Winter,76,Male,South,Pneumonia,5,11,Medical,8,4,2,Medicare,Home Health,2021,12,16,3,1
+Fall,55,Male,North,Diabetes,4,6,Medical,8,5,1,Private,Home Health,2023,11,7,1,0
+Summer,21,Male,North,Fracture,2,7,Surgical,3,2,0,Medicaid,Home Health,2022,7,18,0,0
+Summer,29,Female,Central,Diabetes,2,6,Surgical,4,1,0,Private,Home,2022,7,5,1,0
+Spring,42,Female,East,COPD,3,8,Medical,6,2,1,Medicaid,Home Health,2022,5,10,1,1
+Summer,61,Female,East,Kidney Disease,4,8,Interventional,6,5,1,Private,Home Health,2021,6,17,3,1
+Fall,54,Male,South,Stroke,7,10,Medical,12,4,2,Private,Skilled Nursing,2022,10,9,6,1
+Spring,33,Female,North,Diabetes,2,5,Interventional,3,1,2,Private,Home,2022,4,3,6,1
+Spring,76,Male,South,Sepsis,5,11,Interventional,10,5,2,Medicare,Home Health,2022,3,21,0,1
+Winter,18,Female,Central,Heart Failure,1,7,Interventional,2,0,0,Medicaid,Home,2022,2,11,4,0
+Spring,67,Female,South,Diabetes,4,6,Medical,10,4,1,Medicare,Home Health,2021,3,21,6,1
+Winter,67,Female,West,Pneumonia,4,10,Medical,7,4,1,Medicare,Home Health,2022,2,28,0,0
+Fall,89,Female,East,Diabetes,6,6,Medical,9,6,2,Medicare,Skilled Nursing,2023,11,26,6,1
+Fall,55,Female,West,Stroke,4,9,Medical,6,2,1,Uninsured,Home Health,2022,9,16,4,1
+Summer,95,Female,West,Hypertension,6,6,Surgical,9,6,4,Medicare,Skilled Nursing,2021,7,26,0,1
+Spring,68,Male,South,Hypertension,6,7,Medical,11,4,2,Medicare,Skilled Nursing,2021,3,7,6,1
+Summer,44,Male,South,Stroke,3,12,Interventional,6,4,1,Medicaid,Home Health,2023,6,19,0,1
+Spring,18,Male,South,Appendicitis,1,3,Interventional,2,0,0,Private,Home,2023,5,5,4,0
+Winter,69,Male,South,Influenza,7,7,Surgical,12,6,3,Medicare,Skilled Nursing,2021,12,31,4,1
+Fall,66,Female,West,Hypertension,5,7,Medical,10,5,1,Medicare,Home Health,2023,9,17,6,1
+Fall,66,Female,West,COPD,4,9,Interventional,6,6,2,Medicare,Home Health,2023,9,22,4,1
+Spring,65,Male,South,Hypertension,4,7,Interventional,6,4,1,Medicaid,Home Health,2022,5,14,5,0
+Spring,46,Female,East,Diabetes,4,8,Medical,7,3,2,Medicaid,Home Health,2021,5,13,3,0
+Spring,63,Male,North,Sepsis,5,10,Surgical,10,4,1,Private,Home Health,2023,4,4,1,1
+Fall,41,Male,East,Stroke,4,10,Surgical,6,3,1,Private,Home Health,2021,9,1,2,1
+Winter,54,Female,East,COPD,4,8,Interventional,6,2,2,Medicaid,Home Health,2022,2,9,2,1
+Fall,65,Male,Central,Appendicitis,5,6,Medical,8,4,3,Private,Home Health,2021,10,29,4,1
+Summer,19,Female,Central,Hypertension,2,7,Interventional,4,1,2,Uninsured,Home Health,2022,8,23,1,1
+Spring,48,Male,West,Fracture,3,7,Medical,4,2,2,Private,Home Health,2022,5,25,2,1
+Winter,71,Female,East,Influenza,5,10,Surgical,8,6,2,Medicare,Home Health,2021,12,16,3,1
+Summer,76,Female,West,Stroke,5,9,Interventional,8,5,2,Medicare,Home Health,2022,8,6,5,1
+Summer,18,Male,East,Appendicitis,1,3,Surgical,2,4,1,Private,Home,2021,8,30,0,1
+Summer,25,Male,North,Diabetes,3,5,Conservative,6,4,1,Private,Home Health,2021,7,2,4,0
+Spring,61,Female,East,Stroke,4,10,Medical,8,3,1,Uninsured,Home Health,2022,4,7,3,0
+Fall,37,Male,South,Hypertension,3,5,Medical,6,2,1,Private,Home Health,2023,9,10,6,0
+Spring,59,Male,South,Stroke,4,9,Medical,8,3,1,Medicaid,Home Health,2023,4,28,4,1
+Summer,61,Female,South,Fracture,4,9,Interventional,8,2,1,Private,Home Health,2023,8,28,0,1
+Fall,35,Male,East,Hypertension,3,5,Medical,4,2,1,Medicaid,Home Health,2023,9,24,6,0
+Summer,66,Female,West,Diabetes,5,6,Surgical,8,7,1,Medicare,Home Health,2021,8,3,1,1
+Spring,47,Female,Central,Hypertension,3,5,Medical,6,4,2,Medicaid,Home Health,2021,3,23,1,1
+Winter,54,Male,North,Heart Failure,4,9,Medical,7,2,2,Medicaid,Home Health,2022,2,7,0,1
+Fall,33,Male,South,Diabetes,2,6,Medical,4,2,0,Uninsured,Home,2022,10,17,0,0
+Fall,23,Male,West,Kidney Disease,2,6,Surgical,3,1,2,Medicaid,Home,2021,10,12,1,1
+Winter,71,Male,North,Influenza,5,7,Medical,10,4,2,Medicare,Home Health,2023,12,31,6,1
+Spring,41,Female,South,Diabetes,6,6,Medical,9,3,2,Private,Skilled Nursing,2021,4,21,2,1
+Winter,67,Female,South,Pneumonia,4,10,Surgical,6,6,2,Medicare,Home Health,2022,1,25,1,1
+Spring,25,Female,East,Stroke,3,9,Medical,4,4,1,Private,Home Health,2023,4,26,2,1
+Summer,37,Male,South,Diabetes,4,7,Medical,6,3,2,Medicaid,Home Health,2022,8,16,1,1
+Winter,46,Male,South,Pneumonia,3,7,Interventional,6,2,1,Private,Home Health,2021,12,27,0,0
+Summer,63,Female,South,Appendicitis,4,5,Conservative,8,4,1,Uninsured,Home Health,2022,6,16,3,1
+Fall,63,Female,East,Hypertension,4,8,Surgical,7,5,2,Private,Home Health,2023,10,8,6,0
+Winter,76,Female,South,Heart Failure,6,11,Interventional,9,6,2,Medicare,Skilled Nursing,2022,12,5,0,1
+Fall,47,Male,North,Hypertension,3,4,Medical,6,2,1,Private,Home Health,2021,10,10,6,0
+Fall,61,Female,South,Kidney Disease,4,10,Surgical,8,3,2,Uninsured,Home Health,2023,11,30,3,1
+Fall,77,Female,North,COPD,6,9,Medical,9,4,2,Medicare,Skilled Nursing,2021,9,13,0,1
+Winter,47,Female,North,Hypertension,3,7,Medical,4,2,1,Medicaid,Home Health,2022,1,2,6,0
+Fall,37,Female,Central,COPD,3,8,Interventional,4,2,2,Uninsured,Home Health,2021,9,30,3,1
+Winter,61,Male,Central,Influenza,4,6,Medical,8,2,1,Private,Home Health,2023,2,13,0,1
+Winter,45,Female,North,Sepsis,3,10,Surgical,6,2,2,Uninsured,Home Health,2021,12,6,0,1
+Fall,53,Male,North,Hypertension,4,5,Surgical,7,4,1,Medicaid,Home Health,2023,10,15,6,1
+Summer,63,Male,Central,COPD,5,9,Interventional,8,4,1,Private,Home Health,2021,8,22,6,1
+Fall,67,Female,South,COPD,4,8,Surgical,7,4,2,Medicare,Home Health,2022,10,21,4,1
+Winter,61,Female,North,Heart Failure,5,11,Medical,8,4,2,Private,Home Health,2022,1,2,6,1
+Spring,47,Male,South,COPD,4,10,Interventional,8,3,1,Uninsured,Home Health,2023,3,25,5,1
+Fall,66,Male,North,Kidney Disease,5,7,Medical,8,7,2,Medicare,Home Health,2021,11,12,4,1
+Summer,30,Female,North,Kidney Disease,2,7,Medical,4,2,2,Medicaid,Skilled Nursing,2023,7,24,0,1
+Summer,45,Male,East,Fracture,5,9,Surgical,8,2,1,Medicaid,Home Health,2023,6,19,0,0
+Spring,76,Female,East,Hypertension,6,7,Medical,9,4,2,Medicare,Skilled Nursing,2022,3,27,6,1
+Winter,66,Male,North,Influenza,4,8,Surgical,7,4,1,Medicare,Home Health,2021,12,18,5,0
+Spring,50,Male,East,Appendicitis,3,4,Surgical,6,2,1,Medicaid,Home Health,2021,4,22,3,0
+Spring,63,Male,West,Hypertension,4,6,Interventional,8,3,1,Uninsured,Home Health,2021,5,6,3,0
+Summer,62,Male,South,Sepsis,4,14,Medical,9,3,1,Private,Home Health,2023,6,26,0,1
+Spring,34,Male,North,Appendicitis,3,4,Interventional,6,2,1,Medicaid,Home Health,2023,4,20,3,0
+Summer,66,Male,North,Kidney Disease,4,7,Surgical,6,8,1,Medicare,Home Health,2023,7,23,6,1
+Summer,50,Female,South,Diabetes,3,7,Conservative,6,4,1,Private,Home Health,2022,8,9,1,1
+Summer,59,Female,West,Hypertension,4,7,Medical,8,3,1,Medicaid,Home Health,2022,6,3,4,0
+Fall,52,Female,East,Kidney Disease,4,8,Medical,7,2,1,Medicaid,Home Health,2023,10,4,2,1
+Winter,44,Female,Central,Hypertension,3,5,Medical,6,4,1,Private,Home Health,2021,12,20,0,1
+Fall,40,Male,Central,Diabetes,3,7,Interventional,6,2,2,Private,Home Health,2022,11,16,2,0
+Winter,73,Female,South,Pneumonia,6,10,Medical,10,6,2,Medicare,Skilled Nursing,2023,12,8,4,1
+Fall,49,Female,West,Stroke,3,14,Medical,4,4,1,Medicaid,Home Health,2022,9,7,2,1
+Winter,62,Male,East,Pneumonia,4,10,Medical,6,4,1,Uninsured,Home Health,2021,1,8,4,0
+Fall,53,Male,South,COPD,5,10,Medical,8,2,3,Private,Home Health,2021,11,6,5,1
+Spring,63,Female,West,Appendicitis,4,7,Medical,8,3,1,Private,Home Health,2021,5,16,6,1
+Winter,79,Female,North,Heart Failure,5,10,Medical,10,4,2,Medicare,Home Health,2021,2,13,5,1
+Summer,33,Female,North,Fracture,3,7,Medical,6,4,2,Medicaid,Home Health,2023,8,10,3,0
+Summer,50,Female,East,Stroke,3,8,Medical,6,2,1,Private,Home Health,2022,8,22,0,1
+Fall,73,Female,West,Fracture,6,8,Conservative,9,4,2,Medicare,Skilled Nursing,2021,10,12,1,1
+Summer,39,Male,South,Fracture,5,7,Surgical,10,4,1,Private,Home Health,2022,7,4,0,0
+Winter,55,Male,East,Hypertension,4,5,Surgical,6,5,1,Private,Home Health,2023,1,6,4,1
+Fall,32,Female,West,Hypertension,2,5,Medical,4,3,2,Uninsured,Home,2021,9,9,3,1
+Winter,50,Male,Central,COPD,4,12,Surgical,6,3,2,Private,Home Health,2023,2,13,0,1
+Summer,78,Male,West,Hypertension,7,6,Medical,10,6,4,Medicare,Skilled Nursing,2022,6,7,1,1
+Summer,32,Male,South,Appendicitis,2,6,Medical,3,1,0,Private,Home,2022,8,21,6,0
+Winter,54,Female,West,Sepsis,5,10,Surgical,8,2,1,Private,Home Health,2022,12,10,5,1
+Winter,32,Male,East,COPD,3,10,Interventional,4,2,1,Medicaid,Home Health,2022,2,4,4,1
+Fall,46,Female,East,Fracture,3,9,Surgical,6,2,1,Uninsured,Home Health,2021,10,16,5,0
+Spring,52,Female,South,Kidney Disease,3,8,Surgical,6,2,1,Private,Home Health,2023,5,25,3,1
+Fall,85,Female,South,Kidney Disease,6,8,Surgical,9,4,2,Medicare,Skilled Nursing,2021,9,20,0,1
+Winter,41,Female,East,COPD,3,9,Medical,6,4,1,Private,Home Health,2023,12,17,6,1
+Spring,29,Male,North,Hypertension,2,6,Conservative,4,1,0,Private,Home Health,2021,3,24,2,1
+Fall,50,Male,Central,Diabetes,4,7,Medical,7,2,1,Uninsured,Home Health,2021,11,16,1,0
+Winter,80,Female,East,COPD,5,8,Medical,8,5,2,Medicare,Home Health,2023,1,27,4,1
+Summer,59,Female,South,Diabetes,4,6,Surgical,6,3,1,Private,Home Health,2022,8,7,6,1
+Summer,58,Female,East,COPD,5,8,Medical,8,4,1,Uninsured,Home Health,2022,8,22,0,1
+Fall,66,Male,East,Kidney Disease,4,7,Interventional,7,4,1,Medicare,Home Health,2022,10,9,6,1
+Fall,49,Male,South,COPD,5,9,Surgical,8,4,2,Medicaid,Home Health,2022,10,7,4,1
+Fall,48,Female,Central,Appendicitis,5,5,Medical,8,4,1,Uninsured,Home Health,2023,9,28,3,1
+Winter,75,Female,North,COPD,5,9,Medical,10,5,2,Medicare,Home Health,2021,2,5,4,1
+Winter,71,Male,East,Heart Failure,6,10,Medical,10,8,2,Medicare,Skilled Nursing,2021,12,5,6,1
+Spring,48,Male,East,Diabetes,3,5,Surgical,4,2,1,Medicaid,Home Health,2021,3,27,5,1
+Winter,30,Male,South,Sepsis,3,12,Medical,4,2,1,Uninsured,Home Health,2022,12,24,5,1
+Fall,67,Female,East,Diabetes,5,6,Medical,8,5,2,Medicare,Home Health,2023,10,1,6,1
+Fall,87,Male,North,Fracture,8,9,Medical,12,6,3,Medicare,Skilled Nursing,2021,9,20,0,1
+Spring,58,Female,South,Hypertension,4,6,Conservative,6,2,1,Private,Home Health,2021,4,19,0,1
+Winter,75,Female,West,Diabetes,5,6,Medical,8,6,3,Medicare,Home Health,2022,1,7,4,1
+Summer,75,Female,South,Kidney Disease,5,8,Medical,8,5,3,Medicare,Home Health,2021,7,30,4,1
+Spring,40,Female,South,Fracture,4,8,Medical,7,2,1,Private,Home Health,2021,5,18,1,0
+Fall,53,Male,South,Diabetes,6,9,Interventional,9,4,2,Private,Skilled Nursing,2023,11,10,4,1
+Winter,77,Male,East,Pneumonia,5,8,Surgical,10,4,2,Medicare,Home Health,2023,12,22,4,1
+Fall,66,Male,East,Diabetes,4,6,Medical,9,4,2,Medicare,Home Health,2023,11,4,5,1
+Winter,42,Male,North,Sepsis,3,9,Medical,6,2,1,Uninsured,Home Health,2023,2,24,4,0
+Fall,68,Female,North,Kidney Disease,6,8,Surgical,9,8,2,Medicare,Skilled Nursing,2022,11,21,0,1
+Winter,59,Female,South,Heart Failure,4,10,Surgical,8,5,3,Uninsured,Home Health,2021,1,11,0,1
+Spring,95,Female,South,COPD,8,9,Interventional,13,8,3,Medicare,Skilled Nursing,2022,3,2,2,1
+Fall,22,Female,South,Stroke,3,9,Conservative,6,2,2,Medicaid,Home Health,2021,9,9,3,1
+Winter,50,Female,West,Sepsis,3,10,Medical,6,2,2,Private,Home Health,2023,12,3,6,1
+Winter,54,Female,South,Pneumonia,4,8,Interventional,8,3,1,Medicaid,Home Health,2021,2,1,0,0
+Fall,73,Male,Central,Hypertension,6,5,Interventional,11,6,4,Medicare,Skilled Nursing,2023,11,21,1,1
+Winter,83,Female,North,COPD,6,10,Surgical,10,6,2,Medicare,Skilled Nursing,2021,1,6,2,1
+Winter,58,Female,East,Heart Failure,5,10,Medical,8,4,1,Private,Home Health,2023,1,2,0,1
+Fall,86,Male,East,Fracture,7,10,Interventional,10,6,3,Medicare,Skilled Nursing,2023,11,16,3,1
+Spring,80,Male,Central,Hypertension,5,6,Conservative,8,6,2,Medicare,Home Health,2022,3,25,4,1
+Summer,65,Male,North,Diabetes,4,7,Medical,10,3,1,Medicaid,Home Health,2021,7,20,1,1
+Spring,61,Male,North,Hypertension,5,8,Interventional,8,2,2,Private,Home Health,2022,3,3,3,1
+Winter,59,Male,South,Influenza,4,6,Interventional,6,2,2,Uninsured,Home Health,2021,2,11,3,1
+Spring,24,Female,North,Stroke,2,9,Medical,5,3,2,Medicaid,Skilled Nursing,2021,5,27,3,0
+Winter,67,Female,East,COPD,5,9,Interventional,8,4,1,Medicare,Home Health,2022,1,1,5,1
+Spring,32,Male,Central,Stroke,2,9,Medical,3,1,0,Uninsured,Home,2021,3,29,0,0
+Spring,46,Female,Central,Diabetes,4,7,Medical,6,3,2,Medicaid,Home Health,2021,5,16,6,0
+Winter,59,Female,Central,Influenza,4,6,Interventional,7,3,1,Medicaid,Home Health,2022,12,19,0,0
+Fall,93,Female,South,Stroke,6,10,Surgical,10,6,2,Medicare,Skilled Nursing,2021,10,21,3,1
+Fall,76,Female,South,Stroke,5,13,Medical,12,4,2,Medicare,Home Health,2022,10,7,4,1
+Fall,84,Female,North,Stroke,7,10,Medical,12,5,3,Medicare,Skilled Nursing,2023,9,25,0,1
+Fall,82,Male,North,Fracture,5,10,Medical,8,5,3,Medicare,Home Health,2022,9,1,3,0
+Summer,59,Female,South,Hypertension,5,5,Interventional,10,4,1,Private,Home Health,2022,8,23,1,1
+Fall,47,Female,East,Diabetes,3,5,Surgical,6,2,1,Uninsured,Home Health,2023,10,1,6,1
+Winter,44,Female,West,Sepsis,3,10,Interventional,6,2,1,Uninsured,Home Health,2022,12,8,3,1
+Spring,45,Female,Central,Diabetes,4,8,Medical,6,2,3,Uninsured,Home Health,2023,3,9,3,1
+Spring,67,Female,North,Kidney Disease,4,8,Medical,7,4,1,Medicare,Home Health,2021,4,21,2,1
+Winter,72,Female,North,Hypertension,6,8,Interventional,9,6,2,Medicare,Skilled Nursing,2022,12,17,5,1
+Winter,77,Female,West,Pneumonia,10,11,Interventional,15,8,4,Medicare,Skilled Nursing,2022,1,3,0,1
+Winter,61,Female,South,Diabetes,4,6,Medical,8,3,1,Private,Home Health,2021,12,6,0,0
+Summer,46,Female,South,COPD,3,7,Medical,6,4,1,Private,Home Health,2023,7,26,2,1
+Winter,27,Male,East,Pneumonia,2,8,Surgical,4,2,0,Private,Skilled Nursing,2022,1,24,0,0
+Summer,44,Male,South,Appendicitis,3,5,Medical,6,2,1,Medicaid,Home Health,2021,7,20,1,0
+Spring,74,Male,Central,Diabetes,5,6,Medical,8,4,2,Medicare,Home Health,2021,5,16,6,1
+Summer,49,Female,West,Stroke,3,9,Medical,4,4,1,Private,Home Health,2021,7,27,1,1
+Summer,57,Female,East,Stroke,4,9,Interventional,8,3,2,Private,Home Health,2022,7,12,1,1
+Winter,46,Female,North,COPD,4,9,Surgical,8,4,2,Private,Home Health,2022,1,4,1,0
+Fall,61,Male,North,Diabetes,4,6,Surgical,10,2,1,Uninsured,Home Health,2022,9,16,4,1
+Fall,77,Female,West,Kidney Disease,5,8,Surgical,8,7,2,Medicare,Home Health,2022,9,10,5,1
+Fall,18,Female,North,Hypertension,1,3,Conservative,4,0,0,Uninsured,Home,2021,9,3,4,0
+Fall,67,Male,West,Diabetes,5,9,Conservative,10,5,2,Medicare,Home Health,2021,9,15,2,1
+Winter,50,Male,Central,Pneumonia,4,10,Surgical,6,2,1,Uninsured,Home Health,2022,2,15,1,1
+Winter,75,Male,East,COPD,6,9,Surgical,9,8,2,Medicare,Skilled Nursing,2021,12,17,4,1
+Spring,53,Male,West,Fracture,4,8,Interventional,6,4,1,Private,Home Health,2021,5,19,2,1
+Spring,60,Female,South,Appendicitis,4,6,Surgical,6,2,1,Medicaid,Home Health,2022,5,22,6,1
+Winter,64,Female,Central,Heart Failure,4,10,Medical,6,3,1,Medicaid,Home Health,2021,12,8,2,1
+Fall,67,Male,East,Kidney Disease,4,7,Medical,6,8,1,Medicare,Home Health,2021,11,3,2,1
+Winter,51,Male,East,Stroke,6,10,Medical,10,3,2,Private,Skilled Nursing,2022,2,28,0,1
+Summer,71,Female,North,Hypertension,5,7,Medical,10,5,2,Medicare,Home Health,2022,8,18,3,1
+Fall,50,Female,East,Appendicitis,4,5,Conservative,7,5,1,Uninsured,Home Health,2023,9,8,4,0
+Summer,93,Female,North,Fracture,7,8,Medical,12,5,4,Medicare,Skilled Nursing,2023,8,30,2,1
+Summer,77,Male,East,Appendicitis,5,7,Surgical,8,5,3,Medicare,Home Health,2021,7,23,4,1
+Summer,18,Female,North,Diabetes,2,7,Medical,4,1,2,Private,Home,2021,7,8,3,0
+Summer,78,Female,Central,Hypertension,5,5,Medical,8,4,3,Medicare,Home Health,2021,7,22,3,1
+Winter,40,Female,Central,COPD,4,8,Surgical,8,5,2,Private,Home Health,2023,2,26,6,1
+Summer,85,Male,Central,Diabetes,6,8,Surgical,11,6,2,Medicare,Skilled Nursing,2023,8,20,6,1
+Spring,73,Female,South,COPD,5,9,Medical,8,6,2,Medicare,Home Health,2023,3,16,3,1
+Spring,18,Male,South,Stroke,2,9,Interventional,3,1,2,Private,Home,2022,4,26,1,1
+Spring,68,Female,East,Diabetes,5,7,Conservative,8,4,1,Medicare,Home Health,2021,3,25,3,1
+Winter,39,Female,South,COPD,3,9,Surgical,8,4,1,Private,Home Health,2021,12,17,4,1
+Summer,70,Female,West,Diabetes,7,8,Interventional,10,6,2,Medicare,Skilled Nursing,2021,7,28,2,1
+Winter,43,Male,South,COPD,4,8,Medical,6,3,1,Medicaid,Home Health,2021,1,30,5,0
+Summer,57,Male,South,Kidney Disease,5,10,Surgical,10,4,1,Medicaid,Home Health,2021,8,16,0,1
+Summer,55,Male,East,Stroke,4,9,Conservative,6,2,2,Private,Home Health,2022,8,16,1,1
+Winter,58,Female,South,Influenza,6,9,Medical,12,3,2,Medicaid,Skilled Nursing,2021,1,20,2,1
+Summer,36,Female,Central,COPD,3,8,Medical,6,2,1,Uninsured,Home Health,2022,6,17,4,1
+Summer,82,Female,West,Fracture,6,7,Medical,9,8,4,Medicare,Skilled Nursing,2022,8,19,4,1
+Spring,54,Female,Central,Diabetes,4,7,Interventional,7,2,1,Medicaid,Home Health,2021,3,24,2,0
+Spring,31,Male,North,Stroke,3,9,Interventional,6,2,1,Medicaid,Home Health,2022,3,20,6,1
+Summer,69,Male,West,Fracture,6,7,Surgical,11,6,4,Medicare,Skilled Nursing,2021,6,16,2,1
+Summer,33,Male,North,Diabetes,2,7,Conservative,5,1,0,Uninsured,Home,2022,6,9,3,0
+Winter,28,Female,South,Influenza,2,5,Medical,5,1,2,Uninsured,Home,2021,12,15,2,1
+Summer,50,Male,South,Sepsis,3,10,Conservative,6,2,1,Uninsured,Home Health,2022,7,7,3,1
+Fall,48,Female,Central,Hypertension,3,4,Interventional,6,4,1,Private,Home Health,2022,9,2,4,0
+Fall,74,Female,North,Appendicitis,7,7,Interventional,14,8,3,Medicare,Skilled Nursing,2023,11,15,2,1
+Spring,51,Female,South,Stroke,3,8,Conservative,6,2,2,Private,Home Health,2022,4,4,0,1
+Fall,40,Male,East,Hypertension,3,5,Interventional,6,2,1,Private,Home Health,2021,11,7,6,0
+Winter,28,Female,South,COPD,3,7,Surgical,8,2,1,Medicaid,Home Health,2021,12,14,1,0
+Spring,63,Female,North,COPD,4,11,Conservative,6,3,1,Medicaid,Home Health,2021,3,30,1,1
+Fall,46,Female,South,Kidney Disease,4,7,Medical,7,4,1,Medicaid,Home Health,2023,11,10,4,0
+Spring,74,Male,South,Appendicitis,5,7,Medical,8,6,2,Medicare,Home Health,2021,5,13,3,1
+Summer,65,Male,North,Appendicitis,5,5,Medical,8,4,2,Private,Home Health,2021,7,7,2,1
+Summer,28,Female,East,Stroke,3,8,Medical,4,4,3,Medicaid,Home Health,2022,8,9,1,1
+Summer,81,Male,West,Sepsis,5,12,Medical,10,5,2,Medicare,Home Health,2023,8,13,6,1
+Winter,53,Female,East,Sepsis,4,11,Surgical,6,3,2,Private,Home Health,2023,1,10,1,1
+Summer,54,Female,East,Sepsis,4,11,Interventional,6,4,1,Medicaid,Home Health,2021,6,11,4,1
+Fall,81,Female,West,COPD,6,10,Medical,9,6,4,Medicare,Skilled Nursing,2023,9,11,0,1
+Summer,73,Male,Central,Diabetes,6,6,Medical,9,6,2,Medicare,Skilled Nursing,2022,6,28,1,1
+Winter,68,Male,Central,Influenza,5,6,Medical,10,5,1,Medicare,Home Health,2023,2,3,4,1
+Spring,71,Female,West,Diabetes,5,6,Conservative,10,4,2,Medicare,Home Health,2021,4,17,5,1
+Spring,76,Female,East,Hypertension,5,6,Surgical,10,6,2,Medicare,Home Health,2022,5,23,0,1
+Winter,55,Female,Central,Heart Failure,4,9,Medical,6,3,1,Private,Home Health,2021,2,9,1,1
+Winter,51,Male,East,Heart Failure,3,12,Medical,4,4,1,Uninsured,Home Health,2022,12,8,3,1
+Winter,69,Male,East,COPD,6,9,Interventional,9,4,2,Medicare,Skilled Nursing,2022,12,16,4,1
+Spring,51,Male,East,Stroke,4,13,Conservative,7,3,1,Private,Home Health,2022,4,19,1,0
+Spring,43,Male,West,Diabetes,3,6,Medical,6,2,1,Medicaid,Home Health,2022,5,11,2,1
+Spring,59,Male,North,Hypertension,5,5,Interventional,10,4,1,Medicaid,Home Health,2023,4,11,1,1
+Summer,70,Female,North,Stroke,5,10,Surgical,10,5,1,Medicare,Home Health,2021,6,6,6,1
+Winter,55,Female,South,Diabetes,4,8,Medical,6,4,1,Private,Home Health,2023,2,12,6,1
+Winter,46,Female,North,Diabetes,3,6,Medical,6,2,1,Private,Home Health,2023,12,20,2,0
+Spring,39,Male,South,Diabetes,3,5,Medical,6,4,3,Private,Home Health,2023,4,23,6,1
+Fall,24,Female,North,Fracture,2,8,Surgical,4,2,2,Private,Skilled Nursing,2022,9,26,0,0
+Summer,65,Male,East,Diabetes,6,8,Surgical,11,4,2,Private,Skilled Nursing,2021,7,4,6,1
+Winter,72,Female,West,Diabetes,5,8,Conservative,8,5,2,Medicare,Home Health,2022,2,7,0,1
+Winter,47,Male,East,Stroke,3,9,Surgical,6,2,2,Private,Home Health,2021,12,7,1,1
+Fall,46,Female,East,Diabetes,3,6,Interventional,6,2,1,Uninsured,Home Health,2022,10,8,5,1
+Summer,59,Female,East,Diabetes,5,8,Medical,8,4,2,Private,Home Health,2022,8,12,4,1
+Winter,45,Female,West,Heart Failure,3,9,Surgical,6,2,1,Private,Home Health,2021,1,28,3,0
+Winter,60,Male,South,COPD,5,9,Interventional,10,4,1,Private,Home Health,2021,2,8,0,1
+Spring,56,Male,West,Hypertension,6,6,Surgical,11,5,2,Medicaid,Skilled Nursing,2021,4,21,2,1
+Summer,69,Female,South,Diabetes,5,6,Surgical,8,5,1,Medicare,Home Health,2022,6,20,0,1
+Winter,49,Female,South,Heart Failure,3,8,Surgical,6,4,1,Private,Home Health,2023,1,22,6,0
+Spring,89,Male,South,Kidney Disease,6,9,Medical,9,6,4,Medicare,Skilled Nursing,2023,5,16,1,1
+Summer,63,Female,South,Kidney Disease,5,8,Surgical,10,2,2,Private,Home Health,2023,7,18,1,1
+Spring,58,Male,North,Hypertension,4,7,Interventional,6,3,1,Private,Home Health,2023,4,28,4,0
+Spring,58,Female,North,Kidney Disease,4,8,Interventional,7,2,2,Private,Home Health,2022,5,11,2,1
+Winter,95,Male,South,Heart Failure,6,9,Medical,9,4,2,Medicare,Skilled Nursing,2022,12,6,1,1
+Winter,85,Female,West,Heart Failure,7,12,Interventional,12,5,5,Medicare,Skilled Nursing,2022,12,23,4,1
+Winter,71,Female,North,COPD,7,12,Medical,12,5,5,Medicare,Skilled Nursing,2021,1,1,4,1
+Fall,43,Female,North,Diabetes,4,8,Surgical,7,5,2,Medicaid,Home Health,2022,10,13,3,1
+Fall,56,Female,Central,COPD,4,9,Medical,6,3,1,Private,Home Health,2021,10,4,0,1
+Winter,63,Male,South,Sepsis,4,10,Medical,7,5,2,Uninsured,Home Health,2022,12,28,2,1
+Winter,68,Female,North,COPD,5,9,Interventional,8,4,1,Medicare,Home Health,2021,1,1,4,1
+Winter,43,Male,East,Sepsis,3,9,Medical,4,2,2,Uninsured,Home Health,2022,12,6,1,1
+Winter,49,Female,East,Pneumonia,5,9,Medical,10,2,1,Medicaid,Home Health,2023,12,15,4,0
+Fall,18,Female,North,Kidney Disease,2,6,Surgical,3,2,0,Private,Home,2022,9,12,0,0
+Spring,47,Female,North,Hypertension,4,6,Conservative,7,5,1,Private,Home Health,2023,3,3,4,1
+Summer,62,Male,East,Kidney Disease,4,7,Interventional,6,2,1,Medicaid,Home Health,2021,6,4,4,1
+Fall,49,Female,West,COPD,3,8,Medical,6,2,1,Private,Home Health,2021,9,14,1,1
+Spring,58,Female,South,Appendicitis,4,5,Interventional,7,4,2,Uninsured,Home Health,2023,5,29,0,1
+Winter,47,Male,North,Stroke,5,9,Surgical,8,4,1,Private,Home Health,2023,12,8,4,1
+Spring,25,Female,East,Diabetes,3,5,Conservative,4,2,1,Medicaid,Home Health,2022,3,19,5,1
+Spring,73,Male,Central,Kidney Disease,5,9,Medical,10,5,2,Medicare,Home Health,2023,3,10,4,1
+Winter,31,Female,North,COPD,2,8,Medical,5,2,0,Private,Home,2023,1,13,4,0
+Fall,55,Female,North,Diabetes,6,8,Surgical,9,3,2,Medicaid,Skilled Nursing,2023,10,28,5,0
+Winter,48,Female,Central,Influenza,4,7,Medical,6,2,1,Private,Home Health,2021,12,29,2,0
+Spring,85,Female,West,Hypertension,6,5,Interventional,9,4,2,Medicare,Skilled Nursing,2023,4,21,4,1
+Spring,45,Male,West,COPD,3,8,Medical,6,2,1,Uninsured,Home Health,2022,3,16,2,1
+Summer,74,Female,West,COPD,6,10,Medical,10,6,2,Medicare,Skilled Nursing,2023,7,26,2,0
+Spring,47,Female,Central,Diabetes,4,8,Interventional,11,3,1,Private,Home Health,2022,5,26,3,0
+Spring,58,Female,North,Hypertension,4,7,Surgical,7,3,2,Private,Home Health,2023,4,6,3,1
+Summer,54,Female,East,Hypertension,6,6,Surgical,11,6,2,Private,Skilled Nursing,2021,7,31,5,1
+Summer,95,Female,West,Sepsis,7,11,Medical,10,6,3,Medicare,Skilled Nursing,2021,8,14,5,1
+Spring,25,Male,East,Sepsis,2,9,Conservative,3,2,2,Medicaid,Home,2022,3,9,2,1
+Spring,44,Male,West,Hypertension,4,5,Medical,6,2,1,Private,Home Health,2021,3,21,6,0
+Winter,62,Male,Central,Heart Failure,4,9,Medical,8,4,1,Private,Home Health,2022,12,10,5,1
+Winter,59,Female,North,Pneumonia,4,9,Interventional,6,3,1,Private,Home Health,2021,1,4,0,1
+Fall,44,Female,West,COPD,3,8,Interventional,6,2,1,Medicaid,Home Health,2022,10,26,2,1
+Winter,50,Male,South,Pneumonia,3,7,Surgical,6,2,1,Medicaid,Home Health,2023,12,1,4,0
+Summer,86,Male,North,Diabetes,8,9,Medical,13,8,3,Medicare,Skilled Nursing,2021,8,22,6,1
+Winter,36,Female,North,Influenza,4,6,Surgical,7,4,1,Private,Home Health,2023,12,16,5,0
+Winter,70,Male,East,Heart Failure,5,10,Medical,8,5,1,Medicare,Home Health,2021,1,24,6,1
+Summer,66,Female,Central,Appendicitis,5,7,Conservative,10,4,2,Medicare,Home Health,2023,8,6,6,1
+Winter,52,Female,East,COPD,4,8,Medical,7,2,1,Private,Home Health,2022,12,8,3,1
+Summer,52,Female,Central,Kidney Disease,3,9,Interventional,6,4,2,Private,Home Health,2022,7,10,6,1
+Fall,55,Male,East,Hypertension,4,6,Medical,6,2,2,Private,Home Health,2021,10,19,1,1
+Fall,89,Male,Central,Diabetes,6,10,Surgical,9,6,4,Medicare,Skilled Nursing,2023,9,28,3,1
+Spring,58,Female,North,Fracture,5,7,Medical,8,4,1,Medicaid,Home Health,2023,3,18,5,1
+Fall,63,Male,West,Diabetes,4,7,Medical,7,3,1,Medicaid,Home Health,2022,9,16,4,1
+Fall,75,Female,Central,Sepsis,5,11,Interventional,8,6,2,Medicare,Home Health,2021,9,8,2,1
+Winter,56,Male,Central,Heart Failure,4,10,Interventional,6,3,1,Private,Home Health,2022,12,28,2,1
+Winter,51,Male,South,Heart Failure,3,9,Surgical,6,2,3,Uninsured,Home Health,2023,1,7,5,1
+Fall,69,Male,East,Kidney Disease,5,8,Interventional,8,4,1,Medicare,Home Health,2021,10,19,1,1
+Spring,72,Male,North,Diabetes,8,7,Interventional,12,8,3,Medicare,Skilled Nursing,2021,4,5,0,1
+Spring,46,Female,South,Stroke,4,10,Medical,7,4,3,Private,Home Health,2022,3,5,5,0
+Fall,37,Male,East,Sepsis,3,11,Surgical,6,2,1,Private,Home Health,2022,10,22,5,1
+Fall,40,Male,South,COPD,4,10,Medical,6,5,1,Private,Home Health,2021,11,4,3,0
+Spring,57,Female,West,Appendicitis,4,5,Surgical,6,2,1,Private,Home Health,2021,4,22,3,0
+Winter,59,Male,Central,Hypertension,6,6,Medical,9,4,2,Medicaid,Skilled Nursing,2022,12,19,0,1
+Fall,49,Female,West,Diabetes,3,5,Conservative,6,2,1,Medicaid,Home Health,2023,9,15,4,0
+Winter,69,Female,Central,Heart Failure,6,9,Medical,9,6,2,Medicare,Skilled Nursing,2023,2,6,0,1
+Spring,50,Female,Central,Stroke,3,9,Interventional,6,6,1,Private,Home Health,2023,5,12,4,1
+Summer,32,Female,South,Diabetes,2,7,Medical,5,2,0,Private,Home,2021,8,23,0,0
+Fall,89,Female,East,Appendicitis,7,7,Medical,10,5,3,Medicare,Skilled Nursing,2023,10,15,6,1
+Winter,46,Female,West,Sepsis,3,9,Medical,4,2,1,Uninsured,Home Health,2021,1,12,1,1
+Fall,36,Male,North,Diabetes,4,7,Conservative,6,3,1,Private,Home Health,2022,10,1,5,1
+Summer,40,Male,North,Stroke,3,9,Surgical,6,4,2,Private,Home Health,2022,6,24,4,1
+Summer,53,Male,West,Hypertension,5,6,Surgical,8,2,3,Private,Home Health,2021,7,15,3,1
+Summer,57,Female,East,Kidney Disease,4,9,Medical,7,2,1,Private,Home Health,2021,6,7,0,1
+Summer,58,Female,Central,Hypertension,5,6,Medical,8,4,1,Private,Home Health,2021,8,26,3,1
+Summer,85,Male,East,Fracture,6,8,Medical,9,6,4,Medicare,Skilled Nursing,2021,8,26,3,1
+Fall,39,Male,East,Hypertension,3,4,Interventional,4,2,1,Private,Home Health,2021,11,11,3,0
+Winter,29,Male,North,Sepsis,2,10,Medical,3,3,2,Private,Rehab,2023,12,19,1,1
+Fall,63,Male,Central,Diabetes,6,6,Interventional,10,4,2,Private,Skilled Nursing,2021,10,22,4,1
+Spring,63,Male,North,Diabetes,5,7,Conservative,8,2,2,Medicaid,Home Health,2021,5,10,0,1
+Spring,52,Female,Central,Hypertension,3,5,Interventional,6,4,1,Medicaid,Home Health,2022,3,6,6,0
+Spring,48,Female,South,Hypertension,4,6,Medical,6,2,2,Medicaid,Home Health,2022,5,4,2,0
+Summer,49,Female,South,Diabetes,3,6,Medical,4,2,2,Private,Home Health,2023,7,17,0,1
+Winter,90,Female,East,COPD,6,9,Medical,9,6,2,Medicare,Skilled Nursing,2021,2,26,4,1
+Spring,55,Female,East,Kidney Disease,4,7,Medical,6,3,2,Uninsured,Home Health,2021,5,26,2,1
+Winter,60,Male,West,Heart Failure,5,9,Interventional,10,2,2,Private,Home Health,2022,2,4,4,1
+Fall,63,Male,East,Kidney Disease,5,8,Medical,10,4,1,Uninsured,Home Health,2023,11,19,6,1
+Spring,56,Female,North,Sepsis,4,11,Medical,7,3,1,Private,Home Health,2023,5,15,0,1
+Winter,67,Male,East,Sepsis,4,12,Medical,7,6,1,Medicare,Home Health,2021,1,22,4,1
+Summer,30,Female,South,Kidney Disease,3,6,Surgical,4,2,1,Private,Home Health,2023,7,4,1,1
+Fall,29,Male,East,Kidney Disease,2,7,Surgical,3,1,2,Medicaid,Home,2022,9,22,3,1
+Winter,68,Female,West,Pneumonia,5,8,Conservative,8,7,2,Medicare,Home Health,2023,2,3,4,1
+Spring,66,Female,East,Diabetes,4,7,Medical,8,4,1,Medicare,Home Health,2021,4,28,2,1
+Winter,84,Male,North,Stroke,7,10,Interventional,12,7,3,Medicare,Skilled Nursing,2023,1,14,5,1
+Winter,74,Female,West,Pneumonia,5,9,Medical,10,5,2,Medicare,Home Health,2022,1,17,0,1
+Winter,47,Female,East,Heart Failure,3,10,Medical,6,2,1,Medicaid,Home Health,2023,12,15,4,0
+Summer,63,Male,East,COPD,4,10,Surgical,6,2,2,Medicaid,Home Health,2022,7,28,3,1
+Spring,45,Male,South,Sepsis,3,9,Medical,6,4,1,Private,Home Health,2021,5,9,6,1
+Fall,71,Female,North,Stroke,5,11,Surgical,10,5,2,Medicare,Home Health,2021,11,20,5,1
+Summer,54,Male,West,Hypertension,5,6,Medical,8,2,1,Private,Home Health,2022,8,9,1,1
+Fall,56,Female,North,Hypertension,4,7,Interventional,6,3,1,Private,Home Health,2022,11,12,5,0
+Winter,69,Male,North,Diabetes,5,7,Medical,10,4,1,Medicare,Home Health,2023,1,30,0,1
+Spring,57,Male,West,Hypertension,5,5,Medical,8,4,2,Private,Home Health,2021,3,4,3,0
+Spring,27,Female,North,Fracture,3,8,Medical,6,2,1,Private,Home Health,2022,4,11,0,0
+Fall,70,Male,East,Kidney Disease,5,8,Medical,8,4,1,Medicare,Home Health,2022,10,5,2,1
+Summer,65,Female,West,Fracture,4,9,Surgical,7,3,1,Private,Home Health,2021,8,21,5,0
+Winter,52,Male,West,Influenza,4,6,Medical,6,4,1,Private,Home Health,2022,2,27,6,1
+Summer,56,Male,South,Hypertension,4,6,Medical,6,4,3,Private,Home Health,2023,6,21,2,1
+Summer,52,Male,South,Hypertension,3,4,Interventional,6,4,1,Uninsured,Home Health,2023,7,24,0,1
+Summer,60,Female,Central,Appendicitis,4,9,Medical,7,4,3,Medicaid,Home Health,2021,6,25,4,1
+Summer,57,Female,North,Kidney Disease,4,8,Surgical,6,3,1,Private,Home Health,2022,6,6,0,0
+Summer,59,Female,South,Fracture,4,8,Medical,6,5,1,Medicaid,Home Health,2021,8,16,0,1
+Winter,67,Male,East,Pneumonia,6,9,Medical,10,4,2,Medicare,Skilled Nursing,2023,12,7,3,1
+Winter,55,Female,West,Diabetes,4,7,Medical,8,4,2,Private,Home Health,2021,2,13,5,1
+Fall,22,Male,South,Kidney Disease,1,5,Surgical,2,2,0,Medicaid,Home Health,2023,9,21,3,0
+Summer,77,Female,South,Stroke,5,10,Medical,10,4,3,Medicare,Home Health,2021,7,15,3,1
+Spring,58,Female,South,Kidney Disease,5,7,Medical,8,4,1,Private,Home Health,2022,3,27,6,0
+Fall,36,Female,South,Kidney Disease,2,7,Medical,3,2,0,Medicaid,Skilled Nursing,2023,11,14,1,1
+Spring,59,Female,Central,Appendicitis,5,5,Medical,8,2,1,Private,Home Health,2023,4,25,1,0
+Spring,58,Male,East,Hypertension,4,5,Conservative,9,3,1,Medicaid,Home Health,2023,5,29,0,0
+Summer,33,Male,West,COPD,2,8,Surgical,7,3,2,Private,Home,2023,6,13,1,0
+Summer,55,Male,South,Sepsis,5,10,Medical,10,4,2,Uninsured,Home Health,2021,8,28,5,1
+Fall,51,Male,West,Appendicitis,4,5,Medical,7,4,1,Medicaid,Home Health,2021,10,15,4,0
+Summer,62,Male,East,Stroke,5,12,Surgical,8,2,2,Medicaid,Home Health,2021,6,25,4,1
+Fall,64,Male,East,Kidney Disease,5,8,Medical,8,4,1,Private,Home Health,2021,11,15,0,1
+Fall,46,Female,North,Diabetes,3,6,Medical,4,2,1,Private,Home Health,2023,11,22,2,1
+Spring,43,Female,East,Diabetes,3,6,Conservative,4,2,1,Medicaid,Home Health,2023,4,25,1,1
+Fall,60,Male,South,Appendicitis,4,6,Surgical,7,3,1,Uninsured,Home Health,2022,11,9,2,1
+Fall,44,Female,North,Hypertension,4,7,Conservative,7,3,1,Private,Home Health,2022,10,25,1,1
+Summer,49,Female,West,Hypertension,4,5,Interventional,7,2,1,Medicaid,Home Health,2022,6,25,5,1
+Fall,56,Male,North,Hypertension,5,5,Surgical,8,6,1,Private,Home Health,2021,10,19,1,1
+Summer,62,Female,South,Diabetes,4,9,Surgical,6,4,2,Medicaid,Home Health,2021,8,9,0,1
+Spring,67,Male,West,COPD,4,8,Medical,7,6,1,Medicare,Home Health,2022,3,23,2,1
+Fall,82,Male,North,Diabetes,8,7,Conservative,13,6,3,Medicare,Skilled Nursing,2022,9,19,0,1
+Winter,44,Female,West,Sepsis,3,9,Interventional,6,4,1,Medicaid,Home Health,2021,1,26,1,1
+Summer,38,Female,South,Diabetes,3,5,Conservative,4,2,2,Private,Home Health,2022,7,24,6,0
+Fall,56,Male,South,Kidney Disease,7,8,Interventional,10,4,2,Private,Skilled Nursing,2021,10,29,4,1
+Fall,56,Male,East,Diabetes,4,7,Medical,8,3,2,Private,Home Health,2022,10,21,4,1
+Summer,75,Female,West,Hypertension,6,7,Interventional,10,6,2,Medicare,Skilled Nursing,2023,6,2,4,1
+Fall,60,Female,North,Stroke,4,9,Medical,8,3,2,Private,Home Health,2022,11,24,3,1
+Fall,64,Male,Central,Sepsis,4,11,Surgical,6,2,1,Medicaid,Home Health,2021,11,22,0,0
+Spring,69,Female,North,Diabetes,5,6,Interventional,8,5,2,Medicare,Home Health,2021,3,7,6,1
+Spring,50,Female,South,Diabetes,4,7,Surgical,8,2,1,Medicaid,Home Health,2021,4,22,3,0
+Summer,38,Male,Central,Hypertension,3,5,Conservative,6,2,1,Private,Home Health,2022,7,26,1,1
+Fall,26,Female,South,Stroke,3,9,Conservative,8,2,1,Private,Home Health,2023,10,5,3,0
+Winter,44,Male,East,Influenza,3,5,Medical,4,2,1,Private,Home Health,2021,12,1,2,0
+Fall,40,Male,West,Hypertension,3,5,Surgical,4,2,2,Private,Home Health,2022,11,20,6,1
+Spring,69,Male,East,Kidney Disease,6,7,Medical,11,4,2,Medicare,Skilled Nursing,2022,5,26,3,1
+Fall,48,Female,South,Hypertension,3,7,Medical,4,2,2,Private,Home Health,2023,10,4,2,0
+Summer,53,Male,South,Stroke,4,10,Medical,8,2,2,Uninsured,Home Health,2023,7,2,6,1
+Fall,75,Male,South,Stroke,6,9,Conservative,11,6,4,Medicare,Skilled Nursing,2022,9,12,0,1
+Spring,86,Male,East,Diabetes,6,8,Medical,11,6,2,Medicare,Skilled Nursing,2021,3,11,3,1
+Summer,40,Male,West,Fracture,3,7,Medical,8,2,1,Uninsured,Home Health,2022,8,14,6,0
+Summer,40,Male,Central,COPD,3,7,Interventional,6,2,1,Medicaid,Home Health,2023,7,2,6,1
+Fall,74,Female,West,Fracture,6,7,Interventional,11,8,2,Medicare,Skilled Nursing,2021,11,29,0,1
+Winter,44,Male,South,Sepsis,3,10,Surgical,6,2,1,Private,Home Health,2023,1,16,0,0
+Spring,53,Female,South,COPD,4,9,Interventional,7,3,1,Private,Home Health,2022,3,21,0,1
+Spring,79,Male,South,Appendicitis,6,6,Conservative,11,4,2,Medicare,Skilled Nursing,2023,3,26,6,1
+Spring,68,Male,Central,Fracture,6,8,Medical,9,6,2,Medicare,Skilled Nursing,2021,3,9,1,1
+Spring,20,Female,Central,COPD,2,9,Surgical,4,2,0,Medicaid,Home Health,2022,3,17,3,1
+Winter,47,Female,Central,COPD,5,9,Conservative,8,4,1,Medicaid,Home Health,2023,2,24,4,1
+Fall,48,Female,Central,Kidney Disease,3,7,Interventional,6,4,2,Medicaid,Home Health,2023,11,30,3,1
+Spring,18,Male,West,Appendicitis,1,5,Interventional,2,2,0,Uninsured,Home,2022,5,1,6,0
+Spring,31,Male,East,Hypertension,2,7,Medical,3,2,0,Private,Home,2023,3,16,3,1
+Summer,48,Male,South,Stroke,3,10,Medical,4,2,1,Medicaid,Home Health,2022,6,2,3,1
+Winter,52,Male,Central,COPD,6,9,Surgical,9,4,2,Private,Skilled Nursing,2021,12,29,2,1
+Spring,83,Female,South,Stroke,7,12,Medical,12,5,3,Medicare,Skilled Nursing,2022,4,8,4,1
+Summer,86,Male,North,Hypertension,7,7,Surgical,10,5,3,Medicare,Skilled Nursing,2022,7,8,4,1
+Winter,36,Female,West,Pneumonia,2,8,Surgical,4,3,0,Private,Rehab,2022,12,7,2,0
+Spring,82,Male,East,Hypertension,5,5,Medical,8,7,2,Medicare,Home Health,2021,4,19,0,1
+Spring,60,Male,South,Fracture,4,7,Surgical,7,2,1,Private,Home Health,2021,4,12,0,1
+Winter,72,Male,Central,Hypertension,6,5,Medical,11,6,2,Medicare,Skilled Nursing,2022,12,26,0,1
+Winter,80,Female,West,COPD,5,9,Surgical,8,5,2,Medicare,Home Health,2022,1,16,6,1
+Summer,88,Male,North,Fracture,6,7,Surgical,9,8,2,Medicare,Skilled Nursing,2022,7,19,1,1
+Summer,56,Female,East,Kidney Disease,4,7,Interventional,6,3,1,Private,Home Health,2023,6,6,1,1
+Winter,59,Female,North,Diabetes,4,6,Medical,6,2,1,Private,Home Health,2023,1,23,0,0
+Fall,95,Male,North,Sepsis,6,11,Interventional,10,4,2,Medicare,Skilled Nursing,2022,9,12,0,1
+Summer,51,Male,East,Kidney Disease,4,7,Surgical,6,5,1,Private,Home Health,2023,6,14,2,1
+Spring,82,Male,East,Diabetes,6,6,Medical,10,6,2,Medicare,Skilled Nursing,2022,5,12,3,1
+Winter,74,Female,West,Heart Failure,6,10,Medical,11,4,2,Medicare,Skilled Nursing,2021,1,23,5,1
+Fall,55,Male,West,Diabetes,4,9,Interventional,7,5,2,Private,Home Health,2023,9,25,0,0
+Spring,36,Female,East,Hypertension,2,5,Surgical,5,1,0,Medicaid,Skilled Nursing,2021,3,13,5,0
+Fall,65,Female,Central,Hypertension,4,7,Medical,6,2,2,Medicaid,Home Health,2021,11,6,5,1
+Summer,79,Male,South,Diabetes,5,7,Surgical,8,5,2,Medicare,Home Health,2022,8,5,4,1
+Winter,68,Male,West,Heart Failure,6,9,Interventional,10,4,2,Medicare,Skilled Nursing,2022,12,31,5,1
+Winter,37,Female,East,Influenza,4,9,Medical,6,3,1,Private,Home Health,2021,1,30,5,1
+Spring,55,Male,East,Diabetes,4,6,Surgical,7,2,2,Medicaid,Home Health,2023,5,29,0,1
+Fall,60,Male,West,Diabetes,5,6,Surgical,8,4,1,Medicaid,Home Health,2022,9,6,1,1
+Summer,32,Male,East,Stroke,2,8,Medical,3,1,2,Private,Skilled Nursing,2022,8,5,4,1
+Spring,61,Female,East,COPD,4,9,Interventional,7,2,3,Private,Home Health,2022,4,24,6,1
+Spring,79,Female,South,Fracture,5,8,Conservative,8,4,2,Medicare,Home Health,2023,5,24,2,1
+Winter,63,Male,West,Sepsis,4,14,Medical,6,2,2,Private,Home Health,2021,1,29,4,1
+Spring,86,Female,North,COPD,7,13,Medical,12,9,3,Medicare,Skilled Nursing,2021,5,24,0,1
+Summer,43,Female,North,Sepsis,4,11,Surgical,8,2,1,Medicaid,Home Health,2021,8,29,6,1
+Summer,58,Male,Central,Appendicitis,4,5,Medical,6,2,1,Private,Home Health,2022,7,10,6,0
+Spring,78,Male,South,Hypertension,5,5,Medical,8,5,3,Medicare,Home Health,2021,3,3,2,1
+Spring,53,Female,North,Appendicitis,5,7,Surgical,8,4,1,Uninsured,Home Health,2023,5,1,0,1
+Winter,42,Female,North,Stroke,3,8,Medical,4,4,1,Private,Home Health,2021,2,17,2,1
+Fall,53,Female,West,COPD,5,9,Medical,8,4,1,Private,Home Health,2023,10,14,5,1
+Spring,67,Female,North,COPD,4,9,Conservative,7,4,1,Medicare,Home Health,2022,3,10,3,1
+Winter,60,Male,West,COPD,4,10,Medical,6,2,1,Private,Home Health,2021,12,17,4,1
+Fall,67,Male,Central,Kidney Disease,4,8,Conservative,7,6,1,Medicare,Home Health,2022,9,2,4,1
+Fall,81,Female,South,Sepsis,5,10,Interventional,8,4,3,Medicare,Home Health,2021,11,27,5,1
+Spring,39,Male,South,Diabetes,3,7,Interventional,6,2,1,Uninsured,Home Health,2023,3,1,2,1
+Spring,81,Female,Central,Kidney Disease,6,7,Surgical,9,6,2,Medicare,Skilled Nursing,2022,4,6,2,1
+Spring,47,Female,Central,Stroke,3,9,Interventional,6,2,1,Medicaid,Home Health,2022,3,26,5,1
+Spring,19,Female,East,Kidney Disease,1,7,Interventional,2,2,0,Private,Home,2023,5,23,1,0
+Spring,50,Male,South,Diabetes,3,7,Surgical,8,2,2,Private,Home Health,2021,4,10,5,0
+Winter,42,Female,South,Stroke,3,8,Medical,8,2,2,Uninsured,Home Health,2021,1,16,5,1
+Winter,95,Female,South,Influenza,6,7,Surgical,10,4,2,Medicare,Skilled Nursing,2022,1,25,1,1
+Fall,81,Female,West,Sepsis,6,14,Medical,12,6,4,Medicare,Skilled Nursing,2021,11,13,5,1
+Fall,49,Male,West,Stroke,3,8,Medical,4,2,1,Private,Home Health,2021,9,25,5,1
+Summer,82,Female,North,Sepsis,7,11,Conservative,12,7,3,Medicare,Skilled Nursing,2023,8,22,1,1
+Winter,37,Male,Central,Sepsis,3,9,Surgical,6,2,2,Medicaid,Home Health,2022,12,27,1,1
+Winter,48,Male,South,Pneumonia,4,9,Conservative,6,4,1,Private,Home Health,2021,1,21,3,1
+Fall,63,Male,South,Fracture,4,7,Surgical,7,5,2,Private,Home Health,2023,11,17,4,1
+Winter,62,Female,South,Pneumonia,6,8,Interventional,12,5,2,Private,Skilled Nursing,2022,12,17,5,1
+Winter,64,Male,Central,Influenza,4,6,Surgical,8,3,1,Private,Home Health,2022,2,8,1,1
+Winter,41,Female,South,Sepsis,4,11,Medical,6,2,2,Uninsured,Home Health,2023,2,28,1,1
+Winter,48,Male,East,Pneumonia,3,7,Medical,6,2,1,Private,Home Health,2023,12,24,6,1
+Fall,33,Female,South,Hypertension,2,6,Surgical,5,2,0,Uninsured,Home Health,2023,10,3,1,1
+Summer,45,Male,South,Diabetes,3,6,Medical,6,4,1,Private,Home Health,2022,8,23,1,0
+Winter,39,Male,West,Pneumonia,3,10,Conservative,6,2,1,Private,Home Health,2021,12,17,4,0
+Summer,62,Male,Central,Diabetes,4,8,Medical,7,3,2,Medicaid,Home Health,2021,6,15,1,0
+Spring,58,Male,West,Hypertension,5,6,Medical,8,2,2,Private,Home Health,2022,4,3,6,1
+Fall,48,Male,South,Diabetes,4,6,Medical,6,3,2,Private,Home Health,2021,9,26,6,1
+Fall,47,Male,East,Hypertension,3,5,Medical,6,4,1,Medicaid,Home Health,2022,10,27,3,1
+Fall,43,Female,West,Kidney Disease,3,6,Medical,6,2,2,Private,Home Health,2022,11,9,2,0
+Spring,53,Female,Central,Stroke,5,10,Surgical,8,2,1,Uninsured,Home Health,2023,3,7,1,1
+Summer,44,Female,Central,COPD,3,10,Interventional,4,2,2,Medicaid,Home Health,2022,7,26,1,1
+Spring,59,Male,South,COPD,4,8,Conservative,6,4,2,Private,Home Health,2021,5,22,5,1
+Fall,51,Female,North,Kidney Disease,4,9,Interventional,6,4,1,Private,Home Health,2023,11,15,2,1
+Spring,35,Female,North,Kidney Disease,2,8,Interventional,4,1,0,Private,Home,2023,4,18,1,0
+Fall,50,Male,West,Diabetes,4,10,Medical,7,2,1,Private,Home Health,2023,11,3,4,0
+Winter,18,Female,North,Heart Failure,2,9,Medical,5,2,0,Medicaid,Home Health,2022,1,24,0,1
+Fall,80,Male,East,COPD,5,9,Medical,10,4,2,Medicare,Home Health,2022,10,12,2,1
+Winter,79,Male,South,Pneumonia,7,10,Interventional,10,5,3,Medicare,Skilled Nursing,2023,12,13,2,1
+Winter,59,Female,Central,COPD,4,8,Medical,6,2,1,Private,Home Health,2023,12,25,0,0
+Spring,61,Male,South,Diabetes,5,7,Interventional,8,4,2,Uninsured,Home Health,2021,5,28,4,1
+Winter,35,Male,South,COPD,2,8,Medical,3,1,2,Uninsured,Home,2023,12,29,4,0
+Winter,57,Female,East,Pneumonia,7,9,Medical,14,6,2,Medicaid,Skilled Nursing,2021,1,10,6,1
+Fall,70,Female,South,Diabetes,5,8,Medical,8,4,1,Medicare,Home Health,2021,11,21,6,1
+Summer,38,Female,North,Diabetes,3,5,Interventional,6,2,1,Private,Home Health,2021,7,27,1,0
+Fall,51,Male,South,Diabetes,3,6,Medical,6,4,3,Medicaid,Home Health,2022,11,12,5,0
+Winter,81,Male,West,Diabetes,5,6,Interventional,8,5,2,Medicare,Home Health,2021,1,29,4,1
+Summer,65,Male,North,Stroke,5,9,Interventional,8,2,2,Medicaid,Home Health,2022,6,18,5,1
+Summer,61,Female,East,Hypertension,5,5,Medical,8,4,1,Medicaid,Home Health,2021,8,21,5,1
+Winter,42,Female,North,COPD,3,7,Interventional,6,4,2,Uninsured,Home Health,2023,1,31,1,1
+Summer,37,Male,Central,Hypertension,2,8,Interventional,3,3,0,Private,Skilled Nursing,2023,8,5,5,0
+Fall,73,Female,West,Appendicitis,5,5,Interventional,8,6,2,Medicare,Home Health,2022,11,23,2,1
+Spring,55,Female,West,Fracture,4,7,Medical,8,5,1,Private,Home Health,2021,3,7,6,0
+Spring,74,Male,North,Appendicitis,5,5,Interventional,8,4,2,Medicare,Home Health,2022,3,13,6,1
+Summer,64,Female,West,Kidney Disease,4,7,Medical,8,2,1,Medicaid,Home Health,2021,6,12,5,1
+Spring,61,Male,East,Kidney Disease,5,8,Conservative,8,4,1,Medicaid,Home Health,2023,5,3,2,1
+Spring,26,Female,East,Kidney Disease,2,8,Surgical,3,2,2,Medicaid,Home,2023,5,9,1,0
+Winter,40,Female,East,Pneumonia,3,8,Conservative,6,4,1,Uninsured,Home Health,2022,12,5,0,0
+Winter,72,Female,North,Pneumonia,6,8,Surgical,9,4,4,Medicare,Skilled Nursing,2022,1,21,4,1
+Winter,22,Male,South,Pneumonia,3,9,Medical,6,2,2,Medicaid,Home Health,2023,2,17,4,1
+Spring,70,Male,North,Hypertension,5,8,Medical,10,5,1,Medicare,Home Health,2022,3,3,3,1
+Summer,53,Female,North,Diabetes,7,7,Interventional,12,6,2,Private,Skilled Nursing,2022,7,13,2,1
+Fall,33,Female,East,Diabetes,3,6,Surgical,6,4,2,Medicaid,Home Health,2021,11,3,2,0
+Spring,95,Male,East,Hypertension,7,6,Surgical,10,8,4,Medicare,Skilled Nursing,2023,5,2,1,1
+Summer,38,Female,Central,Diabetes,3,8,Surgical,4,4,1,Medicaid,Home Health,2021,7,7,2,1
+Winter,74,Male,South,COPD,7,12,Interventional,10,7,4,Medicare,Skilled Nursing,2022,12,10,5,1
+Fall,53,Female,East,Diabetes,4,6,Medical,9,3,2,Medicaid,Home Health,2021,10,23,5,1
+Winter,75,Male,West,Diabetes,5,6,Conservative,8,8,2,Medicare,Home Health,2021,2,10,2,1
+Winter,60,Female,West,Pneumonia,6,8,Medical,10,5,2,Private,Skilled Nursing,2023,1,2,0,1
+Fall,73,Male,East,Fracture,6,8,Surgical,10,8,2,Medicare,Skilled Nursing,2023,11,3,4,1
+Spring,50,Male,North,Diabetes,5,7,Medical,8,2,1,Medicaid,Home Health,2022,5,12,3,1
+Spring,58,Male,East,Diabetes,4,8,Interventional,8,2,1,Medicaid,Home Health,2022,5,14,5,0
+Spring,27,Female,West,Kidney Disease,2,8,Medical,4,2,0,Private,Rehab,2023,3,1,2,0
+Spring,62,Male,North,Hypertension,4,5,Surgical,7,3,1,Private,Home Health,2021,3,18,3,1
+Spring,43,Female,South,Diabetes,4,6,Interventional,6,2,1,Private,Home Health,2023,4,1,5,1
+Winter,53,Female,East,Hypertension,4,5,Surgical,7,3,2,Medicaid,Home Health,2023,12,6,2,1
+Winter,68,Female,North,Stroke,5,10,Medical,8,5,2,Medicare,Home Health,2023,12,31,6,1
+Summer,34,Female,East,Stroke,4,10,Surgical,8,2,1,Private,Home Health,2021,6,4,4,1
+Fall,50,Female,North,Kidney Disease,4,8,Medical,8,3,3,Uninsured,Home Health,2023,9,14,3,1
+Spring,55,Female,West,Diabetes,4,8,Medical,7,3,2,Medicaid,Home Health,2022,4,30,5,1
+Summer,57,Female,North,Diabetes,5,7,Medical,10,4,1,Private,Home Health,2021,6,15,1,1
+Winter,62,Male,North,Influenza,4,6,Surgical,7,5,1,Private,Home Health,2021,1,26,1,1
+Summer,47,Male,East,Kidney Disease,3,6,Conservative,6,4,2,Private,Home Health,2021,7,23,4,1
+Summer,67,Female,South,COPD,4,10,Surgical,8,4,2,Medicare,Home Health,2023,8,28,0,1
+Summer,69,Male,North,Hypertension,5,6,Surgical,8,5,1,Medicare,Home Health,2021,8,27,4,1
+Summer,18,Male,East,Sepsis,2,10,Interventional,5,3,0,Medicaid,Skilled Nursing,2022,7,2,5,1
+Summer,57,Female,East,Hypertension,4,6,Medical,7,3,1,Private,Home Health,2023,8,31,3,1
+Spring,54,Male,East,Appendicitis,5,5,Surgical,8,4,1,Private,Home Health,2023,3,18,5,1
+Summer,76,Male,South,Diabetes,8,8,Surgical,14,8,4,Medicare,Skilled Nursing,2022,8,18,3,1
+Winter,60,Male,East,Influenza,4,9,Conservative,6,3,1,Medicaid,Home Health,2021,1,21,3,0
+Fall,49,Female,North,Kidney Disease,4,7,Medical,7,5,2,Private,Home Health,2021,10,1,4,1
+Fall,45,Male,East,Diabetes,4,9,Medical,7,4,1,Private,Home Health,2021,10,11,0,0
+Spring,71,Female,North,Diabetes,5,7,Conservative,8,6,4,Medicare,Home Health,2021,4,25,6,1
+Winter,50,Male,South,Influenza,3,5,Medical,6,4,1,Uninsured,Home Health,2022,1,30,6,1
+Spring,53,Male,West,Hypertension,5,8,Interventional,8,2,1,Private,Home Health,2021,4,9,4,0
+Summer,68,Female,South,Hypertension,6,7,Medical,10,4,2,Medicare,Skilled Nursing,2021,6,19,5,1
+Summer,24,Male,South,Hypertension,5,5,Surgical,8,4,1,Medicaid,Home Health,2021,7,30,4,0
+Fall,27,Male,Central,COPD,2,9,Interventional,3,3,0,Private,Home Health,2022,9,4,6,1
+Winter,68,Female,South,Influenza,8,9,Medical,12,8,2,Medicare,Skilled Nursing,2023,12,3,6,1
+Winter,69,Female,East,Sepsis,5,10,Medical,8,6,2,Medicare,Home Health,2021,2,24,2,1
+Fall,58,Female,West,Diabetes,5,7,Medical,8,2,1,Private,Home Health,2021,10,3,6,0
+Spring,46,Male,North,Kidney Disease,4,7,Medical,6,6,2,Medicaid,Home Health,2022,3,3,3,1
+Spring,63,Male,North,Kidney Disease,4,7,Medical,8,3,1,Medicaid,Home Health,2021,3,8,0,1
+Spring,57,Female,West,Kidney Disease,4,8,Medical,8,2,1,Uninsured,Home Health,2022,5,31,1,1
+Fall,63,Male,North,Appendicitis,4,5,Surgical,7,2,3,Private,Home Health,2022,9,11,6,1
+Spring,64,Female,South,Appendicitis,5,6,Medical,10,6,1,Private,Home Health,2023,4,27,3,1
+Winter,56,Female,South,COPD,4,9,Conservative,6,3,1,Medicaid,Home Health,2023,12,17,6,1
+Summer,31,Male,North,Diabetes,2,5,Interventional,4,1,2,Private,Home,2023,7,7,4,0
+Summer,45,Male,West,Fracture,5,7,Medical,8,4,1,Private,Home Health,2022,7,3,6,1
+Fall,56,Male,East,Appendicitis,5,6,Interventional,8,4,1,Uninsured,Home Health,2023,10,15,6,1
+Summer,61,Male,West,Hypertension,4,7,Surgical,7,4,1,Uninsured,Home Health,2022,7,21,3,0
+Spring,69,Male,West,Stroke,6,11,Medical,10,4,2,Medicare,Skilled Nursing,2022,3,30,2,1
+Summer,46,Female,South,Sepsis,3,12,Conservative,4,2,1,Private,Home Health,2022,7,9,5,1
+Winter,63,Male,East,Heart Failure,6,10,Surgical,10,3,2,Medicaid,Skilled Nursing,2023,1,27,4,1
+Spring,76,Female,Central,Diabetes,5,7,Medical,8,4,2,Medicare,Home Health,2022,3,13,6,1
+Spring,59,Female,South,Diabetes,6,6,Conservative,10,5,2,Uninsured,Skilled Nursing,2022,3,7,0,1
+Fall,78,Male,Central,Fracture,6,9,Surgical,10,6,2,Medicare,Skilled Nursing,2023,10,31,1,1
+Fall,62,Male,West,Diabetes,4,8,Medical,6,4,1,Private,Home Health,2022,9,25,6,1
+Fall,76,Female,South,COPD,5,10,Medical,8,5,2,Medicare,Home Health,2022,10,13,3,1
+Summer,39,Female,West,Diabetes,3,5,Surgical,6,2,1,Medicaid,Home Health,2023,8,6,6,0
+Spring,71,Female,South,Appendicitis,5,7,Medical,8,7,2,Medicare,Home Health,2021,4,24,5,1
+Summer,38,Female,Central,Fracture,4,7,Interventional,9,3,1,Private,Home Health,2021,6,14,0,1
+Spring,85,Male,South,Kidney Disease,6,7,Surgical,9,8,2,Medicare,Skilled Nursing,2022,5,14,5,1
+Spring,60,Male,West,Stroke,6,9,Interventional,10,5,4,Private,Skilled Nursing,2021,5,5,2,1
+Summer,51,Male,East,Diabetes,3,6,Medical,6,2,2,Private,Home Health,2021,7,24,5,1
+Fall,63,Male,South,Stroke,4,9,Surgical,6,6,1,Private,Home Health,2021,11,16,1,1
+Summer,73,Female,West,COPD,5,10,Surgical,10,4,3,Medicare,Home Health,2021,7,2,4,1
+Summer,71,Male,South,Diabetes,5,7,Medical,8,5,2,Medicare,Home Health,2022,8,21,6,1
+Fall,77,Female,North,Appendicitis,5,5,Medical,8,7,2,Medicare,Home Health,2023,11,4,5,1
+Fall,72,Male,East,Kidney Disease,6,9,Medical,9,6,2,Medicare,Skilled Nursing,2023,11,2,3,1
+Fall,53,Male,East,COPD,5,10,Surgical,8,2,1,Private,Home Health,2023,9,16,5,1
+Fall,35,Female,Central,Stroke,3,10,Interventional,8,2,1,Private,Home Health,2023,10,5,3,0
+Summer,38,Female,South,Fracture,3,8,Interventional,4,4,1,Private,Home Health,2021,8,23,0,0
+Spring,24,Female,East,Diabetes,2,6,Medical,3,1,0,Private,Home Health,2023,5,8,0,0
+Winter,66,Male,North,Sepsis,6,12,Surgical,11,6,2,Medicare,Skilled Nursing,2022,1,25,1,1
+Spring,62,Female,Central,Hypertension,5,6,Interventional,10,4,1,Medicaid,Home Health,2021,3,3,2,1
+Winter,40,Female,South,Heart Failure,4,10,Medical,6,3,1,Medicaid,Home Health,2022,2,22,1,0
+Fall,63,Male,North,Kidney Disease,4,10,Medical,6,2,1,Medicaid,Home Health,2021,10,10,6,1
+Spring,76,Male,West,Kidney Disease,5,7,Interventional,10,6,2,Medicare,Home Health,2021,4,6,1,1
+Spring,68,Male,Central,Appendicitis,5,6,Interventional,10,4,3,Medicare,Home Health,2021,3,8,0,1
+Winter,59,Male,West,Sepsis,5,12,Conservative,8,4,1,Private,Home Health,2021,2,13,5,1
+Winter,51,Female,South,Influenza,4,6,Surgical,6,4,1,Private,Home Health,2021,1,8,4,0
+Spring,38,Female,North,Diabetes,4,6,Surgical,6,2,1,Private,Home Health,2023,3,6,0,1
+Winter,62,Female,North,Heart Failure,4,9,Surgical,7,3,1,Uninsured,Home Health,2023,12,16,5,1
+Spring,91,Female,North,Diabetes,6,6,Conservative,10,6,2,Medicare,Skilled Nursing,2023,3,3,4,1
+Winter,59,Male,East,Heart Failure,5,10,Interventional,8,6,1,Private,Home Health,2021,1,26,1,1
+Fall,49,Female,West,Stroke,4,10,Medical,6,2,2,Private,Home Health,2023,9,8,4,1
+Spring,53,Male,North,Stroke,4,11,Medical,6,2,1,Uninsured,Home Health,2023,5,31,2,1
+Spring,64,Female,Central,Diabetes,4,6,Conservative,7,3,1,Medicaid,Home Health,2023,4,15,5,0
+Fall,26,Female,Central,Stroke,2,8,Interventional,3,3,0,Private,Home Health,2022,11,13,6,1
+Fall,58,Male,South,Kidney Disease,4,8,Interventional,6,4,2,Private,Home Health,2022,10,19,2,1
+Winter,69,Female,West,Heart Failure,5,9,Medical,12,7,1,Medicare,Home Health,2021,12,24,4,1
+Spring,59,Male,South,Appendicitis,4,6,Medical,6,4,1,Private,Home Health,2022,5,30,0,0
+Fall,73,Male,South,Appendicitis,5,6,Interventional,8,5,2,Medicare,Home Health,2021,10,3,6,1
+Summer,32,Female,East,Hypertension,2,4,Surgical,3,1,0,Medicaid,Home Health,2022,7,29,4,0
+Winter,63,Female,South,Sepsis,5,13,Conservative,8,4,1,Medicaid,Home Health,2022,12,6,1,1
+Fall,61,Male,East,Hypertension,4,5,Medical,8,3,1,Private,Home Health,2022,9,4,6,1
+Summer,54,Male,East,Diabetes,5,7,Medical,10,4,1,Private,Home Health,2023,7,22,5,0
+Summer,56,Male,East,Diabetes,4,6,Surgical,7,2,3,Private,Home Health,2022,6,26,6,1
+Spring,63,Female,Central,Diabetes,4,6,Surgical,8,3,1,Uninsured,Home Health,2023,5,24,2,1
+Fall,58,Male,South,Appendicitis,4,7,Medical,8,2,1,Private,Home Health,2022,10,17,0,1
+Fall,52,Female,West,Diabetes,3,7,Medical,4,4,1,Medicaid,Home Health,2023,11,24,4,1
+Winter,74,Female,South,Influenza,5,7,Surgical,8,6,2,Medicare,Home Health,2022,1,11,1,1
+Winter,54,Male,South,Heart Failure,4,9,Medical,6,3,1,Uninsured,Home Health,2022,2,21,0,1
+Summer,49,Male,North,Sepsis,3,9,Surgical,6,4,1,Private,Home Health,2023,7,6,3,0
+Fall,44,Female,West,Diabetes,4,6,Medical,7,3,1,Private,Home Health,2023,11,30,3,1
+Spring,70,Female,North,Diabetes,5,6,Surgical,10,4,1,Medicare,Home Health,2023,3,29,2,1
+Fall,52,Female,South,Diabetes,5,7,Surgical,8,4,1,Uninsured,Home Health,2022,10,11,1,1
+Summer,50,Male,Central,Diabetes,3,6,Interventional,6,2,2,Uninsured,Home Health,2022,8,12,4,1
+Fall,63,Male,East,Hypertension,5,5,Medical,8,2,1,Private,Home Health,2023,10,18,2,0
+Winter,47,Female,North,Pneumonia,4,9,Medical,9,3,1,Private,Home Health,2023,1,5,3,0
+Spring,50,Female,South,Kidney Disease,3,6,Surgical,4,2,1,Private,Home Health,2021,4,14,2,1
+Fall,78,Female,West,Fracture,6,8,Surgical,10,4,2,Medicare,Skilled Nursing,2021,9,25,5,1
+Fall,34,Male,East,Kidney Disease,2,7,Interventional,5,3,0,Medicaid,Home,2023,11,18,5,1
+Winter,50,Male,West,COPD,3,10,Surgical,6,2,2,Private,Home Health,2023,1,3,1,1
+Summer,47,Male,West,COPD,4,10,Interventional,6,4,2,Private,Home Health,2022,7,11,0,1
+Fall,22,Male,North,Stroke,1,10,Surgical,2,0,0,Private,Skilled Nursing,2021,10,23,5,1
+Fall,58,Male,South,Diabetes,4,7,Medical,8,2,1,Uninsured,Home Health,2022,11,27,6,1
+Fall,61,Female,South,Diabetes,4,9,Surgical,8,3,1,Private,Home Health,2023,11,19,6,1
+Fall,54,Female,South,Stroke,4,9,Interventional,6,3,1,Private,Home Health,2023,11,2,3,1
+Fall,44,Male,South,Diabetes,3,6,Medical,4,2,1,Private,Home Health,2022,10,21,4,1
+Summer,47,Male,North,Diabetes,3,5,Medical,4,4,1,Private,Home Health,2021,7,6,1,1
+Fall,47,Female,North,Fracture,4,8,Medical,6,3,1,Private,Home Health,2021,9,21,1,1
+Spring,56,Female,West,Hypertension,4,5,Medical,7,3,1,Private,Home Health,2021,3,23,1,0
+Fall,46,Female,South,Stroke,5,12,Medical,8,2,2,Private,Home Health,2022,9,20,1,1
+Winter,18,Male,North,COPD,2,9,Conservative,4,2,0,Medicaid,Home Health,2022,2,7,0,0
+Spring,53,Female,Central,Kidney Disease,4,11,Medical,7,2,1,Medicaid,Home Health,2023,3,11,5,1
+Summer,60,Male,South,Kidney Disease,4,8,Interventional,6,2,1,Private,Home Health,2022,7,28,3,1
+Spring,63,Female,West,Fracture,5,9,Surgical,8,4,2,Private,Home Health,2023,4,2,6,1
+Summer,75,Male,Central,Diabetes,5,6,Surgical,8,5,2,Medicare,Home Health,2023,6,26,0,1
+Fall,57,Male,West,Stroke,4,9,Surgical,6,3,2,Private,Home Health,2023,11,16,3,1
+Spring,41,Male,Central,Fracture,3,7,Surgical,6,2,1,Private,Home Health,2021,5,24,0,1
+Spring,54,Male,West,Appendicitis,4,5,Surgical,6,3,1,Uninsured,Home Health,2023,5,26,4,1
+Summer,71,Male,South,Hypertension,6,5,Interventional,10,6,2,Medicare,Skilled Nursing,2023,7,24,0,1
+Winter,42,Male,South,Diabetes,4,6,Surgical,7,4,1,Medicaid,Home Health,2022,1,15,5,0
+Fall,66,Male,East,Sepsis,6,12,Interventional,11,6,2,Medicare,Skilled Nursing,2021,9,13,0,1
+Spring,55,Female,East,Kidney Disease,5,8,Interventional,8,4,2,Medicaid,Home Health,2021,4,13,1,0
+Spring,69,Male,Central,Fracture,7,9,Conservative,12,8,2,Medicare,Skilled Nursing,2023,4,20,3,1
+Fall,63,Female,North,Sepsis,4,11,Medical,7,6,1,Private,Home Health,2022,10,12,2,1
+Spring,54,Female,West,Kidney Disease,4,7,Surgical,7,2,2,Private,Home Health,2022,3,6,6,1
+Fall,81,Female,North,Kidney Disease,6,7,Medical,12,4,2,Medicare,Skilled Nursing,2022,9,12,0,1
+Summer,43,Female,North,Diabetes,3,5,Conservative,4,2,2,Uninsured,Home Health,2021,6,10,3,1
+Winter,55,Female,East,Pneumonia,5,9,Medical,10,6,1,Medicaid,Home Health,2022,1,10,0,1
+Fall,40,Male,North,Stroke,4,10,Medical,7,2,1,Uninsured,Home Health,2023,10,21,5,1
+Summer,38,Female,South,Stroke,4,9,Medical,7,3,2,Uninsured,Home Health,2021,8,12,3,1
+Spring,74,Male,South,Fracture,6,8,Medical,9,6,2,Medicare,Skilled Nursing,2022,3,26,5,1
+Fall,47,Male,South,Diabetes,3,7,Interventional,4,2,1,Private,Home Health,2022,11,18,4,1
+Winter,52,Female,North,Pneumonia,3,8,Surgical,6,6,1,Uninsured,Home Health,2022,12,1,3,0
+Spring,63,Female,West,Hypertension,4,5,Surgical,7,3,1,Private,Home Health,2021,3,25,3,1
+Spring,57,Male,East,Diabetes,4,6,Medical,9,3,1,Private,Home Health,2022,3,19,5,1
+Spring,73,Female,South,Hypertension,5,6,Medical,10,4,2,Medicare,Home Health,2022,5,16,0,1
+Summer,66,Female,South,Hypertension,7,6,Surgical,14,5,3,Medicare,Skilled Nursing,2021,6,18,4,1
+Summer,95,Male,North,Hypertension,7,6,Medical,12,5,3,Medicare,Skilled Nursing,2021,6,21,0,1
+Summer,95,Female,East,Stroke,6,10,Interventional,10,4,2,Medicare,Skilled Nursing,2022,7,31,6,1
+Spring,57,Female,North,Appendicitis,5,6,Medical,8,2,1,Medicaid,Home Health,2023,5,28,6,1
+Summer,45,Male,South,Diabetes,5,6,Interventional,8,2,1,Private,Home Health,2022,6,29,2,0
+Summer,59,Female,South,COPD,4,11,Medical,6,5,1,Private,Home Health,2022,8,2,1,1
+Winter,67,Female,Central,Heart Failure,5,11,Medical,10,7,1,Medicare,Home Health,2021,2,28,6,1
+Fall,64,Female,South,Diabetes,4,7,Surgical,8,2,1,Medicaid,Home Health,2021,11,14,6,0
+Spring,36,Female,South,Fracture,2,7,Surgical,4,3,0,Medicaid,Home,2022,4,20,2,0
+Fall,56,Female,North,Fracture,4,10,Surgical,7,3,1,Private,Home Health,2021,10,10,6,0
+Winter,54,Male,West,Influenza,4,7,Medical,6,3,1,Private,Home Health,2022,12,14,2,0
+Winter,61,Male,West,Pneumonia,7,9,Medical,12,4,2,Private,Skilled Nursing,2021,2,13,5,1
+Winter,66,Male,West,Influenza,5,10,Surgical,8,5,1,Medicare,Home Health,2022,1,31,0,1
+Winter,78,Male,Central,COPD,6,8,Medical,11,6,2,Medicare,Skilled Nursing,2022,12,23,4,1
+Winter,47,Female,East,Sepsis,3,10,Medical,6,2,1,Medicaid,Home Health,2022,2,19,5,0
+Winter,55,Male,South,Heart Failure,4,10,Surgical,8,2,1,Private,Home Health,2022,2,1,1,1
+Spring,36,Female,South,Diabetes,2,5,Medical,3,3,0,Uninsured,Rehab,2022,5,20,4,0
+Summer,72,Female,Central,Fracture,7,10,Conservative,10,5,4,Medicare,Skilled Nursing,2023,7,20,3,1
+Winter,54,Female,North,Diabetes,5,8,Medical,8,4,1,Uninsured,Home Health,2022,12,20,1,1
+Spring,77,Male,North,Appendicitis,5,6,Surgical,8,8,2,Medicare,Home Health,2023,4,10,0,1
+Summer,45,Female,West,Diabetes,3,7,Medical,6,2,1,Private,Home Health,2023,8,3,3,0
+Spring,43,Female,South,Kidney Disease,5,8,Interventional,8,4,1,Private,Home Health,2021,3,23,1,1
+Winter,37,Female,North,Pneumonia,4,8,Surgical,9,3,1,Uninsured,Home Health,2022,2,25,4,1
+Spring,31,Female,South,Appendicitis,2,5,Interventional,4,2,0,Uninsured,Home Health,2023,4,3,0,0
+Spring,44,Female,North,Kidney Disease,3,7,Medical,4,2,1,Medicaid,Home Health,2023,3,25,5,0
+Summer,79,Female,North,Appendicitis,5,8,Surgical,8,4,2,Medicare,Home Health,2022,7,10,6,1
+Winter,44,Male,East,COPD,5,9,Medical,8,6,2,Private,Home Health,2022,12,8,3,1
+Summer,59,Female,West,COPD,4,9,Medical,7,4,1,Uninsured,Home Health,2021,8,27,4,1
+Fall,23,Female,South,Diabetes,2,5,Conservative,4,3,0,Private,Skilled Nursing,2023,9,3,6,0
+Summer,92,Female,South,Kidney Disease,6,8,Surgical,10,6,2,Medicare,Skilled Nursing,2021,6,24,3,1
+Winter,44,Male,South,COPD,3,8,Surgical,6,2,1,Uninsured,Home Health,2022,12,12,0,1
+Fall,76,Male,South,Sepsis,6,10,Conservative,9,4,2,Medicare,Skilled Nursing,2023,10,9,0,1
+Summer,79,Male,West,Hypertension,5,5,Surgical,8,5,3,Medicare,Home Health,2021,8,3,1,1
+Spring,87,Male,South,Appendicitis,7,9,Interventional,10,6,3,Medicare,Skilled Nursing,2023,3,18,5,0
+Fall,52,Male,South,Diabetes,3,5,Surgical,4,4,1,Uninsured,Home Health,2023,10,2,0,1
+Winter,53,Female,North,Heart Failure,4,10,Medical,8,4,1,Private,Home Health,2021,2,13,5,1
+Winter,81,Female,East,Pneumonia,5,9,Conservative,8,4,3,Medicare,Home Health,2022,2,3,3,1
+Winter,69,Female,North,Pneumonia,5,8,Medical,8,6,2,Medicare,Home Health,2023,12,4,0,1
+Fall,52,Male,South,Kidney Disease,3,6,Surgical,4,2,1,Medicaid,Home Health,2023,10,13,4,1
+Fall,25,Female,East,Hypertension,3,4,Surgical,6,2,1,Private,Home Health,2023,10,15,6,1
+Fall,44,Male,West,Fracture,4,8,Medical,6,4,1,Medicaid,Home Health,2023,11,11,5,0
+Summer,68,Female,Central,Diabetes,5,7,Surgical,8,5,1,Medicare,Home Health,2023,6,8,3,1
+Spring,71,Male,Central,Diabetes,6,6,Surgical,9,6,2,Medicare,Skilled Nursing,2022,3,22,1,1
+Winter,63,Male,North,Influenza,4,7,Medical,8,3,1,Private,Home Health,2021,12,6,0,1
+Summer,67,Female,South,Appendicitis,4,5,Surgical,8,4,3,Medicare,Home Health,2021,8,27,4,1
+Fall,65,Female,North,Appendicitis,5,6,Conservative,8,2,1,Private,Home Health,2022,10,21,4,1
+Fall,37,Female,East,Kidney Disease,2,8,Medical,4,1,0,Private,Home Health,2021,10,8,4,0
+Winter,65,Male,South,COPD,4,10,Medical,6,3,1,Medicaid,Home Health,2022,1,28,4,1
+Summer,63,Female,North,Diabetes,5,7,Conservative,8,4,1,Private,Home Health,2022,8,20,5,1
+Spring,52,Female,South,Sepsis,3,10,Surgical,6,2,2,Private,Home Health,2021,3,27,5,0
+Spring,74,Male,East,Appendicitis,5,6,Medical,8,4,2,Medicare,Home Health,2021,4,30,4,1
+Summer,67,Female,North,Diabetes,5,7,Surgical,8,5,1,Medicare,Home Health,2023,7,3,0,1
+Summer,42,Male,West,Kidney Disease,3,8,Surgical,4,6,3,Private,Home Health,2021,8,14,5,1
+Winter,52,Male,South,Pneumonia,5,9,Medical,8,6,2,Private,Home Health,2021,2,25,3,1
+Spring,30,Male,East,Diabetes,2,6,Surgical,4,1,0,Medicaid,Home,2022,5,19,3,1
+Winter,69,Male,East,Hypertension,5,7,Surgical,8,5,1,Medicare,Home Health,2021,1,31,6,1
+Summer,50,Female,East,Stroke,3,8,Surgical,4,4,1,Medicaid,Home Health,2021,6,23,2,1
+Winter,61,Male,East,COPD,4,8,Medical,9,2,1,Private,Home Health,2023,2,5,6,1
+Spring,81,Male,South,Fracture,7,8,Medical,14,6,5,Medicare,Skilled Nursing,2022,3,23,2,1
+Winter,67,Male,North,COPD,4,9,Conservative,6,4,1,Medicare,Home Health,2022,1,18,1,1
+Fall,62,Female,North,Diabetes,4,6,Conservative,8,2,1,Medicaid,Home Health,2022,10,19,2,0
+Summer,40,Male,North,Appendicitis,4,6,Surgical,6,4,1,Private,Home Health,2021,6,1,1,0
+Summer,53,Female,West,Fracture,4,8,Medical,6,5,3,Private,Home Health,2022,6,25,5,1
+Winter,53,Male,North,Heart Failure,7,10,Medical,10,4,2,Medicaid,Skilled Nursing,2021,12,14,1,1
+Spring,55,Male,West,Hypertension,4,5,Medical,7,4,1,Medicaid,Home Health,2021,4,26,0,1
+Winter,70,Female,West,Diabetes,6,9,Surgical,9,6,2,Medicare,Skilled Nursing,2022,2,20,6,1
+Fall,27,Male,South,Hypertension,3,4,Medical,6,4,2,Medicaid,Home Health,2022,9,18,6,1
+Winter,82,Male,Central,Heart Failure,5,12,Surgical,8,4,3,Medicare,Home Health,2021,12,5,6,1
+Fall,70,Male,Central,Stroke,5,10,Medical,8,5,3,Medicare,Home Health,2023,10,20,4,1
+Spring,57,Female,Central,COPD,4,8,Medical,10,3,2,Private,Home Health,2021,3,22,0,1
+Summer,58,Male,South,Stroke,4,10,Surgical,7,3,1,Private,Home Health,2023,7,31,0,1
+Winter,73,Male,South,Pneumonia,6,9,Medical,10,6,2,Medicare,Skilled Nursing,2021,2,26,4,1
+Spring,32,Female,West,Hypertension,2,5,Medical,3,2,0,Private,Home,2022,3,9,2,0
+Winter,63,Male,North,Stroke,4,10,Surgical,6,3,1,Uninsured,Home Health,2022,1,13,3,1
+Fall,68,Male,South,Hypertension,5,7,Interventional,8,6,1,Medicare,Home Health,2022,11,21,0,1
+Summer,81,Male,East,COPD,5,8,Surgical,8,4,2,Medicare,Home Health,2021,7,31,5,1
+Winter,52,Female,South,Pneumonia,3,8,Interventional,6,2,2,Private,Home Health,2023,1,30,0,0
+Summer,53,Female,East,Hypertension,4,6,Conservative,6,5,2,Private,Home Health,2022,7,3,6,1
+Summer,35,Male,Central,Diabetes,2,5,Surgical,4,1,0,Medicaid,Rehab,2021,8,23,0,0
+Summer,58,Male,Central,Hypertension,6,5,Interventional,9,3,2,Private,Skilled Nursing,2021,8,2,0,1
+Spring,84,Male,South,Sepsis,6,11,Interventional,10,6,4,Medicare,Skilled Nursing,2022,5,15,6,1
+Fall,79,Female,East,Kidney Disease,5,8,Interventional,8,4,2,Medicare,Home Health,2022,9,29,3,1
+Summer,50,Male,East,Sepsis,3,9,Interventional,6,2,2,Private,Home Health,2021,7,25,6,1
+Fall,45,Female,West,Diabetes,4,6,Conservative,8,2,2,Private,Home Health,2021,10,2,5,1
+Winter,47,Female,East,COPD,6,10,Interventional,12,3,2,Private,Skilled Nursing,2021,12,1,2,1
+Winter,56,Female,South,COPD,5,9,Surgical,10,2,1,Private,Home Health,2023,2,1,2,1
+Fall,70,Female,South,Stroke,6,10,Medical,11,6,2,Medicare,Skilled Nursing,2021,9,27,0,1
+Spring,33,Female,South,Stroke,2,8,Surgical,4,3,0,Private,Skilled Nursing,2021,5,11,1,1
+Fall,59,Male,West,Appendicitis,5,6,Surgical,8,2,1,Uninsured,Home Health,2021,11,9,1,1
+Summer,47,Male,East,Stroke,4,10,Surgical,9,3,1,Medicaid,Home Health,2022,6,8,2,1
+Fall,44,Male,West,Fracture,3,6,Surgical,4,2,1,Private,Home Health,2021,11,27,5,1
+Summer,64,Female,South,Fracture,4,7,Medical,6,3,1,Private,Home Health,2021,7,19,0,1
+Summer,72,Female,East,Stroke,6,11,Surgical,10,4,4,Medicare,Skilled Nursing,2021,6,28,0,1
+Summer,73,Female,East,Fracture,5,8,Medical,8,4,2,Medicare,Home Health,2023,7,25,1,1
+Winter,47,Female,East,COPD,3,8,Surgical,8,2,1,Private,Home Health,2022,1,13,3,0
+Summer,68,Female,Central,Hypertension,5,5,Medical,8,4,1,Medicare,Home Health,2022,7,18,0,1
+Fall,81,Female,West,Fracture,5,8,Medical,10,5,2,Medicare,Home Health,2021,11,2,1,1
+Summer,72,Female,West,Stroke,5,9,Medical,8,7,5,Medicare,Home Health,2021,8,1,6,1
+Fall,90,Female,Central,COPD,6,8,Medical,11,6,2,Medicare,Skilled Nursing,2023,9,4,0,1
+Spring,50,Female,South,Stroke,4,9,Medical,6,3,1,Private,Home Health,2022,5,22,6,1
+Winter,59,Male,East,Diabetes,5,7,Interventional,8,2,1,Private,Home Health,2023,2,9,3,1
+Summer,43,Female,South,Diabetes,3,8,Medical,6,2,1,Uninsured,Home Health,2021,7,17,5,0
+Winter,39,Male,South,Stroke,3,9,Medical,4,4,1,Private,Home Health,2022,2,25,4,1
+Winter,45,Male,West,Influenza,4,7,Surgical,7,4,1,Private,Home Health,2021,12,12,6,0
+Spring,74,Male,Central,Kidney Disease,5,7,Surgical,8,4,4,Medicare,Home Health,2021,3,17,2,1
+Spring,50,Female,Central,Diabetes,4,6,Medical,7,2,1,Private,Home Health,2021,4,7,2,1
+Winter,66,Male,East,Diabetes,4,8,Surgical,8,4,1,Medicare,Home Health,2022,1,7,4,0
+Summer,65,Male,East,Kidney Disease,5,9,Medical,8,4,1,Medicaid,Home Health,2021,7,19,0,1
+Fall,41,Female,West,Kidney Disease,3,6,Interventional,6,2,2,Private,Home Health,2023,11,23,3,1
+Spring,67,Female,East,Hypertension,4,6,Medical,9,4,2,Medicare,Home Health,2022,3,29,1,1
+Winter,69,Female,Central,Pneumonia,5,12,Conservative,8,6,1,Medicare,Home Health,2022,12,7,2,1
+Spring,62,Female,West,Stroke,4,9,Surgical,8,3,1,Private,Home Health,2023,5,8,0,1
+Spring,66,Male,South,Stroke,4,11,Interventional,8,4,1,Medicare,Home Health,2022,5,8,6,1
+Fall,47,Male,West,Kidney Disease,4,8,Medical,6,5,1,Private,Home Health,2021,9,5,6,0
+Summer,49,Male,South,Hypertension,4,7,Surgical,7,2,2,Private,Home Health,2023,6,19,0,0
+Summer,62,Female,South,Stroke,4,11,Interventional,8,2,2,Private,Home Health,2023,7,13,3,1
+Fall,75,Male,East,Stroke,5,11,Surgical,10,6,2,Medicare,Home Health,2022,11,2,2,1
+Summer,35,Female,South,Stroke,2,9,Surgical,3,1,0,Private,Home,2021,8,23,0,0
+Winter,77,Female,Central,Sepsis,5,12,Surgical,8,5,2,Medicare,Home Health,2021,2,25,3,1
+Winter,34,Male,West,COPD,3,7,Medical,6,2,1,Uninsured,Home Health,2022,2,17,3,1
+Spring,62,Male,North,Stroke,4,9,Surgical,6,4,1,Private,Home Health,2021,5,1,5,0
+Fall,88,Female,North,Hypertension,7,7,Medical,10,6,3,Medicare,Skilled Nursing,2021,10,31,6,1
+Winter,66,Female,North,Influenza,4,6,Medical,6,4,1,Medicare,Home Health,2023,12,16,5,1
+Fall,58,Male,North,Hypertension,6,6,Conservative,12,4,2,Private,Skilled Nursing,2023,10,15,6,1
+Fall,58,Female,West,COPD,4,9,Surgical,8,4,2,Private,Home Health,2022,11,7,0,1
+Fall,44,Male,West,Diabetes,3,5,Medical,6,4,2,Medicaid,Home Health,2021,11,20,5,0
+Summer,50,Female,Central,COPD,3,8,Surgical,6,4,1,Uninsured,Home Health,2022,8,4,3,1
+Summer,29,Male,West,Fracture,2,8,Medical,4,1,0,Medicaid,Home,2022,8,21,6,1
+Summer,33,Male,Central,Sepsis,2,10,Medical,5,1,2,Private,Home Health,2023,6,15,3,1
+Fall,67,Female,South,Kidney Disease,6,9,Medical,10,6,2,Medicare,Skilled Nursing,2021,9,1,2,1
+Winter,76,Female,West,COPD,5,11,Surgical,8,4,2,Medicare,Home Health,2022,1,26,2,1
+Fall,75,Male,East,Stroke,7,10,Medical,10,7,3,Medicare,Skilled Nursing,2023,10,29,6,1
+Winter,75,Female,West,Influenza,6,6,Surgical,9,4,2,Medicare,Skilled Nursing,2023,12,30,5,1
+Fall,51,Female,West,Kidney Disease,3,7,Conservative,4,2,1,Medicaid,Home Health,2023,11,28,1,1
+Winter,71,Female,South,Influenza,5,6,Conservative,8,5,2,Medicare,Home Health,2022,2,13,6,1
+Spring,38,Male,North,Hypertension,3,5,Medical,6,2,1,Private,Home Health,2021,5,8,5,0
+Winter,66,Male,East,Pneumonia,6,9,Medical,10,6,2,Medicare,Skilled Nursing,2023,2,19,6,1
+Summer,54,Female,North,Kidney Disease,4,7,Medical,6,2,1,Uninsured,Home Health,2023,7,18,1,1
+Winter,90,Male,North,COPD,7,9,Surgical,12,5,3,Medicare,Skilled Nursing,2023,2,26,6,1
+Winter,60,Female,East,Pneumonia,5,9,Surgical,8,4,1,Private,Home Health,2021,2,2,1,1
+Fall,28,Female,South,Fracture,3,7,Surgical,4,2,1,Medicaid,Home Health,2023,10,19,3,1
+Winter,78,Male,South,Stroke,5,9,Medical,10,5,2,Medicare,Home Health,2021,12,10,4,1
+Fall,51,Female,South,Hypertension,3,4,Surgical,6,2,1,Medicaid,Home Health,2021,9,4,5,0
+Fall,31,Female,North,Diabetes,2,7,Conservative,3,1,0,Private,Skilled Nursing,2021,11,16,1,1
+Winter,53,Male,South,Pneumonia,4,9,Medical,6,2,1,Medicaid,Home Health,2021,1,24,6,0
+Summer,54,Female,North,Stroke,5,10,Surgical,8,2,1,Private,Home Health,2023,7,17,0,1
+Spring,67,Male,North,Diabetes,4,8,Interventional,8,4,1,Medicare,Home Health,2022,5,18,2,0
+Spring,44,Male,West,Stroke,4,9,Surgical,8,3,2,Uninsured,Home Health,2021,3,27,5,1
+Spring,45,Female,North,Diabetes,3,5,Surgical,6,4,3,Private,Home Health,2022,4,4,0,0
+Summer,41,Male,East,Fracture,3,7,Medical,6,2,1,Private,Home Health,2022,7,11,0,0
+Summer,53,Female,North,Stroke,4,9,Surgical,8,2,1,Medicaid,Home Health,2022,8,18,3,1
+Fall,71,Male,East,Appendicitis,5,5,Medical,8,4,2,Medicare,Home Health,2022,11,8,1,1
+Fall,59,Male,South,Diabetes,4,8,Medical,6,2,1,Private,Home Health,2023,9,23,5,0
+Summer,63,Female,South,Stroke,5,9,Medical,10,4,3,Private,Home Health,2022,8,24,2,0
+Winter,71,Male,West,Heart Failure,5,9,Medical,8,5,2,Medicare,Home Health,2021,12,2,3,1
+Winter,68,Female,South,COPD,5,9,Medical,8,4,1,Medicare,Home Health,2022,12,18,6,1
+Fall,34,Male,East,Stroke,2,9,Interventional,6,2,0,Private,Home,2023,9,30,5,0
+Spring,78,Female,North,Diabetes,5,6,Medical,10,5,2,Medicare,Home Health,2022,5,19,3,1
+Summer,36,Male,North,Stroke,2,9,Interventional,3,1,2,Medicaid,Home Health,2023,7,3,0,0
+Fall,74,Male,East,Stroke,5,9,Medical,8,6,4,Medicare,Home Health,2022,9,12,0,1
+Winter,20,Male,East,Influenza,1,7,Medical,2,0,0,Medicaid,Rehab,2023,1,4,2,0
+Summer,49,Female,West,Kidney Disease,3,6,Conservative,8,2,1,Private,Home Health,2022,7,1,4,0
+Summer,63,Female,South,Hypertension,4,5,Surgical,7,2,1,Medicaid,Home Health,2023,7,8,5,1
+Winter,83,Male,West,Heart Failure,6,11,Interventional,10,8,4,Medicare,Skilled Nursing,2023,2,1,2,1
+Spring,70,Female,North,Hypertension,5,6,Surgical,8,4,1,Medicare,Home Health,2023,5,19,4,1
+Spring,50,Female,North,Kidney Disease,3,9,Medical,6,2,1,Private,Home Health,2023,3,11,5,1
+Winter,57,Female,West,Pneumonia,4,10,Medical,8,2,1,Medicaid,Home Health,2022,12,16,4,1
+Summer,54,Female,North,Diabetes,4,6,Medical,6,5,1,Uninsured,Home Health,2021,8,14,5,0
+Summer,63,Female,North,Kidney Disease,4,8,Medical,8,2,1,Medicaid,Home Health,2021,6,27,6,1
+Spring,50,Female,South,Hypertension,3,5,Conservative,6,2,1,Private,Home Health,2021,5,3,0,0
+Spring,81,Male,West,Diabetes,5,6,Medical,10,5,3,Medicare,Home Health,2022,5,19,3,1
+Summer,43,Male,South,Hypertension,4,6,Surgical,6,2,1,Uninsured,Home Health,2023,6,9,4,0
+Spring,37,Female,North,Kidney Disease,2,8,Medical,4,1,2,Uninsured,Home Health,2022,5,13,4,1
+Summer,80,Male,South,Diabetes,5,8,Surgical,8,4,2,Medicare,Home Health,2023,8,21,0,1
+Fall,43,Female,South,Diabetes,3,5,Conservative,4,2,1,Private,Home Health,2023,9,22,4,1
+Winter,69,Male,Central,Pneumonia,5,9,Surgical,8,6,3,Medicare,Home Health,2023,12,22,4,1
+Winter,95,Male,North,Heart Failure,8,11,Medical,14,6,3,Medicare,Skilled Nursing,2021,12,24,4,1
+Winter,51,Female,West,Diabetes,4,8,Surgical,9,2,1,Medicaid,Home Health,2022,1,11,1,0
+Summer,34,Female,East,COPD,2,9,Interventional,4,1,0,Medicaid,Home,2023,6,2,4,1
+Winter,59,Male,Central,Diabetes,5,8,Surgical,8,2,1,Uninsured,Home Health,2022,2,26,5,1
+Fall,57,Male,South,Kidney Disease,4,9,Interventional,8,3,1,Private,Home Health,2023,11,10,4,1
+Winter,35,Female,South,COPD,2,7,Conservative,4,3,0,Medicaid,Home,2022,2,16,2,0
+Fall,95,Male,South,Sepsis,7,12,Interventional,12,5,3,Medicare,Skilled Nursing,2021,11,25,3,1
+Fall,46,Female,West,Hypertension,3,5,Medical,4,4,1,Private,Home Health,2022,11,21,0,0
+Summer,39,Female,West,COPD,3,10,Surgical,4,2,1,Medicaid,Home Health,2022,8,21,6,1
+Summer,64,Male,West,Diabetes,4,6,Conservative,7,2,1,Private,Home Health,2021,7,6,1,1
+Winter,64,Female,East,Pneumonia,4,9,Medical,9,2,1,Private,Home Health,2022,12,30,4,1
+Summer,35,Male,East,Hypertension,2,6,Conservative,3,2,2,Medicaid,Home,2021,8,14,5,0
+Spring,52,Female,North,Hypertension,3,5,Conservative,4,2,1,Private,Home Health,2022,3,1,1,1
+Fall,74,Female,South,COPD,5,10,Medical,8,5,2,Medicare,Home Health,2022,9,7,2,1
+Fall,59,Female,South,Hypertension,4,6,Surgical,6,5,1,Private,Home Health,2022,11,11,4,0
+Spring,78,Male,Central,COPD,5,10,Medical,8,7,2,Medicare,Home Health,2021,5,11,1,1
+Spring,40,Male,East,Hypertension,3,6,Surgical,4,2,1,Private,Home Health,2022,4,21,3,1
+Fall,78,Male,North,Kidney Disease,6,8,Medical,10,6,2,Medicare,Skilled Nursing,2021,10,17,6,1
+Summer,49,Female,Central,Fracture,3,7,Surgical,4,2,2,Medicaid,Home Health,2022,6,24,4,1
+Winter,72,Male,South,Hypertension,5,5,Medical,8,5,2,Medicare,Home Health,2021,12,7,1,1
+Fall,65,Male,West,Sepsis,6,11,Interventional,10,4,2,Uninsured,Skilled Nursing,2023,11,14,1,1
+Winter,45,Male,East,COPD,3,10,Medical,4,2,1,Private,Home Health,2022,2,1,1,1
+Summer,41,Male,North,Diabetes,5,7,Medical,8,4,1,Private,Home Health,2022,7,2,5,0
+Fall,52,Female,West,Appendicitis,4,7,Interventional,7,3,2,Medicaid,Home Health,2023,9,27,2,1
+Winter,45,Female,North,Heart Failure,4,10,Interventional,6,2,2,Private,Home Health,2022,12,17,5,1
+Spring,51,Male,East,Kidney Disease,3,6,Medical,4,2,1,Private,Home Health,2023,5,30,1,1
+Summer,54,Female,West,COPD,4,12,Medical,7,5,1,Private,Home Health,2023,6,18,6,0
+Summer,95,Male,West,COPD,7,9,Interventional,10,6,3,Medicare,Skilled Nursing,2021,6,16,2,1
+Summer,54,Female,South,Hypertension,5,6,Medical,8,2,1,Uninsured,Home Health,2021,8,22,6,1
+Winter,66,Female,North,Sepsis,6,12,Conservative,9,6,2,Medicare,Skilled Nursing,2023,1,16,0,1
+Winter,41,Male,South,Diabetes,3,8,Surgical,6,2,2,Medicaid,Home Health,2023,1,3,1,1
+Summer,63,Male,North,Diabetes,4,6,Interventional,6,4,1,Private,Home Health,2022,6,9,3,1
+Summer,68,Female,South,Stroke,7,10,Surgical,12,5,3,Medicare,Skilled Nursing,2021,7,7,2,1
+Fall,40,Female,West,Kidney Disease,4,7,Medical,8,2,1,Private,Home Health,2023,11,1,2,1
+Spring,20,Female,North,Appendicitis,1,3,Conservative,2,2,0,Private,Home Health,2022,3,8,1,0
+Summer,73,Female,South,Diabetes,5,9,Surgical,8,4,3,Medicare,Home Health,2023,7,17,0,1
+Summer,61,Female,Central,Sepsis,4,11,Medical,7,2,1,Private,Home Health,2022,7,10,6,1
+Fall,60,Female,West,COPD,5,9,Surgical,8,4,2,Private,Home Health,2023,10,23,0,1
+Spring,71,Male,North,Stroke,5,10,Medical,8,4,2,Medicare,Home Health,2023,4,6,3,1
+Summer,43,Female,West,Fracture,5,7,Interventional,8,2,1,Medicaid,Home Health,2022,7,23,5,0
+Spring,48,Male,North,Hypertension,3,5,Medical,6,4,1,Medicaid,Home Health,2022,3,17,3,1
+Fall,48,Female,Central,Kidney Disease,3,8,Interventional,6,2,1,Medicaid,Home Health,2023,10,10,1,0
+Spring,42,Female,South,Stroke,3,10,Interventional,8,2,1,Private,Home Health,2022,5,22,6,0
+Spring,83,Male,West,Stroke,6,10,Interventional,9,8,4,Medicare,Skilled Nursing,2022,4,24,6,1
+Winter,51,Female,East,Pneumonia,4,9,Interventional,7,3,1,Uninsured,Home Health,2023,1,15,6,1
+Fall,35,Female,North,COPD,2,9,Medical,4,1,0,Private,Home Health,2023,11,9,3,1
+Spring,39,Male,Central,Appendicitis,3,7,Surgical,4,2,1,Private,Home Health,2023,4,3,0,0
+Winter,54,Male,Central,Pneumonia,5,11,Medical,8,4,1,Private,Home Health,2021,1,4,0,1
+Spring,48,Female,East,Hypertension,3,5,Surgical,6,2,3,Medicaid,Home Health,2021,3,12,4,1
+Summer,72,Male,South,COPD,6,9,Surgical,10,4,2,Medicare,Skilled Nursing,2021,8,24,1,1
+Spring,39,Female,South,Hypertension,3,6,Medical,4,2,2,Medicaid,Home Health,2021,4,22,3,0
+Fall,91,Male,South,COPD,6,8,Medical,9,6,4,Medicare,Skilled Nursing,2023,10,23,0,0
+Summer,75,Male,South,Appendicitis,6,5,Medical,10,4,2,Medicare,Skilled Nursing,2022,7,30,5,1
+Winter,60,Male,South,Influenza,5,7,Interventional,8,4,2,Medicaid,Home Health,2021,2,1,0,1
+Fall,42,Female,Central,Diabetes,3,7,Surgical,8,2,1,Private,Home Health,2021,10,26,1,0
+Winter,32,Female,South,Heart Failure,2,8,Surgical,5,1,0,Private,Home,2021,2,27,5,0
+Winter,62,Female,West,Sepsis,5,10,Conservative,8,4,1,Medicaid,Home Health,2021,2,17,2,1
+Summer,66,Female,South,COPD,4,10,Interventional,7,4,1,Medicare,Home Health,2021,8,4,2,1
+Fall,39,Female,East,Kidney Disease,3,10,Medical,4,2,1,Private,Home Health,2023,11,12,6,0
+Winter,68,Female,South,COPD,5,10,Conservative,12,4,3,Medicare,Home Health,2023,1,23,0,1
+Summer,77,Male,South,Stroke,5,9,Conservative,8,6,2,Medicare,Home Health,2022,7,1,4,1
+Winter,29,Male,West,Pneumonia,4,9,Interventional,7,3,2,Medicaid,Home Health,2022,2,26,5,0
+Spring,79,Female,North,Diabetes,5,6,Medical,10,6,2,Medicare,Home Health,2023,5,20,5,1
+Fall,51,Female,East,Diabetes,3,6,Surgical,6,2,1,Private,Home Health,2021,9,17,4,0
+Winter,66,Female,Central,Heart Failure,4,10,Medical,6,4,1,Medicare,Home Health,2021,2,21,6,1
+Fall,57,Female,North,Diabetes,5,6,Medical,8,2,1,Private,Home Health,2021,10,19,1,1
+Winter,43,Female,South,Heart Failure,3,8,Medical,4,2,1,Medicaid,Home Health,2023,12,25,0,1
+Winter,47,Female,West,Influenza,3,7,Surgical,4,4,1,Medicaid,Home Health,2022,12,9,4,0
+Summer,65,Male,West,Kidney Disease,4,7,Medical,7,2,1,Medicaid,Home Health,2021,6,22,1,1
+Summer,68,Female,South,Appendicitis,5,6,Conservative,10,4,1,Medicare,Home Health,2023,7,22,5,1
+Winter,38,Male,South,Heart Failure,5,9,Surgical,8,4,1,Uninsured,Home Health,2021,2,27,5,1
+Summer,59,Female,South,Hypertension,5,7,Medical,8,4,1,Private,Home Health,2022,7,14,3,1
+Winter,60,Male,West,Sepsis,4,10,Conservative,7,3,2,Private,Home Health,2022,1,25,1,1
+Winter,86,Female,North,Heart Failure,7,10,Medical,12,6,3,Medicare,Skilled Nursing,2021,1,4,0,1
+Fall,67,Female,Central,Diabetes,5,8,Surgical,8,4,2,Medicare,Home Health,2023,9,29,4,1
+Fall,58,Male,West,Diabetes,4,7,Surgical,7,3,1,Private,Home Health,2022,9,28,2,1
+Fall,56,Male,Central,Fracture,4,7,Interventional,8,3,1,Private,Home Health,2021,11,21,6,0
+Winter,43,Female,North,Sepsis,3,11,Conservative,6,4,2,Medicaid,Home Health,2023,2,12,6,1
+Summer,85,Female,West,Kidney Disease,7,8,Interventional,12,7,3,Medicare,Skilled Nursing,2022,6,30,3,1
+Fall,74,Male,South,Fracture,6,9,Medical,10,6,4,Medicare,Skilled Nursing,2022,9,26,0,1
+Spring,34,Male,North,Kidney Disease,3,7,Surgical,8,2,1,Private,Home Health,2023,3,28,1,1
+Fall,49,Male,East,Kidney Disease,3,6,Medical,4,2,1,Private,Home Health,2021,11,19,4,1
+Summer,75,Male,East,Diabetes,6,8,Medical,10,4,2,Medicare,Skilled Nursing,2021,6,29,1,1
+Summer,91,Female,North,Hypertension,7,7,Interventional,10,6,3,Medicare,Skilled Nursing,2022,8,23,1,1
+Spring,53,Male,North,COPD,4,8,Surgical,6,2,1,Private,Home Health,2023,4,15,5,1
+Spring,62,Male,West,Appendicitis,4,6,Conservative,7,2,1,Private,Home Health,2022,5,3,1,0
+Summer,45,Female,South,Hypertension,4,5,Medical,8,3,3,Private,Home Health,2022,8,13,5,1
+Fall,39,Female,South,Kidney Disease,3,7,Medical,6,4,1,Private,Home Health,2021,9,3,4,0
+Fall,41,Male,West,Hypertension,3,8,Interventional,8,4,1,Medicaid,Home Health,2023,10,25,2,0
+Summer,50,Male,South,Diabetes,4,7,Medical,7,3,2,Medicaid,Home Health,2021,6,13,6,0
+Winter,77,Female,West,Pneumonia,5,8,Interventional,10,4,2,Medicare,Home Health,2023,2,9,3,1
+Winter,43,Female,South,Heart Failure,3,9,Medical,6,2,3,Private,Home Health,2023,2,18,5,1
+Fall,68,Male,Central,Stroke,6,10,Interventional,9,6,2,Medicare,Skilled Nursing,2022,9,16,4,1
+Summer,52,Male,North,Diabetes,3,5,Surgical,4,4,1,Medicaid,Home Health,2022,7,23,5,1
+Spring,58,Female,West,Hypertension,4,5,Interventional,7,2,2,Medicaid,Home Health,2021,5,17,0,1
+Fall,95,Female,North,Stroke,7,12,Medical,12,5,3,Medicare,Skilled Nursing,2022,10,29,5,1
+Summer,28,Female,East,Appendicitis,3,4,Medical,6,2,1,Private,Home Health,2022,7,21,3,0
+Winter,69,Male,East,Pneumonia,6,8,Interventional,10,4,2,Medicare,Skilled Nursing,2021,2,2,1,1
+Fall,64,Male,Central,Appendicitis,4,5,Conservative,7,3,1,Uninsured,Home Health,2023,9,19,1,1
+Summer,53,Female,South,Hypertension,4,6,Surgical,7,3,1,Medicaid,Home Health,2022,7,24,6,1
+Spring,52,Female,East,Kidney Disease,3,7,Interventional,6,2,1,Private,Home Health,2022,5,29,6,1
+Summer,75,Male,East,Kidney Disease,6,7,Medical,11,8,4,Medicare,Skilled Nursing,2021,8,31,1,1
+Winter,51,Male,North,COPD,4,10,Surgical,8,3,1,Uninsured,Home Health,2023,12,30,5,1
+Summer,45,Male,West,Hypertension,3,5,Surgical,4,2,2,Private,Home Health,2023,6,29,3,1
+Spring,73,Male,North,Diabetes,5,8,Medical,8,4,2,Medicare,Home Health,2023,5,26,4,1
+Winter,67,Female,West,Hypertension,4,5,Medical,7,4,1,Medicare,Home Health,2023,12,30,5,1
+Winter,84,Female,South,Sepsis,6,11,Conservative,9,6,2,Medicare,Skilled Nursing,2022,12,26,0,1
+Spring,42,Male,Central,Hypertension,3,5,Medical,4,4,1,Private,Home Health,2023,4,30,6,0
+Winter,65,Female,South,COPD,4,10,Medical,7,2,1,Private,Home Health,2022,12,4,6,1
+Winter,31,Female,North,Pneumonia,3,8,Interventional,8,2,1,Medicaid,Home Health,2022,1,30,6,0
+Winter,68,Female,East,Sepsis,5,11,Medical,10,5,1,Medicare,Home Health,2023,1,7,5,1
+Spring,53,Female,Central,Stroke,5,10,Surgical,8,4,1,Private,Home Health,2021,4,25,6,1
+Winter,61,Female,East,Pneumonia,5,9,Surgical,8,4,2,Medicaid,Home Health,2023,12,29,4,1
+Summer,61,Female,North,Hypertension,4,5,Medical,6,2,1,Private,Home Health,2023,6,26,0,1
+Winter,43,Female,South,Pneumonia,3,11,Medical,8,2,2,Private,Home Health,2021,12,20,0,1
+Winter,38,Female,South,Influenza,3,5,Medical,4,2,2,Medicaid,Home Health,2021,2,25,3,1
+Spring,95,Male,West,Diabetes,6,6,Surgical,11,6,2,Medicare,Skilled Nursing,2021,3,27,5,1
+Summer,78,Female,East,Kidney Disease,6,7,Surgical,13,6,2,Medicare,Skilled Nursing,2023,7,5,2,1
+Winter,71,Male,West,Heart Failure,5,11,Interventional,8,6,3,Medicare,Home Health,2022,1,21,4,1
+Summer,47,Male,West,Diabetes,3,6,Medical,4,2,1,Uninsured,Home Health,2021,7,15,3,0
+Summer,22,Male,West,Kidney Disease,2,6,Medical,4,1,2,Private,Home Health,2021,7,3,5,1
+Winter,52,Male,West,Pneumonia,4,9,Medical,6,4,1,Medicaid,Home Health,2021,12,21,1,1
+Spring,45,Female,West,Diabetes,3,5,Surgical,6,2,1,Private,Home Health,2022,5,16,0,1
+Winter,85,Male,Central,Influenza,6,9,Medical,10,6,2,Medicare,Skilled Nursing,2021,2,1,0,1
+Winter,64,Male,West,Heart Failure,4,11,Surgical,8,2,2,Private,Home Health,2023,12,21,3,1
+Fall,42,Male,North,Hypertension,4,6,Medical,7,3,1,Private,Home Health,2022,10,30,6,0
+Spring,43,Male,West,Hypertension,4,6,Interventional,8,3,1,Medicaid,Home Health,2022,4,2,5,1
+Spring,58,Female,North,Hypertension,4,6,Medical,8,3,1,Private,Home Health,2021,3,24,2,1
+Summer,35,Male,East,Kidney Disease,3,7,Interventional,4,2,1,Private,Home Health,2023,6,16,4,0
+Winter,55,Female,North,COPD,4,10,Conservative,7,2,2,Private,Home Health,2023,2,17,4,1
+Summer,43,Female,Central,Hypertension,3,6,Interventional,6,2,2,Private,Home Health,2022,7,7,3,1
+Winter,28,Male,North,Pneumonia,4,9,Surgical,6,6,1,Private,Home Health,2023,2,4,5,0
+Fall,76,Male,East,Diabetes,5,8,Medical,8,4,2,Medicare,Home Health,2022,9,19,0,1
+Fall,81,Female,South,Sepsis,5,11,Medical,10,5,2,Medicare,Home Health,2023,9,16,5,1
+Spring,42,Male,West,Hypertension,4,7,Medical,9,4,1,Medicaid,Home Health,2021,5,4,1,1
+Summer,75,Male,East,COPD,5,8,Medical,8,6,3,Medicare,Home Health,2021,7,30,4,1
+Spring,58,Male,South,Kidney Disease,4,7,Conservative,6,5,3,Medicaid,Home Health,2021,3,15,0,1
+Winter,75,Female,Central,Pneumonia,5,9,Surgical,8,4,2,Medicare,Home Health,2022,1,1,5,1
+Spring,53,Female,North,COPD,4,8,Interventional,6,5,2,Private,Home Health,2021,5,20,3,1
+Spring,64,Male,South,Hypertension,6,6,Medical,11,4,2,Medicaid,Skilled Nursing,2021,5,31,0,1
+Fall,55,Male,West,Hypertension,5,5,Interventional,8,4,1,Medicaid,Home Health,2022,11,28,0,1
+Winter,82,Female,North,Influenza,5,6,Medical,8,4,2,Medicare,Home Health,2023,2,24,4,1
+Fall,62,Female,Central,Appendicitis,5,6,Interventional,10,4,1,Medicaid,Home Health,2023,10,7,5,0
+Spring,41,Female,West,Hypertension,4,6,Surgical,8,4,1,Private,Home Health,2023,5,8,0,1
+Fall,36,Male,North,Stroke,2,10,Medical,7,3,2,Medicaid,Home,2021,11,3,2,1
+Winter,70,Female,East,Diabetes,6,8,Medical,10,6,2,Medicare,Skilled Nursing,2021,12,5,6,1
+Summer,68,Female,East,Appendicitis,7,7,Medical,12,5,3,Medicare,Skilled Nursing,2022,7,8,4,1
+Fall,21,Female,West,Diabetes,1,6,Interventional,4,0,0,Private,Home,2022,9,28,2,0
+Summer,61,Female,East,Diabetes,4,6,Medical,6,3,1,Uninsured,Home Health,2023,7,21,4,1
+Spring,55,Female,South,Diabetes,4,8,Surgical,8,3,1,Medicaid,Home Health,2021,3,12,4,0
+Fall,50,Female,West,Diabetes,3,7,Conservative,4,2,3,Medicaid,Home Health,2022,10,18,1,1
+Winter,43,Female,West,Pneumonia,3,9,Interventional,4,2,1,Private,Home Health,2022,12,24,5,1
+Summer,76,Male,Central,COPD,6,9,Medical,10,8,2,Medicare,Skilled Nursing,2023,7,7,4,1
+Spring,61,Female,North,Sepsis,5,11,Medical,8,4,1,Private,Home Health,2023,5,5,4,1
+Summer,62,Female,East,Appendicitis,4,6,Interventional,7,3,1,Private,Home Health,2022,6,19,6,1
+Fall,66,Female,North,Hypertension,4,6,Surgical,7,4,1,Medicare,Home Health,2022,10,3,0,0
+Summer,55,Male,North,Diabetes,4,7,Surgical,9,3,2,Private,Home Health,2023,8,14,0,1
+Summer,70,Female,West,Hypertension,6,5,Conservative,10,4,2,Medicare,Skilled Nursing,2023,7,12,2,1
+Winter,45,Male,East,COPD,3,11,Conservative,6,4,1,Uninsured,Home Health,2023,12,11,0,1
+Winter,82,Female,South,Influenza,5,6,Medical,10,4,3,Medicare,Home Health,2021,2,19,4,1
+Winter,57,Male,East,Pneumonia,4,8,Interventional,6,2,1,Private,Home Health,2021,12,24,4,1
+Spring,57,Female,South,Hypertension,4,5,Medical,6,2,1,Uninsured,Home Health,2023,3,13,0,0
+Spring,87,Male,East,Diabetes,7,9,Medical,14,6,3,Medicare,Skilled Nursing,2022,4,14,3,1
+Winter,64,Female,South,Diabetes,4,8,Medical,7,3,1,Private,Home Health,2023,1,31,1,0
+Fall,48,Female,South,Sepsis,3,12,Surgical,4,2,2,Private,Home Health,2021,11,17,2,1
+Winter,53,Male,North,Pneumonia,4,8,Interventional,7,4,1,Private,Home Health,2023,12,30,5,1
+Winter,44,Female,West,Pneumonia,3,7,Medical,6,2,2,Private,Home Health,2023,2,6,0,1
+Spring,66,Female,West,Diabetes,4,6,Surgical,7,4,1,Medicare,Home Health,2023,3,23,3,1
+Winter,33,Male,North,Stroke,2,9,Medical,4,2,0,Private,Home Health,2022,12,12,0,1
+Summer,66,Female,Central,Fracture,4,7,Medical,6,6,1,Medicare,Home Health,2022,7,30,5,1
+Summer,62,Male,North,Stroke,4,11,Surgical,6,2,1,Medicaid,Home Health,2021,8,17,1,1
+Winter,33,Male,West,Stroke,2,9,Medical,4,2,2,Medicaid,Home Health,2022,2,17,3,0
+Winter,48,Male,Central,Heart Failure,3,9,Surgical,4,2,1,Private,Home Health,2021,12,5,6,0
+Spring,72,Male,South,COPD,5,8,Interventional,8,6,2,Medicare,Home Health,2021,3,11,3,1
+Summer,53,Female,East,Appendicitis,5,7,Surgical,10,4,2,Uninsured,Home Health,2022,7,31,6,1
+Fall,58,Female,East,Hypertension,4,5,Medical,8,2,1,Private,Home Health,2021,11,5,4,1
+Winter,50,Female,South,Influenza,3,7,Medical,8,4,1,Uninsured,Home Health,2022,12,25,6,0
+Fall,36,Female,West,Hypertension,2,4,Surgical,4,2,0,Medicaid,Home,2023,9,13,2,1
+Spring,48,Female,West,Hypertension,4,6,Surgical,6,2,1,Medicaid,Home Health,2022,3,2,2,1
+Summer,32,Male,East,Fracture,3,6,Medical,4,2,1,Private,Home Health,2022,6,11,5,0
+Summer,87,Female,Central,Diabetes,7,8,Medical,12,6,3,Medicare,Skilled Nursing,2022,8,7,6,1
+Summer,81,Male,Central,Appendicitis,6,5,Surgical,10,6,4,Medicare,Skilled Nursing,2023,8,7,0,1
+Spring,61,Female,West,Diabetes,4,6,Interventional,7,3,1,Medicaid,Home Health,2022,4,8,4,1
+Summer,42,Male,North,COPD,4,9,Surgical,6,2,1,Medicaid,Home Health,2021,6,23,2,1
+Spring,58,Male,Central,Diabetes,4,6,Interventional,8,4,1,Medicaid,Home Health,2023,3,14,1,1
+Spring,57,Male,South,Stroke,6,9,Medical,10,4,2,Uninsured,Skilled Nursing,2023,3,27,0,1
+Summer,66,Female,South,Hypertension,4,8,Surgical,6,4,1,Medicare,Home Health,2022,7,4,0,1
+Winter,37,Male,East,Influenza,4,7,Interventional,8,4,1,Private,Home Health,2023,12,24,6,0
+Fall,51,Female,West,Hypertension,3,4,Medical,6,4,1,Medicaid,Home Health,2021,10,5,1,0
+Spring,77,Female,Central,Diabetes,6,6,Interventional,9,6,4,Medicare,Skilled Nursing,2022,5,7,5,1
+Summer,71,Male,South,Hypertension,5,6,Medical,8,5,2,Medicare,Home Health,2023,7,6,3,1
+Summer,37,Female,East,Kidney Disease,2,6,Medical,4,2,0,Private,Home Health,2021,7,2,4,0
+Spring,63,Male,West,Appendicitis,4,7,Medical,7,2,1,Private,Home Health,2021,5,4,1,0
+Fall,75,Male,North,Stroke,5,10,Conservative,8,6,2,Medicare,Home Health,2023,10,24,1,1
+Fall,57,Female,South,Hypertension,4,5,Surgical,8,4,1,Private,Home Health,2022,11,6,6,1
+Summer,74,Female,East,Diabetes,5,8,Surgical,8,5,2,Medicare,Home Health,2023,7,12,2,1
+Spring,45,Female,East,Kidney Disease,4,7,Medical,8,2,1,Private,Home Health,2021,3,27,5,1
+Winter,45,Female,Central,COPD,4,9,Medical,6,7,1,Private,Home Health,2021,2,27,5,1
+Spring,43,Male,North,Sepsis,3,10,Interventional,4,2,1,Private,Home Health,2021,4,9,4,1
+Spring,70,Male,South,Hypertension,5,7,Medical,8,5,1,Medicare,Home Health,2022,4,7,3,1
+Winter,56,Male,Central,Heart Failure,4,10,Surgical,7,3,1,Private,Home Health,2021,12,14,1,1
+Summer,20,Female,North,Appendicitis,1,4,Medical,2,2,1,Medicaid,Home Health,2022,6,14,1,0
+Winter,67,Male,Central,Hypertension,4,7,Medical,7,6,3,Medicare,Home Health,2022,1,12,2,1
+Winter,52,Male,North,COPD,3,8,Medical,6,2,1,Private,Home Health,2023,2,20,0,1
+Fall,57,Male,South,COPD,5,9,Medical,8,4,1,Private,Home Health,2022,9,23,4,1
+Summer,49,Male,South,Hypertension,4,6,Surgical,6,3,1,Uninsured,Home Health,2022,7,30,5,0
+Spring,62,Male,East,Diabetes,4,6,Interventional,7,2,1,Medicaid,Home Health,2023,3,6,0,1
+Winter,44,Male,South,Hypertension,4,7,Interventional,6,2,1,Private,Home Health,2022,2,5,5,0
+Summer,80,Male,South,Diabetes,5,9,Surgical,8,6,2,Medicare,Home Health,2021,6,23,2,1
+Spring,66,Female,South,Sepsis,4,11,Surgical,6,4,1,Medicare,Home Health,2021,4,30,4,1
+Summer,58,Male,North,Hypertension,4,8,Surgical,8,2,2,Private,Home Health,2022,6,4,5,1
+Fall,58,Male,East,Stroke,5,11,Conservative,8,4,2,Uninsured,Home Health,2021,10,16,5,1
+Winter,57,Male,North,COPD,4,9,Surgical,9,3,1,Private,Home Health,2021,2,14,6,1
+Fall,53,Female,East,Diabetes,6,7,Surgical,11,3,2,Medicaid,Skilled Nursing,2023,11,30,3,1
+Summer,65,Male,West,Appendicitis,6,5,Medical,11,3,2,Medicaid,Skilled Nursing,2022,6,6,0,1
+Spring,56,Female,South,Diabetes,4,6,Medical,6,3,2,Medicaid,Home Health,2023,4,9,6,1
+Fall,71,Female,Central,Fracture,6,7,Surgical,10,4,2,Medicare,Skilled Nursing,2022,11,18,4,1
+Spring,45,Male,South,Fracture,6,8,Surgical,9,3,2,Private,Skilled Nursing,2023,5,15,0,1
+Summer,22,Female,Central,Hypertension,1,3,Surgical,4,2,0,Private,Home,2021,8,23,0,0
+Summer,35,Female,Central,Hypertension,2,6,Medical,3,2,0,Uninsured,Home,2022,7,1,4,0
+Fall,41,Female,South,Stroke,4,9,Surgical,6,2,1,Private,Home Health,2023,9,26,1,1
+Winter,70,Male,North,COPD,6,9,Interventional,11,6,2,Medicare,Skilled Nursing,2021,2,1,0,1
+Winter,58,Male,East,Hypertension,4,7,Surgical,8,2,2,Medicaid,Home Health,2022,2,26,5,1
+Winter,43,Female,East,Sepsis,4,10,Medical,6,2,1,Private,Home Health,2023,2,11,5,1
+Spring,34,Female,Central,Sepsis,2,10,Medical,6,2,0,Medicaid,Home,2021,5,30,6,0
+Winter,57,Female,East,Pneumonia,4,8,Surgical,8,3,2,Medicaid,Home Health,2021,12,29,2,1
+Summer,63,Male,East,Hypertension,4,6,Interventional,6,3,2,Uninsured,Home Health,2022,7,8,4,1
+Summer,42,Male,East,Kidney Disease,4,9,Medical,8,3,2,Private,Home Health,2021,6,2,2,1
+Fall,69,Female,East,Hypertension,5,5,Conservative,8,9,2,Medicare,Home Health,2023,10,22,6,1
+Winter,63,Male,North,Pneumonia,4,10,Medical,7,2,1,Medicaid,Home Health,2021,1,26,1,0
+Fall,79,Male,West,COPD,6,8,Medical,9,4,2,Medicare,Skilled Nursing,2022,11,10,3,1
+Summer,53,Male,East,Hypertension,4,6,Surgical,6,2,1,Medicaid,Home Health,2022,8,2,1,0
+Summer,87,Male,West,Stroke,6,10,Surgical,10,6,2,Medicare,Skilled Nursing,2023,6,11,6,1
+Fall,81,Male,Central,Fracture,7,9,Surgical,12,8,3,Medicare,Skilled Nursing,2023,10,17,1,1
+Spring,64,Female,South,Diabetes,7,7,Medical,12,6,2,Private,Skilled Nursing,2021,5,2,6,1
+Fall,54,Male,Central,COPD,4,8,Medical,6,4,1,Private,Home Health,2023,11,26,6,1
+Winter,69,Female,East,COPD,5,10,Conservative,10,7,1,Medicare,Home Health,2023,1,17,1,1
+Spring,66,Male,West,COPD,5,8,Interventional,8,5,1,Medicare,Home Health,2023,3,10,4,1
+Spring,51,Male,North,Sepsis,4,11,Medical,8,2,2,Uninsured,Home Health,2022,3,21,0,1
+Summer,77,Male,West,Hypertension,7,6,Surgical,14,5,3,Medicare,Skilled Nursing,2023,6,16,4,1
+Fall,67,Female,West,Stroke,5,9,Interventional,8,5,1,Medicare,Home Health,2023,10,15,6,0
+Winter,18,Female,West,Hypertension,1,3,Medical,4,0,0,Private,Skilled Nursing,2022,1,21,4,0
+Winter,88,Female,Central,COPD,6,9,Medical,9,6,2,Medicare,Skilled Nursing,2021,1,24,6,1
+Summer,80,Male,North,Fracture,7,9,Surgical,12,5,3,Medicare,Skilled Nursing,2021,6,28,0,1
+Summer,41,Male,East,Hypertension,3,4,Surgical,4,4,1,Uninsured,Home Health,2023,8,27,6,1
+Fall,47,Male,East,Diabetes,3,8,Medical,4,2,2,Private,Home Health,2023,9,1,4,0
+Fall,77,Male,South,Sepsis,6,10,Interventional,10,6,4,Medicare,Skilled Nursing,2022,9,24,5,0
+Winter,66,Male,East,Influenza,4,7,Surgical,7,6,2,Medicare,Home Health,2023,2,23,3,1
+Winter,51,Female,East,Diabetes,3,6,Medical,6,2,2,Medicaid,Home Health,2021,12,21,1,1
+Spring,72,Male,East,Diabetes,5,7,Medical,8,6,4,Medicare,Home Health,2023,5,1,0,1
+Winter,45,Female,East,Stroke,3,9,Conservative,4,2,1,Medicaid,Home Health,2023,1,19,3,1
+Summer,37,Female,Central,Stroke,3,8,Surgical,8,4,1,Uninsured,Home Health,2022,8,8,0,1
+Summer,65,Female,East,Diabetes,4,7,Medical,8,2,1,Private,Home Health,2021,6,18,4,0
+Fall,37,Male,South,Kidney Disease,5,7,Surgical,10,4,1,Private,Home Health,2021,10,11,0,1
+Winter,24,Female,Central,COPD,3,7,Surgical,6,4,1,Private,Home Health,2022,2,24,3,1
+Fall,56,Female,Central,Hypertension,5,6,Surgical,10,2,2,Private,Home Health,2021,9,5,6,1
+Winter,95,Female,East,COPD,6,9,Surgical,11,6,2,Medicare,Skilled Nursing,2023,2,9,3,1
+Summer,46,Male,South,Hypertension,3,7,Medical,4,2,1,Private,Home Health,2022,6,26,6,0
+Fall,91,Female,South,Hypertension,7,6,Interventional,10,6,3,Medicare,Skilled Nursing,2023,11,7,1,1
+Spring,43,Female,West,Stroke,4,12,Medical,7,3,1,Medicaid,Home Health,2021,3,29,0,0
+Summer,67,Female,South,Kidney Disease,5,7,Medical,8,4,1,Medicare,Home Health,2022,6,15,2,1
+Spring,57,Female,East,Kidney Disease,4,8,Interventional,9,3,2,Private,Home Health,2021,5,28,4,1
+Winter,31,Female,Central,Heart Failure,2,8,Medical,4,3,2,Uninsured,Rehab,2022,12,26,0,1
+Fall,60,Female,Central,Fracture,4,7,Interventional,7,2,2,Private,Home Health,2021,9,11,5,1
+Winter,91,Female,South,COPD,7,11,Medical,12,6,4,Medicare,Skilled Nursing,2022,1,31,0,1
+Winter,80,Male,South,Diabetes,5,8,Medical,8,4,2,Medicare,Home Health,2021,2,17,2,1
+Winter,62,Female,Central,Pneumonia,4,10,Interventional,9,2,1,Medicaid,Home Health,2023,2,18,5,1
+Fall,57,Female,East,Hypertension,5,5,Surgical,8,6,2,Medicaid,Home Health,2023,11,23,3,1
+Fall,54,Male,South,Hypertension,5,5,Interventional,10,4,1,Medicaid,Home Health,2021,11,25,3,1
+Spring,71,Female,South,Hypertension,5,5,Medical,8,7,2,Medicare,Home Health,2023,4,22,5,1
+Spring,26,Female,West,Hypertension,2,5,Medical,3,1,0,Private,Skilled Nursing,2023,4,23,6,0
+Fall,65,Male,West,Appendicitis,6,5,Medical,9,4,2,Private,Skilled Nursing,2022,10,25,1,1
+Spring,65,Female,North,Stroke,4,9,Interventional,6,5,2,Private,Home Health,2022,4,30,5,1
+Summer,61,Male,East,Diabetes,5,7,Surgical,8,4,2,Private,Home Health,2022,8,2,1,1
+Spring,55,Female,North,COPD,5,10,Surgical,10,6,2,Private,Home Health,2022,3,5,5,1
+Spring,41,Female,South,Stroke,3,8,Medical,6,2,1,Private,Home Health,2023,4,24,0,1
+Summer,73,Male,South,COPD,5,9,Interventional,8,6,2,Medicare,Home Health,2021,6,28,0,1
+Summer,46,Female,West,Fracture,4,7,Medical,6,3,2,Private,Home Health,2022,8,8,0,1
+Spring,83,Female,North,Hypertension,8,6,Surgical,12,6,3,Medicare,Skilled Nursing,2023,3,22,2,1
+Winter,62,Male,North,Heart Failure,4,9,Surgical,7,4,1,Uninsured,Home Health,2022,12,6,1,1
+Spring,58,Female,West,COPD,4,8,Medical,7,5,2,Private,Home Health,2023,5,31,2,1
+Winter,65,Male,East,Diabetes,4,7,Surgical,6,3,1,Private,Home Health,2023,2,6,0,1
+Winter,90,Female,North,Hypertension,7,7,Medical,14,8,4,Medicare,Skilled Nursing,2021,2,16,1,1
+Fall,43,Female,North,Diabetes,3,6,Conservative,6,2,1,Medicaid,Home Health,2022,11,13,6,1
+Summer,51,Male,North,Stroke,3,11,Interventional,8,2,1,Uninsured,Home Health,2023,7,13,3,1
+Fall,39,Female,South,Hypertension,4,7,Interventional,7,5,1,Private,Home Health,2022,10,13,3,0
+Fall,42,Male,South,Diabetes,4,6,Conservative,6,2,2,Medicaid,Home Health,2023,9,9,5,0
+Summer,48,Female,South,Hypertension,3,5,Medical,4,2,1,Medicaid,Home Health,2022,8,8,0,1
+Summer,55,Female,North,Stroke,5,9,Medical,8,4,1,Private,Home Health,2021,8,15,6,1
+Spring,57,Female,West,Kidney Disease,5,8,Medical,10,6,2,Private,Home Health,2023,5,22,0,1
+Spring,91,Female,North,Hypertension,6,7,Medical,10,4,2,Medicare,Skilled Nursing,2023,4,27,3,1
+Spring,87,Male,East,Kidney Disease,7,8,Medical,12,8,3,Medicare,Skilled Nursing,2022,4,15,4,1
+Spring,45,Female,East,Appendicitis,5,8,Medical,8,4,1,Uninsured,Home Health,2023,3,13,0,1
+Summer,36,Male,East,Kidney Disease,3,7,Medical,6,2,1,Private,Home Health,2023,6,29,3,0
+Spring,27,Male,North,Hypertension,2,5,Medical,5,1,0,Uninsured,Home Health,2022,4,9,5,0
+Winter,68,Male,West,Influenza,6,7,Medical,9,6,2,Medicare,Skilled Nursing,2023,2,7,1,1
+Spring,80,Female,South,Appendicitis,6,5,Medical,12,6,2,Medicare,Skilled Nursing,2022,3,9,2,1
+Winter,40,Male,North,COPD,4,8,Medical,7,3,1,Private,Home Health,2022,12,19,0,1
+Summer,47,Female,West,Diabetes,5,6,Medical,10,4,2,Private,Home Health,2021,8,5,3,1
+Spring,33,Male,Central,Hypertension,3,4,Conservative,6,4,1,Private,Home Health,2021,4,19,0,0
+Summer,48,Female,West,Stroke,3,8,Medical,4,2,1,Private,Home Health,2023,6,28,2,1
+Winter,51,Female,Central,COPD,3,10,Medical,4,2,2,Medicaid,Home Health,2021,2,18,3,1
+Winter,58,Female,North,Influenza,5,8,Interventional,8,4,1,Private,Home Health,2021,12,22,2,1
+Spring,52,Male,South,Diabetes,3,6,Surgical,4,2,2,Private,Home Health,2021,5,27,3,0
+Summer,59,Male,East,Hypertension,4,6,Surgical,7,2,1,Medicaid,Home Health,2021,7,3,5,1
+Spring,75,Female,South,Diabetes,5,7,Medical,8,5,2,Medicare,Home Health,2023,4,3,0,1
+Summer,79,Male,North,Kidney Disease,7,9,Medical,14,5,3,Medicare,Skilled Nursing,2022,7,24,6,1
+Spring,51,Male,South,COPD,3,7,Medical,6,2,1,Private,Home Health,2022,3,3,3,0
+Fall,54,Female,North,Stroke,5,9,Medical,8,2,1,Medicaid,Home Health,2022,11,9,2,1
+Summer,63,Female,Central,Fracture,5,8,Medical,8,2,1,Medicaid,Home Health,2023,6,5,0,1
+Spring,76,Male,East,Kidney Disease,5,9,Medical,8,4,4,Medicare,Home Health,2023,4,22,5,1
+Summer,63,Male,East,Appendicitis,4,6,Medical,6,4,1,Medicaid,Home Health,2021,6,14,0,0
+Summer,66,Female,West,Diabetes,5,6,Conservative,8,7,1,Medicare,Home Health,2022,6,24,4,0
+Fall,80,Male,South,Kidney Disease,5,8,Medical,8,5,2,Medicare,Home Health,2022,9,26,0,1
+Spring,74,Female,West,Diabetes,5,7,Medical,8,9,2,Medicare,Home Health,2021,5,10,0,1
+Spring,59,Male,West,Hypertension,5,6,Surgical,10,4,1,Private,Home Health,2021,4,19,0,1
+Summer,49,Male,South,Fracture,3,6,Medical,4,2,1,Private,Home Health,2023,8,5,5,0
+Fall,57,Female,East,Diabetes,4,7,Interventional,8,2,1,Uninsured,Home Health,2022,9,11,6,0
+Spring,46,Male,West,Sepsis,3,9,Medical,6,2,1,Private,Home Health,2021,3,7,6,1
+Spring,77,Female,East,Kidney Disease,5,8,Medical,8,4,3,Medicare,Home Health,2022,4,10,6,1
+Winter,55,Female,West,Heart Failure,5,10,Interventional,8,4,1,Private,Home Health,2023,2,4,5,1
+Summer,57,Female,South,Stroke,4,9,Medical,6,3,1,Medicaid,Home Health,2022,6,18,5,1
+Spring,64,Male,West,Appendicitis,5,7,Interventional,10,4,2,Private,Home Health,2021,4,19,0,1
+Summer,40,Female,South,Appendicitis,4,5,Interventional,7,3,1,Private,Home Health,2022,7,27,2,1
+Fall,43,Male,East,Kidney Disease,3,6,Interventional,4,2,1,Private,Home Health,2022,9,20,1,0
+Spring,85,Female,Central,Sepsis,8,12,Medical,13,8,3,Medicare,Skilled Nursing,2022,4,18,0,1
+Spring,71,Female,North,Hypertension,5,5,Surgical,8,5,2,Medicare,Home Health,2023,3,17,4,1
+Summer,81,Male,East,COPD,5,9,Surgical,8,4,3,Medicare,Home Health,2022,8,15,0,1
+Spring,74,Female,Central,Appendicitis,6,7,Surgical,10,6,2,Medicare,Skilled Nursing,2022,3,11,4,1
+Spring,55,Female,South,Kidney Disease,5,8,Interventional,8,4,1,Medicaid,Home Health,2023,3,5,6,1
+Spring,59,Male,South,Hypertension,4,6,Interventional,6,6,1,Private,Home Health,2021,5,25,1,1
+Fall,68,Female,West,Stroke,5,9,Surgical,12,4,1,Medicare,Home Health,2022,9,3,5,1
+Fall,49,Female,East,Diabetes,4,8,Interventional,6,3,2,Private,Home Health,2021,11,18,3,1
+Fall,31,Male,North,Appendicitis,3,5,Medical,4,2,1,Private,Home Health,2021,10,19,1,1
+Fall,48,Male,North,Kidney Disease,3,7,Conservative,4,2,2,Private,Home Health,2023,11,8,2,1
+Fall,34,Female,South,Diabetes,4,7,Surgical,6,2,1,Private,Home Health,2022,11,25,4,0
+Summer,18,Female,North,Hypertension,2,4,Medical,3,1,0,Private,Skilled Nursing,2021,8,3,1,0
+Winter,73,Female,West,COPD,5,8,Medical,10,6,2,Medicare,Home Health,2023,2,4,5,1
+Summer,43,Male,North,Hypertension,3,4,Medical,4,2,1,Private,Home Health,2021,7,14,2,1
+Summer,53,Female,Central,Diabetes,4,7,Interventional,6,4,2,Medicaid,Home Health,2021,8,9,0,1
+Winter,44,Male,West,COPD,3,8,Medical,6,2,2,Uninsured,Home Health,2021,2,26,4,1
+Spring,76,Female,Central,Hypertension,7,6,Medical,10,7,3,Medicare,Skilled Nursing,2021,3,6,5,1
+Summer,38,Female,East,Appendicitis,3,6,Medical,6,4,1,Medicaid,Home Health,2022,6,8,2,0
+Winter,57,Female,East,Influenza,6,8,Medical,11,4,2,Private,Skilled Nursing,2022,1,3,0,1
+Winter,71,Male,Central,Heart Failure,5,9,Medical,8,5,3,Medicare,Home Health,2021,2,9,1,1
+Summer,59,Female,West,COPD,7,10,Interventional,12,4,2,Private,Skilled Nursing,2023,8,12,5,0
+Summer,62,Male,South,Diabetes,4,9,Medical,7,4,1,Private,Home Health,2022,7,4,0,1
+Winter,75,Male,North,Pneumonia,5,8,Surgical,8,5,3,Medicare,Home Health,2023,2,6,0,1
+Winter,79,Female,East,Hypertension,6,5,Medical,9,6,4,Medicare,Skilled Nursing,2022,12,10,5,1
+Summer,65,Female,South,Hypertension,4,7,Conservative,8,2,1,Private,Home Health,2023,6,6,1,1
+Winter,48,Female,South,Pneumonia,3,7,Medical,8,2,1,Private,Home Health,2023,1,8,6,1
+Fall,65,Female,East,Stroke,4,9,Interventional,7,4,1,Private,Home Health,2023,9,19,1,1
+Spring,48,Female,South,Diabetes,3,7,Surgical,4,2,1,Uninsured,Home Health,2023,3,31,4,1
+Winter,47,Female,South,COPD,3,10,Interventional,6,2,1,Medicaid,Home Health,2022,2,1,1,1
+Spring,35,Female,West,Kidney Disease,2,6,Medical,4,1,2,Private,Home,2023,3,18,5,1
+Spring,49,Female,West,Diabetes,3,6,Surgical,6,2,1,Uninsured,Home Health,2021,4,5,0,0
+Spring,61,Female,East,Hypertension,5,6,Surgical,8,2,1,Private,Home Health,2023,5,6,5,1
+Spring,32,Female,West,Hypertension,3,5,Interventional,6,2,1,Private,Home Health,2023,4,11,1,0
+Fall,46,Male,South,Diabetes,3,6,Surgical,4,2,1,Medicaid,Home Health,2022,10,7,4,0
+Winter,70,Female,Central,Sepsis,5,11,Interventional,8,5,1,Medicare,Home Health,2021,12,18,5,1
+Summer,32,Male,East,Diabetes,2,8,Surgical,3,1,2,Medicaid,Home,2021,6,28,0,0
+Summer,54,Female,South,Diabetes,5,6,Conservative,10,4,2,Medicaid,Home Health,2021,8,4,2,1
+Summer,74,Male,West,COPD,5,10,Surgical,8,5,2,Medicare,Home Health,2022,6,30,3,1
+Summer,66,Male,Central,Stroke,5,11,Interventional,8,5,1,Medicare,Home Health,2021,7,27,1,1
+Winter,66,Female,East,COPD,5,9,Surgical,8,4,1,Medicare,Home Health,2023,2,5,6,1
+Winter,79,Male,West,Heart Failure,5,10,Conservative,8,5,2,Medicare,Home Health,2023,2,7,1,1
+Spring,43,Female,South,Stroke,3,11,Interventional,4,4,1,Medicaid,Home Health,2022,4,9,5,0
+Fall,32,Female,South,Stroke,2,8,Medical,5,1,2,Private,Home Health,2022,9,26,0,0
+Fall,74,Male,Central,Hypertension,5,5,Surgical,8,6,2,Medicare,Home Health,2022,11,21,0,1
+Winter,46,Female,East,Diabetes,3,7,Medical,6,4,2,Private,Home Health,2023,1,12,3,1
+Winter,48,Female,North,Hypertension,3,6,Medical,4,2,1,Private,Home Health,2021,2,8,0,0
+Winter,68,Male,Central,Diabetes,5,6,Surgical,8,6,1,Medicare,Home Health,2022,2,18,4,1
+Winter,72,Female,North,Heart Failure,5,10,Interventional,10,5,2,Medicare,Home Health,2021,12,11,5,0
+Winter,33,Male,North,Diabetes,3,6,Surgical,4,2,1,Medicaid,Home Health,2022,2,6,6,0
+Winter,52,Male,East,Pneumonia,4,11,Interventional,8,2,2,Medicaid,Home Health,2022,12,6,1,1
+Spring,80,Male,Central,Kidney Disease,5,10,Surgical,8,4,3,Medicare,Home Health,2022,5,23,0,1
+Fall,52,Male,East,COPD,3,9,Medical,8,2,1,Uninsured,Home Health,2023,9,7,3,1
+Spring,79,Male,East,Sepsis,5,12,Medical,10,4,2,Medicare,Home Health,2021,5,9,6,1
+Spring,70,Female,East,Stroke,5,10,Interventional,8,4,1,Medicare,Home Health,2021,5,15,5,1
+Fall,60,Male,Central,Hypertension,4,7,Interventional,9,3,1,Medicaid,Home Health,2023,11,7,1,0
+Summer,54,Male,South,Diabetes,5,7,Interventional,10,4,1,Medicaid,Home Health,2022,7,19,1,1
+Fall,59,Male,East,COPD,5,8,Interventional,8,2,2,Private,Home Health,2023,9,14,3,1
+Fall,71,Female,South,Hypertension,5,5,Medical,12,5,2,Medicare,Home Health,2021,10,11,0,1
+Winter,64,Female,South,Stroke,5,9,Surgical,8,4,1,Medicaid,Home Health,2022,12,30,4,1
+Summer,18,Male,West,Kidney Disease,1,7,Interventional,2,2,1,Private,Home,2021,7,6,1,1
+Winter,54,Male,East,Pneumonia,4,8,Medical,8,2,4,Private,Home Health,2023,2,8,2,1
+Winter,73,Male,East,Pneumonia,6,8,Surgical,12,4,2,Medicare,Skilled Nursing,2022,2,27,6,1
+Winter,79,Male,South,Influenza,8,8,Medical,12,6,3,Medicare,Skilled Nursing,2021,1,22,4,1
+Winter,54,Female,Central,Pneumonia,4,10,Medical,8,3,1,Medicaid,Home Health,2023,1,20,4,0
+Spring,72,Male,North,Diabetes,7,7,Medical,12,7,3,Medicare,Skilled Nursing,2021,4,21,2,1
+Spring,72,Male,South,Hypertension,6,5,Medical,9,6,4,Medicare,Skilled Nursing,2021,3,28,6,1
+Spring,58,Female,North,Sepsis,6,10,Medical,11,4,2,Private,Skilled Nursing,2023,5,5,4,1
+Spring,35,Male,South,Kidney Disease,3,7,Surgical,6,6,1,Private,Home Health,2021,4,13,1,1
+Spring,62,Female,North,Kidney Disease,4,9,Surgical,8,3,1,Private,Home Health,2022,4,2,5,1
+Spring,25,Female,East,COPD,2,8,Medical,4,2,0,Private,Home,2021,3,18,3,0
+Spring,65,Female,West,Hypertension,5,5,Conservative,8,4,1,Private,Home Health,2022,3,30,2,1
+Fall,86,Male,West,Fracture,6,7,Medical,10,6,2,Medicare,Skilled Nursing,2021,10,31,6,1
+Fall,59,Female,West,COPD,4,10,Surgical,7,3,5,Medicaid,Home Health,2022,9,26,0,1
+Winter,62,Female,South,Heart Failure,6,10,Conservative,11,6,2,Medicaid,Skilled Nursing,2023,1,6,4,1
+Winter,77,Male,East,Sepsis,6,10,Surgical,9,4,2,Medicare,Skilled Nursing,2023,12,8,4,1
+Fall,49,Male,West,Hypertension,5,5,Interventional,8,2,1,Private,Home Health,2021,10,30,5,0
+Winter,78,Male,North,Heart Failure,5,10,Conservative,8,4,2,Medicare,Home Health,2021,1,21,3,1
+Spring,47,Female,South,Kidney Disease,3,6,Interventional,4,6,3,Private,Home Health,2021,4,16,4,1
+Fall,39,Male,East,Hypertension,3,4,Medical,6,2,1,Medicaid,Home Health,2021,10,26,1,0
+Fall,52,Male,North,Diabetes,3,5,Surgical,6,4,1,Private,Home Health,2023,11,30,3,0
+Fall,58,Female,West,Fracture,5,8,Medical,10,2,1,Private,Home Health,2023,11,9,3,1
+Summer,71,Male,South,Stroke,5,9,Medical,8,4,2,Medicare,Home Health,2022,6,27,0,1
+Summer,34,Male,West,COPD,2,7,Surgical,3,2,2,Medicaid,Skilled Nursing,2022,7,16,5,0
+Winter,37,Female,North,Stroke,3,8,Interventional,8,2,1,Medicaid,Home Health,2021,2,4,3,1
+Fall,69,Male,East,Hypertension,5,5,Medical,10,5,1,Medicare,Home Health,2021,9,7,1,1
+Spring,60,Male,West,Hypertension,5,7,Medical,8,2,2,Private,Home Health,2021,4,21,2,1
+Summer,35,Male,North,Diabetes,2,7,Surgical,4,1,2,Private,Home Health,2021,7,18,6,0
+Fall,59,Female,East,COPD,4,8,Surgical,8,4,1,Private,Home Health,2023,10,27,4,1
+Summer,65,Male,West,Hypertension,4,8,Interventional,9,5,1,Private,Home Health,2022,6,13,0,0
+Spring,66,Male,East,Hypertension,4,8,Surgical,6,4,1,Medicare,Home Health,2022,5,25,2,1
+Fall,55,Female,South,Hypertension,5,5,Medical,10,4,2,Medicaid,Home Health,2023,10,13,4,1
+Winter,61,Male,North,Influenza,4,6,Conservative,7,3,1,Private,Home Health,2021,1,1,4,1
+Fall,51,Male,Central,Diabetes,3,6,Surgical,8,2,2,Medicaid,Home Health,2021,11,30,1,1
+Summer,42,Male,Central,Hypertension,4,5,Medical,8,2,1,Private,Home Health,2021,7,17,5,1
+Fall,40,Female,East,Fracture,3,6,Medical,4,4,1,Private,Home Health,2022,9,16,4,0
+Fall,30,Male,West,Stroke,2,9,Medical,3,1,2,Private,Home,2022,9,25,6,1
+Fall,30,Female,North,Kidney Disease,2,9,Interventional,5,3,0,Uninsured,Home Health,2023,9,18,0,1
+Winter,66,Male,West,COPD,4,10,Medical,7,6,1,Medicare,Home Health,2023,2,11,5,1
+Spring,37,Male,West,Appendicitis,2,7,Surgical,3,1,0,Medicaid,Skilled Nursing,2022,4,28,3,0
+Fall,61,Female,South,Diabetes,4,6,Conservative,7,3,2,Medicaid,Home Health,2023,10,23,0,1
+Summer,58,Female,East,Diabetes,5,7,Medical,8,4,1,Private,Home Health,2023,8,6,6,1
+Fall,43,Female,West,Hypertension,3,5,Conservative,6,2,1,Private,Home Health,2022,10,25,1,1
+Fall,25,Female,West,Stroke,2,8,Conservative,5,2,2,Medicaid,Home,2022,10,30,6,1
+Spring,39,Male,South,Hypertension,3,8,Conservative,4,2,1,Medicaid,Home Health,2022,4,12,1,1
+Spring,64,Female,Central,Appendicitis,4,6,Medical,6,3,2,Medicaid,Home Health,2023,4,14,4,1
+Winter,95,Male,West,Pneumonia,6,10,Conservative,10,4,2,Medicare,Skilled Nursing,2023,1,6,4,1
+Fall,78,Female,East,Kidney Disease,5,8,Conservative,10,4,2,Medicare,Home Health,2023,10,10,1,1
+Summer,58,Male,Central,Diabetes,5,7,Medical,8,4,2,Private,Home Health,2023,6,18,6,1
+Fall,68,Female,West,Kidney Disease,6,7,Surgical,10,4,2,Medicare,Skilled Nursing,2022,10,4,1,1
+Spring,69,Female,Central,Sepsis,5,10,Medical,10,4,1,Medicare,Home Health,2021,5,23,6,1
+Fall,85,Female,South,Hypertension,7,7,Surgical,14,7,3,Medicare,Skilled Nursing,2023,9,12,1,1
+Summer,58,Female,East,Stroke,5,11,Medical,10,4,1,Private,Home Health,2023,7,19,2,1
+Fall,43,Female,North,Diabetes,3,8,Medical,6,2,1,Uninsured,Home Health,2023,9,17,6,1
+Summer,59,Male,South,COPD,4,8,Medical,7,3,1,Private,Home Health,2023,6,5,0,1
+Fall,88,Male,South,Hypertension,6,5,Surgical,9,6,2,Medicare,Skilled Nursing,2023,11,9,3,1
+Summer,95,Female,South,Stroke,6,10,Surgical,9,4,2,Medicare,Skilled Nursing,2021,7,18,6,1
+Fall,40,Male,East,Kidney Disease,4,7,Medical,7,2,1,Private,Home Health,2022,9,23,4,1
+Fall,38,Female,East,Kidney Disease,5,7,Medical,8,2,1,Private,Home Health,2021,11,15,0,1
+Winter,46,Female,South,Heart Failure,4,10,Surgical,7,2,1,Private,Home Health,2023,2,9,3,0
+Summer,61,Female,North,Hypertension,4,5,Medical,6,4,1,Uninsured,Home Health,2023,8,28,0,1
+Spring,53,Female,West,Diabetes,4,8,Medical,6,2,1,Private,Home Health,2022,3,26,5,1
+Fall,69,Male,North,COPD,5,9,Surgical,8,4,1,Medicare,Home Health,2023,9,10,6,1
+Fall,38,Male,Central,Hypertension,3,4,Medical,8,4,1,Private,Home Health,2023,10,11,2,1
+Summer,68,Male,West,Diabetes,6,6,Surgical,11,8,2,Medicare,Skilled Nursing,2021,7,19,0,1
+Summer,54,Male,Central,Diabetes,4,7,Medical,6,2,1,Private,Home Health,2023,6,29,3,0
+Spring,75,Female,South,Diabetes,5,8,Conservative,8,6,2,Medicare,Home Health,2022,5,13,4,1
+Fall,63,Male,North,Hypertension,4,6,Medical,8,3,2,Private,Home Health,2021,10,28,3,1
+Fall,67,Male,Central,COPD,4,9,Medical,7,4,1,Medicare,Home Health,2022,11,5,5,1
+Summer,87,Female,Central,Sepsis,6,12,Interventional,11,4,4,Medicare,Skilled Nursing,2021,6,30,2,1
+Summer,62,Male,North,Kidney Disease,4,8,Medical,8,3,1,Uninsured,Home Health,2022,8,9,1,1
+Winter,55,Male,North,COPD,5,8,Medical,8,2,1,Private,Home Health,2023,2,17,4,1
+Spring,42,Female,East,Stroke,3,9,Surgical,6,2,2,Private,Home Health,2021,4,27,1,1
+Summer,70,Male,South,Hypertension,5,5,Medical,8,4,2,Medicare,Home Health,2023,8,30,2,1
+Spring,62,Male,East,Diabetes,4,6,Interventional,6,3,2,Medicaid,Home Health,2021,3,22,0,1
+Spring,56,Male,East,Kidney Disease,4,7,Medical,6,5,1,Private,Home Health,2022,5,21,5,1
+Winter,66,Female,South,Influenza,5,7,Surgical,8,5,2,Medicare,Home Health,2023,1,27,4,1
+Fall,42,Male,South,Fracture,4,8,Surgical,8,4,2,Private,Home Health,2021,11,28,6,1
+Winter,56,Female,North,Heart Failure,4,11,Surgical,7,4,2,Medicaid,Home Health,2022,1,29,5,1
+Fall,63,Male,West,Appendicitis,4,6,Interventional,7,3,1,Medicaid,Home Health,2022,10,27,3,1
+Fall,57,Female,North,Sepsis,4,13,Surgical,7,3,1,Private,Home Health,2022,9,1,3,0
+Summer,74,Female,East,Hypertension,5,6,Interventional,8,4,2,Medicare,Home Health,2021,6,25,4,1
+Summer,71,Female,North,Hypertension,5,5,Surgical,8,4,2,Medicare,Home Health,2021,8,26,3,1
+Summer,52,Male,South,Sepsis,4,11,Interventional,7,3,2,Uninsured,Home Health,2022,7,15,4,1
+Winter,56,Male,East,Stroke,6,11,Interventional,10,4,2,Uninsured,Skilled Nursing,2022,12,18,6,1
+Fall,67,Female,West,Diabetes,4,6,Medical,6,4,2,Medicare,Home Health,2022,11,29,1,1
+Summer,60,Male,North,Diabetes,6,7,Surgical,10,4,2,Private,Skilled Nursing,2023,7,28,4,1
+Spring,35,Male,North,Hypertension,3,5,Interventional,4,2,1,Private,Home Health,2021,3,15,0,0
+Spring,48,Female,South,Kidney Disease,3,6,Interventional,6,4,2,Private,Home Health,2021,5,21,4,1
+Summer,44,Female,East,Fracture,3,7,Medical,4,2,2,Uninsured,Home Health,2022,8,28,6,1
+Spring,53,Female,North,Diabetes,6,8,Medical,11,4,2,Medicaid,Skilled Nursing,2021,4,12,0,1
+Summer,44,Male,South,Hypertension,3,4,Medical,6,2,1,Private,Home Health,2023,8,1,1,1
+Fall,59,Female,Central,Appendicitis,5,6,Medical,10,4,1,Private,Home Health,2023,11,30,3,0
+Fall,50,Male,South,Appendicitis,3,6,Surgical,6,2,1,Uninsured,Home Health,2021,10,14,3,1
+Spring,31,Male,East,Stroke,3,8,Medical,4,2,2,Private,Home Health,2021,3,7,6,1
+Summer,50,Female,East,Kidney Disease,4,7,Medical,6,2,2,Private,Home Health,2023,6,26,0,1
+Summer,34,Female,North,Hypertension,2,5,Surgical,3,1,0,Uninsured,Home,2023,8,27,6,0
+Fall,56,Male,East,Diabetes,5,7,Interventional,8,2,1,Uninsured,Home Health,2023,10,22,6,1
+Fall,51,Female,Central,Stroke,3,8,Surgical,8,2,2,Medicaid,Home Health,2023,9,10,6,1
+Winter,58,Female,North,COPD,5,8,Surgical,8,2,2,Private,Home Health,2023,1,31,1,1
+Fall,54,Male,West,Stroke,4,11,Surgical,7,3,1,Private,Home Health,2022,10,19,2,1
+Summer,48,Female,East,Diabetes,3,5,Medical,6,4,1,Private,Home Health,2021,7,14,2,1
+Winter,63,Male,West,Stroke,5,11,Conservative,10,4,1,Medicaid,Home Health,2022,1,29,5,1
+Winter,49,Female,East,Influenza,5,7,Medical,8,4,1,Private,Home Health,2022,2,25,4,0
+Summer,42,Female,South,Diabetes,3,6,Conservative,6,2,2,Private,Home Health,2023,8,8,1,0
+Fall,39,Female,South,Appendicitis,3,7,Medical,4,2,2,Private,Home Health,2021,10,21,3,1
+Fall,70,Male,East,Sepsis,5,11,Interventional,10,7,3,Medicare,Home Health,2023,10,31,1,1
+Summer,80,Male,West,Hypertension,6,5,Surgical,10,6,2,Medicare,Skilled Nursing,2022,6,29,2,1
+Fall,69,Male,West,Stroke,5,9,Medical,8,6,1,Medicare,Home Health,2021,11,15,0,1
+Fall,63,Female,East,Hypertension,4,7,Conservative,7,2,1,Private,Home Health,2021,11,3,2,0
+Spring,35,Male,North,Appendicitis,2,5,Medical,3,1,0,Medicaid,Rehab,2023,5,28,6,0
+Fall,79,Male,East,Stroke,5,9,Interventional,10,5,3,Medicare,Home Health,2023,10,25,2,1
+Winter,59,Male,West,Sepsis,4,10,Medical,6,5,1,Uninsured,Home Health,2022,2,1,1,0
+Spring,68,Female,South,Diabetes,5,9,Surgical,8,6,2,Medicare,Home Health,2022,5,11,2,1
+Winter,83,Male,East,COPD,6,11,Medical,12,4,4,Medicare,Skilled Nursing,2022,1,6,3,1
+Winter,52,Male,South,Heart Failure,3,8,Interventional,6,2,1,Uninsured,Home Health,2021,2,16,1,1
+Summer,38,Male,South,Kidney Disease,5,9,Medical,8,4,2,Private,Home Health,2023,6,2,4,1
+Spring,44,Male,North,Hypertension,3,5,Interventional,6,2,1,Uninsured,Home Health,2023,4,25,1,0
+Fall,66,Male,North,Sepsis,5,13,Medical,8,4,1,Medicare,Home Health,2023,11,6,0,1
+Fall,88,Male,West,Fracture,6,9,Medical,11,4,4,Medicare,Skilled Nursing,2022,9,23,4,1
+Fall,65,Male,East,Kidney Disease,5,8,Medical,8,4,1,Medicaid,Home Health,2022,10,24,0,1
+Fall,76,Male,West,Hypertension,6,8,Surgical,10,6,2,Medicare,Skilled Nursing,2023,9,16,5,1
+Spring,61,Female,West,Appendicitis,5,6,Medical,8,2,1,Uninsured,Home Health,2021,3,18,3,0
+Fall,84,Female,South,Hypertension,6,7,Medical,9,4,2,Medicare,Skilled Nursing,2022,11,15,1,1
+Summer,69,Female,East,Appendicitis,6,5,Interventional,10,6,2,Medicare,Skilled Nursing,2022,8,21,6,1
+Spring,60,Female,North,Fracture,4,8,Interventional,7,2,1,Private,Home Health,2023,4,13,3,0
+Winter,63,Male,South,COPD,5,9,Surgical,8,2,1,Private,Home Health,2021,1,6,2,1
+Winter,34,Female,Central,Influenza,2,7,Interventional,4,3,0,Medicaid,Home,2023,2,27,0,0
+Fall,76,Female,West,Diabetes,6,6,Medical,10,6,2,Medicare,Skilled Nursing,2022,11,11,4,1
+Summer,70,Female,East,Appendicitis,5,7,Medical,8,4,1,Medicare,Home Health,2021,7,5,0,1
+Summer,60,Female,Central,Kidney Disease,4,10,Conservative,6,3,1,Private,Home Health,2022,8,15,0,1
+Fall,56,Male,East,Hypertension,4,7,Medical,6,3,2,Medicaid,Home Health,2023,9,9,5,0
+Fall,53,Male,South,Hypertension,4,5,Interventional,8,3,1,Medicaid,Home Health,2023,11,1,2,1
+Spring,77,Male,East,Diabetes,5,9,Medical,8,6,2,Medicare,Home Health,2023,5,14,6,1
+Spring,47,Male,North,Diabetes,4,7,Interventional,7,4,2,Private,Home Health,2022,3,3,3,1
+Fall,44,Female,East,Diabetes,3,5,Interventional,6,2,1,Medicaid,Home Health,2022,10,31,0,0
+Summer,29,Female,North,Kidney Disease,4,9,Conservative,7,4,1,Medicaid,Home Health,2022,7,31,6,1
+Summer,91,Female,East,Stroke,6,10,Surgical,10,6,2,Medicare,Skilled Nursing,2023,6,3,5,1
+Summer,48,Male,South,Fracture,4,7,Medical,7,3,1,Uninsured,Home Health,2023,6,23,4,1
+Fall,78,Male,West,Hypertension,5,6,Interventional,8,7,2,Medicare,Home Health,2023,10,31,1,0
+Summer,55,Male,Central,Hypertension,5,5,Medical,10,4,1,Private,Home Health,2022,7,17,6,1
+Fall,53,Male,East,Kidney Disease,5,7,Medical,10,4,1,Private,Home Health,2022,11,25,4,0
+Winter,70,Female,West,COPD,5,9,Surgical,8,4,1,Medicare,Home Health,2021,2,2,1,1
+Spring,50,Male,East,Appendicitis,5,5,Medical,8,4,2,Private,Home Health,2022,3,29,1,1
+Summer,67,Female,East,Appendicitis,5,6,Medical,8,5,2,Medicare,Home Health,2022,6,28,1,0
+Summer,74,Female,South,Stroke,7,10,Conservative,12,5,3,Medicare,Skilled Nursing,2021,8,4,2,1
+Fall,34,Female,West,Diabetes,3,5,Interventional,4,2,1,Private,Home Health,2021,10,11,0,0
+Winter,84,Male,East,Pneumonia,6,10,Medical,12,4,2,Medicare,Skilled Nursing,2021,2,24,2,1
+Winter,46,Male,East,Stroke,4,9,Medical,6,2,2,Private,Home Health,2023,2,12,6,1
+Fall,49,Male,South,Appendicitis,4,6,Interventional,7,2,1,Private,Home Health,2023,10,23,0,0
+Summer,83,Male,North,Hypertension,6,5,Surgical,9,6,2,Medicare,Skilled Nursing,2021,7,11,6,1
+Fall,46,Male,West,Kidney Disease,3,6,Medical,6,2,2,Medicaid,Home Health,2021,10,17,6,1
+Winter,56,Male,North,Diabetes,4,7,Surgical,10,3,2,Private,Home Health,2022,12,17,5,1
+Spring,47,Female,South,COPD,4,8,Interventional,8,3,1,Private,Home Health,2022,4,23,5,1
+Summer,21,Male,West,Kidney Disease,2,6,Medical,4,3,0,Medicaid,Home Health,2021,8,20,4,0
+Winter,54,Male,South,Hypertension,4,7,Surgical,6,2,2,Private,Home Health,2023,12,9,5,1
+Summer,42,Male,West,Diabetes,3,6,Medical,4,2,2,Uninsured,Home Health,2023,7,31,0,1
+Winter,49,Male,East,Sepsis,4,10,Medical,6,2,1,Medicaid,Home Health,2021,2,28,6,1
+Summer,84,Female,Central,Stroke,6,9,Surgical,11,6,2,Medicare,Skilled Nursing,2021,7,3,5,1
+Winter,72,Female,West,Pneumonia,6,8,Medical,12,6,2,Medicare,Skilled Nursing,2022,12,8,3,1
+Spring,65,Female,North,Stroke,4,10,Medical,9,5,1,Medicaid,Home Health,2023,5,30,1,1
+Summer,50,Male,North,Kidney Disease,3,7,Medical,6,2,1,Medicaid,Home Health,2022,8,1,0,1
+Fall,36,Female,South,Diabetes,2,7,Medical,3,3,2,Private,Home Health,2022,10,7,4,0
+Spring,60,Male,West,Diabetes,4,6,Surgical,7,2,2,Private,Home Health,2022,5,5,3,0
+Winter,57,Male,South,Stroke,5,11,Interventional,10,2,1,Uninsured,Home Health,2022,1,17,0,1
+Fall,95,Male,West,Diabetes,7,10,Medical,12,7,3,Medicare,Skilled Nursing,2021,11,1,0,1
+Summer,56,Female,East,Hypertension,4,7,Conservative,6,4,2,Uninsured,Home Health,2023,7,9,6,1
+Fall,40,Male,East,Hypertension,4,5,Surgical,6,4,1,Medicaid,Home Health,2022,11,4,4,1
+Winter,52,Male,South,Influenza,5,6,Medical,10,4,1,Medicaid,Home Health,2021,2,19,4,1
+Spring,85,Male,Central,Diabetes,6,8,Medical,10,8,2,Medicare,Skilled Nursing,2021,4,15,3,1
+Summer,47,Female,West,Diabetes,3,6,Medical,6,2,1,Private,Home Health,2021,8,19,3,1
+Winter,68,Female,West,Stroke,6,9,Surgical,11,6,2,Medicare,Skilled Nursing,2021,1,4,0,1
+Winter,58,Male,East,Sepsis,4,10,Medical,7,4,1,Uninsured,Home Health,2023,1,19,3,1
+Fall,44,Female,West,Appendicitis,3,4,Medical,4,2,2,Uninsured,Home Health,2022,11,30,2,1
+Winter,68,Male,West,Heart Failure,6,10,Medical,11,6,2,Medicare,Skilled Nursing,2021,12,13,0,1
+Summer,73,Female,Central,Diabetes,5,9,Medical,8,5,2,Medicare,Home Health,2023,6,16,4,1
+Spring,57,Male,Central,Hypertension,4,6,Surgical,6,3,1,Uninsured,Home Health,2022,4,1,4,0
+Fall,46,Male,Central,Sepsis,4,11,Surgical,7,2,1,Medicaid,Home Health,2023,10,7,5,1
+Winter,49,Female,West,COPD,3,8,Medical,6,4,1,Private,Home Health,2023,2,5,6,1
+Summer,75,Male,North,Appendicitis,5,6,Medical,8,5,4,Medicare,Home Health,2023,7,25,1,1
+Fall,40,Female,South,Hypertension,4,8,Surgical,7,3,2,Private,Home Health,2022,9,13,1,0
+Summer,82,Female,South,Stroke,6,9,Medical,10,8,4,Medicare,Skilled Nursing,2022,8,15,0,1
+Fall,38,Male,East,Hypertension,3,4,Conservative,4,2,1,Private,Home Health,2021,11,26,4,0
+Fall,62,Male,Central,Hypertension,5,8,Medical,8,2,1,Private,Home Health,2021,10,12,1,1
+Summer,67,Male,North,Sepsis,4,12,Medical,8,4,1,Medicare,Home Health,2023,8,2,2,1
+Summer,49,Female,North,Kidney Disease,3,6,Conservative,6,4,2,Medicaid,Home Health,2023,8,10,3,1
+Spring,25,Female,South,COPD,4,9,Surgical,7,3,1,Private,Home Health,2021,4,7,2,1
+Winter,41,Male,South,Heart Failure,3,8,Medical,6,2,1,Private,Home Health,2021,1,14,3,1
+Summer,63,Female,East,Kidney Disease,5,8,Medical,8,2,2,Private,Home Health,2023,7,24,0,1
+Spring,47,Male,Central,Kidney Disease,3,7,Surgical,6,2,1,Private,Home Health,2022,4,10,6,1
+Winter,70,Male,Central,COPD,5,10,Surgical,10,6,1,Medicare,Home Health,2021,12,21,1,1
+Fall,68,Female,West,Hypertension,5,5,Medical,10,5,1,Medicare,Home Health,2022,10,31,0,1
+Winter,56,Male,South,Heart Failure,4,10,Medical,8,3,1,Private,Home Health,2023,12,23,5,1
+Spring,63,Male,South,Hypertension,4,6,Medical,6,3,1,Medicaid,Home Health,2023,5,22,0,0
+Spring,58,Male,West,Hypertension,5,7,Medical,8,2,1,Uninsured,Home Health,2022,5,18,2,0
+Winter,49,Female,East,COPD,5,8,Medical,10,4,1,Uninsured,Home Health,2021,2,3,2,1
+Summer,86,Female,West,Hypertension,6,7,Interventional,11,4,2,Medicare,Skilled Nursing,2022,7,15,4,1
+Spring,67,Male,East,Kidney Disease,4,8,Conservative,10,6,1,Medicare,Home Health,2021,4,23,4,1
+Summer,70,Female,Central,Fracture,5,7,Interventional,8,5,1,Medicare,Home Health,2022,8,30,1,1
+Spring,66,Male,East,Hypertension,4,6,Medical,8,4,2,Medicare,Home Health,2021,3,31,2,1
+Fall,72,Male,South,Stroke,5,12,Medical,12,4,3,Medicare,Home Health,2022,10,24,0,1
+Fall,64,Male,West,COPD,6,9,Surgical,11,3,2,Private,Skilled Nursing,2022,10,1,5,1
+Winter,87,Female,West,COPD,6,10,Interventional,9,4,4,Medicare,Skilled Nursing,2021,2,14,6,1
+Spring,58,Female,North,Appendicitis,4,6,Surgical,7,4,1,Uninsured,Home Health,2023,4,9,6,1
+Fall,59,Female,East,Diabetes,5,8,Medical,8,4,1,Private,Home Health,2022,9,26,0,0
+Summer,73,Male,South,Stroke,5,9,Interventional,8,4,2,Medicare,Home Health,2023,8,27,6,1
+Summer,54,Male,North,Diabetes,4,9,Medical,8,2,1,Uninsured,Home Health,2023,7,1,5,0
+Spring,54,Female,South,Hypertension,4,7,Medical,6,4,1,Private,Home Health,2021,5,17,0,1
+Summer,77,Female,West,Stroke,5,9,Interventional,10,5,2,Medicare,Home Health,2021,8,12,3,1
+Summer,41,Female,North,Fracture,3,8,Conservative,6,2,1,Medicaid,Home Health,2021,8,29,6,1
+Winter,83,Male,North,Pneumonia,6,8,Conservative,9,8,2,Medicare,Skilled Nursing,2022,2,23,2,1
+Winter,64,Female,Central,Heart Failure,4,10,Medical,7,2,2,Uninsured,Home Health,2023,2,6,0,1
+Winter,80,Female,South,COPD,5,8,Conservative,8,6,2,Medicare,Home Health,2022,1,17,0,1
+Winter,51,Female,North,Pneumonia,4,8,Conservative,8,2,1,Medicaid,Home Health,2021,2,12,4,1
+Summer,58,Male,North,Sepsis,4,10,Medical,7,2,2,Private,Home Health,2022,8,9,1,1
+Fall,49,Female,Central,Diabetes,5,6,Medical,8,2,1,Private,Home Health,2021,9,13,0,1
+Spring,58,Female,Central,Kidney Disease,4,8,Conservative,6,3,1,Private,Home Health,2022,4,20,2,1
+Fall,66,Male,Central,COPD,5,10,Medical,8,4,1,Medicare,Home Health,2022,11,14,0,1
+Fall,73,Male,North,Hypertension,6,6,Interventional,10,4,2,Medicare,Skilled Nursing,2021,9,7,1,1
+Spring,60,Female,East,Diabetes,4,9,Medical,7,4,1,Uninsured,Home Health,2023,3,23,3,1
+Summer,41,Female,East,Stroke,4,13,Medical,6,3,1,Uninsured,Home Health,2021,8,16,0,0
+Summer,42,Male,North,Hypertension,4,6,Medical,6,4,1,Private,Home Health,2022,8,21,6,0
+Spring,24,Male,South,Appendicitis,5,5,Medical,8,4,1,Uninsured,Home Health,2023,4,19,2,0
+Fall,61,Male,Central,Hypertension,4,6,Medical,8,3,1,Private,Home Health,2021,10,28,3,1
+Summer,66,Female,West,Sepsis,4,10,Interventional,6,4,1,Medicare,Home Health,2021,8,26,3,1
+Summer,56,Female,West,COPD,4,10,Conservative,6,2,1,Private,Home Health,2022,7,10,6,1
+Fall,42,Male,West,Hypertension,5,6,Medical,8,4,1,Private,Home Health,2023,9,21,3,1
+Spring,36,Male,West,COPD,2,8,Conservative,5,1,2,Private,Home Health,2021,5,11,1,1
+Spring,69,Male,Central,Hypertension,5,6,Interventional,8,7,1,Medicare,Home Health,2023,5,27,5,1
+Fall,63,Female,North,Diabetes,4,8,Medical,6,4,1,Medicaid,Home Health,2023,9,18,0,1
+Summer,95,Female,East,Diabetes,7,9,Surgical,12,8,3,Medicare,Skilled Nursing,2022,6,28,1,1
+Winter,70,Male,East,Sepsis,5,12,Interventional,8,6,1,Medicare,Home Health,2021,2,8,0,1
+Winter,82,Female,North,Heart Failure,8,10,Medical,13,8,3,Medicare,Skilled Nursing,2022,12,24,5,1
+Spring,64,Female,South,Sepsis,4,10,Medical,6,2,1,Private,Home Health,2021,4,23,4,1
+Summer,64,Female,West,Appendicitis,8,8,Interventional,13,6,2,Uninsured,Skilled Nursing,2022,6,16,3,1
+Fall,77,Female,South,Fracture,5,7,Medical,8,5,2,Medicare,Home Health,2022,11,6,6,1
+Fall,44,Male,Central,Diabetes,3,8,Conservative,6,2,1,Medicaid,Home Health,2021,11,9,1,0
+Fall,67,Female,East,Appendicitis,4,5,Medical,6,4,1,Medicare,Home Health,2023,11,9,3,1
+Summer,54,Female,North,Sepsis,5,11,Surgical,8,2,1,Medicaid,Home Health,2022,6,25,5,1
+Summer,58,Male,Central,Hypertension,5,6,Interventional,10,4,1,Medicaid,Home Health,2021,6,9,2,1
+Fall,57,Female,South,Fracture,4,8,Medical,7,2,2,Private,Home Health,2022,11,3,3,1
+Winter,38,Female,West,COPD,4,10,Medical,6,5,2,Private,Home Health,2021,2,1,0,1
+Fall,64,Female,West,Diabetes,4,7,Interventional,6,2,2,Uninsured,Home Health,2022,11,5,5,1
+Summer,76,Male,East,Stroke,5,10,Medical,8,5,3,Medicare,Home Health,2023,7,7,4,1
+Winter,49,Female,East,Pneumonia,3,8,Interventional,8,2,1,Private,Home Health,2023,1,15,6,0
+Fall,21,Male,West,Sepsis,1,9,Medical,4,2,0,Medicaid,Home,2021,10,20,2,1
+Summer,71,Female,East,COPD,5,10,Medical,8,6,2,Medicare,Home Health,2023,6,21,2,0
+Summer,54,Male,North,Hypertension,4,5,Medical,7,3,2,Private,Home Health,2022,7,14,3,1
+Winter,85,Female,North,COPD,6,8,Medical,9,6,2,Medicare,Skilled Nursing,2023,12,20,2,1
+Winter,51,Male,South,Pneumonia,3,8,Medical,4,4,1,Private,Home Health,2022,2,6,6,1
+Spring,52,Female,West,Sepsis,3,10,Conservative,6,4,1,Private,Home Health,2022,3,22,1,1
+Spring,64,Male,South,Hypertension,4,6,Medical,7,3,2,Private,Home Health,2022,4,17,6,0
+Summer,35,Female,North,Kidney Disease,2,7,Interventional,3,2,0,Uninsured,Home Health,2021,7,28,2,0
+Fall,22,Female,Central,Hypertension,1,5,Medical,2,0,0,Private,Home,2021,11,22,0,0
+Summer,57,Female,East,Appendicitis,5,6,Medical,8,4,1,Medicaid,Home Health,2023,8,13,6,1
+Fall,79,Male,South,Fracture,7,8,Interventional,12,5,3,Medicare,Skilled Nursing,2022,11,30,2,1
+Winter,68,Female,Central,COPD,5,11,Interventional,8,9,1,Medicare,Home Health,2022,12,25,6,1
+Spring,35,Male,South,Hypertension,2,4,Conservative,4,1,0,Uninsured,Home Health,2023,5,17,2,0
+Fall,65,Male,South,Diabetes,4,6,Conservative,6,2,1,Private,Home Health,2022,10,4,1,0
+Winter,47,Female,West,Stroke,4,10,Conservative,6,4,1,Medicaid,Home Health,2023,12,29,4,1
+Winter,58,Male,South,COPD,4,8,Interventional,6,4,1,Medicaid,Home Health,2023,2,3,4,1
+Winter,75,Female,West,Pneumonia,6,9,Medical,9,4,2,Medicare,Skilled Nursing,2023,12,23,5,1
+Fall,60,Female,Central,Hypertension,4,7,Surgical,8,3,1,Uninsured,Home Health,2022,10,3,0,1
+Spring,41,Female,South,Kidney Disease,4,8,Medical,7,4,2,Medicaid,Home Health,2021,5,25,1,1
+Summer,28,Male,West,Diabetes,2,7,Medical,4,2,0,Private,Home Health,2023,6,28,2,0
+Winter,93,Female,North,COPD,6,8,Medical,11,6,2,Medicare,Skilled Nursing,2022,1,18,1,1
+Fall,26,Female,North,Appendicitis,2,5,Surgical,5,1,0,Medicaid,Home,2021,10,13,2,0
+Summer,54,Female,South,Kidney Disease,4,8,Conservative,6,2,1,Private,Home Health,2022,6,14,1,1
+Spring,53,Female,East,Hypertension,4,5,Interventional,7,2,1,Private,Home Health,2021,3,13,5,0
+Summer,68,Female,North,Fracture,6,7,Surgical,12,8,2,Medicare,Skilled Nursing,2021,7,24,5,1
+Summer,44,Male,East,Diabetes,3,6,Medical,4,2,2,Private,Home Health,2023,8,26,5,1
+Spring,48,Female,North,Stroke,3,10,Conservative,6,2,1,Uninsured,Home Health,2022,5,27,4,1
+Fall,45,Male,South,Diabetes,4,8,Medical,7,2,1,Private,Home Health,2022,9,29,3,0
+Fall,75,Female,East,Kidney Disease,7,9,Surgical,10,7,4,Medicare,Skilled Nursing,2023,9,21,3,1
+Winter,37,Female,West,Diabetes,3,5,Medical,8,4,2,Medicaid,Home Health,2021,1,16,5,1
+Fall,25,Female,Central,COPD,4,8,Surgical,8,3,2,Medicaid,Home Health,2021,9,3,4,1
+Winter,70,Female,South,COPD,5,10,Interventional,8,4,1,Medicare,Home Health,2021,2,28,6,1
+Summer,50,Male,North,Kidney Disease,3,6,Medical,4,4,1,Private,Home Health,2023,7,8,5,1
+Summer,77,Female,South,Hypertension,5,6,Medical,10,4,4,Medicare,Home Health,2022,6,23,3,1
+Summer,62,Female,East,Appendicitis,4,6,Surgical,7,3,2,Uninsured,Home Health,2021,6,7,0,1
+Summer,67,Male,North,Diabetes,4,6,Medical,6,4,1,Medicare,Home Health,2023,8,23,2,0
+Winter,64,Male,Central,Pneumonia,4,11,Medical,6,2,1,Private,Home Health,2022,1,16,6,0
+Winter,62,Male,East,Diabetes,5,7,Interventional,10,4,1,Private,Home Health,2021,2,26,4,1
+Summer,59,Female,South,Sepsis,6,11,Interventional,9,6,2,Medicaid,Skilled Nursing,2021,8,14,5,1
+Spring,53,Male,West,Sepsis,5,10,Medical,10,4,2,Private,Home Health,2021,4,24,5,1
+Winter,70,Female,East,Heart Failure,5,10,Interventional,10,4,2,Medicare,Home Health,2023,1,22,6,1
+Summer,72,Male,East,Stroke,5,11,Medical,10,6,2,Medicare,Home Health,2023,6,17,5,1
+Fall,78,Female,North,Hypertension,5,5,Conservative,10,6,2,Medicare,Home Health,2023,11,4,5,1
+Fall,45,Female,West,Appendicitis,4,7,Medical,7,2,1,Private,Home Health,2022,10,20,3,0
+Winter,81,Female,North,Stroke,5,12,Medical,8,4,2,Medicare,Home Health,2022,1,25,1,1
+Winter,58,Female,North,Diabetes,5,8,Medical,8,4,1,Medicaid,Home Health,2022,12,10,5,1
+Winter,86,Female,North,Heart Failure,7,12,Conservative,12,6,4,Medicare,Skilled Nursing,2022,2,21,0,1
+Fall,75,Female,West,Sepsis,7,12,Medical,10,7,3,Medicare,Skilled Nursing,2021,9,23,3,1
+Spring,34,Female,North,Hypertension,2,5,Medical,3,1,2,Private,Home Health,2022,3,6,6,1
+Summer,67,Female,Central,COPD,5,8,Interventional,8,5,2,Medicare,Home Health,2023,7,4,1,1
+Winter,51,Female,North,Sepsis,4,12,Interventional,6,6,2,Private,Home Health,2023,2,5,6,1
+Summer,60,Male,Central,COPD,5,10,Conservative,10,4,2,Private,Home Health,2022,7,27,2,1
+Fall,40,Male,North,Diabetes,4,7,Surgical,6,4,1,Medicaid,Home Health,2021,11,29,0,1
+Spring,95,Male,South,Fracture,6,9,Medical,9,6,2,Medicare,Skilled Nursing,2023,3,1,2,1
+Spring,75,Male,Central,Stroke,7,11,Medical,10,5,3,Medicare,Skilled Nursing,2022,3,4,4,1
+Spring,58,Male,North,Diabetes,4,7,Interventional,9,4,1,Private,Home Health,2021,5,8,5,0
+Winter,63,Female,Central,Diabetes,5,6,Interventional,8,4,1,Private,Home Health,2023,12,3,6,1
+Winter,51,Male,East,Pneumonia,3,7,Medical,6,2,1,Private,Home Health,2021,1,23,5,0
+Summer,53,Male,East,Diabetes,4,6,Surgical,9,3,2,Private,Home Health,2021,7,12,0,1
+Winter,57,Male,South,Stroke,5,10,Interventional,8,4,1,Uninsured,Home Health,2022,2,7,0,1
+Fall,59,Female,South,Hypertension,5,6,Surgical,10,4,1,Private,Home Health,2021,11,11,3,0
+Summer,47,Male,West,Diabetes,3,5,Medical,8,2,1,Private,Home Health,2023,7,26,2,1
+Summer,82,Male,East,Stroke,5,11,Surgical,10,5,2,Medicare,Home Health,2023,6,30,4,1
+Winter,67,Male,South,Influenza,4,7,Interventional,8,4,1,Medicare,Home Health,2021,12,13,0,0
+Spring,69,Male,Central,Diabetes,5,6,Medical,8,4,1,Medicare,Home Health,2021,5,20,3,1
+Spring,40,Male,East,Appendicitis,3,7,Medical,4,4,1,Private,Home Health,2023,5,16,1,1
+Winter,52,Female,East,Heart Failure,3,8,Interventional,4,2,2,Medicaid,Home Health,2023,1,23,0,1
+Fall,44,Male,Central,COPD,4,9,Interventional,7,4,1,Private,Home Health,2021,10,30,5,1
+Winter,35,Female,North,Pneumonia,2,8,Medical,5,1,2,Private,Home Health,2022,1,23,6,1
